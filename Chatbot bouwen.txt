@@ -1,0 +1,25 @@
+A benefit of running Prodigy on VM is that you can easily SSH in to make changes. To make this even more convenient you can setup VSCode to run on your VM over SSH. This way you’ll be able to work with Prodigy as if you’re working locally, while also being able to click and drag files via the user interface. (Source: https://prodi.gy/docs/deployment#ssh)
+
+VSCode to run on your VM over SSH
+https://www.youtube.com/watch?v=0Bjx3Ra8PRM
+
+using VM to clean the data
+
+using VM to annotate?
+
+convert text data to jsonl data
+
+/home/gebruiker/anaconda3/envs
+
+category label: SUBSIDIE_INFORMATIE,PROJECT_DETAILS,SAMENVATTING_NODIG,INTERN_DUSI,BELEIDSONTWIKKELING,UITSLAG,HANDLEIDINGEN,INZICHT
+
+download NL model
+text categorize in prodi.gy with NL model
+
+build classification model 
+
+label entities in prodi.gy with NL model
+build NER model 
+
+
+build chatbot

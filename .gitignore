@@ -1,0 +1,9 @@
+# Virtuele omgevingen
+venv/
+.env/
+
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+
