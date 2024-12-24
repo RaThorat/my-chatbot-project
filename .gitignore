@@ -7,3 +7,8 @@ __pycache__/
 *.pyc
 *.pyo
 
+results/
+
+node_modules/
+*.log
+*.tmp
