@@ -25,5 +25,5 @@ import nltk
 nltk.download('punkt')
 
 # Voer de functie uit
-segment_text("cleaned_documents.txt", "segmented_documents.jsonl")
+segment_text("/home/RaThorat/my-chatbot-project/Data/cleaned_documents.txt", "/home/RaThorat/my-chatbot-project/Data/segmented_documents.jsonl")
 

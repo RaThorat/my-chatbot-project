@@ -1,0 +1,72 @@
+2024-12-23 06:10:57,952 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.0.5:5000
+2024-12-23 06:10:57,952 - [33mPress CTRL+C to quit[0m
+2024-12-23 06:10:57,953 -  * Restarting with stat
+2024-12-23 06:11:02,398 -  * Debugger is active!
+2024-12-23 06:11:02,399 -  * Debugger PIN: 536-923-931
+2024-12-23 06:14:22,997 - Gebruikersinvoer: Wat is de subsidie voor Amsterdam?
+2024-12-23 06:14:23,187 - Chatbotantwoord: Ik begrijp je vraag niet helemaal. Kun je het herformuleren?
+2024-12-23 06:14:23,188 - 127.0.0.1 - - [23/Dec/2024 06:14:23] "POST /chat HTTP/1.1" 200 -
+2024-12-23 06:14:47,091 - 127.0.0.1 - - [23/Dec/2024 06:14:47] "GET / HTTP/1.1" 200 -
+2024-12-23 06:14:48,711 - 127.0.0.1 - - [23/Dec/2024 06:14:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 06:15:41,818 - 127.0.0.1 - - [23/Dec/2024 06:15:41] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-12-23 06:15:43,592 - 127.0.0.1 - - [23/Dec/2024 06:15:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 06:18:43,970 - Gebruikersinvoer: Wat is de subsidie voor Amsterdam?
+2024-12-23 06:18:44,044 - Chatbotantwoord: Ik begrijp je vraag niet helemaal. Kun je het herformuleren?
+2024-12-23 06:18:44,044 - 127.0.0.1 - - [23/Dec/2024 06:18:44] "POST /chat HTTP/1.1" 200 -
+2024-12-23 09:09:29,562 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.0.5:5000
+2024-12-23 09:09:29,562 - [33mPress CTRL+C to quit[0m
+2024-12-23 09:09:29,562 -  * Restarting with stat
+2024-12-23 09:09:34,026 -  * Debugger is active!
+2024-12-23 09:09:34,026 -  * Debugger PIN: 536-923-931
+2024-12-23 09:09:53,438 - 127.0.0.1 - - [23/Dec/2024 09:09:53] "GET / HTTP/1.1" 200 -
+2024-12-23 09:09:55,642 - 127.0.0.1 - - [23/Dec/2024 09:09:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 09:10:07,405 - 127.0.0.1 - - [23/Dec/2024 09:10:07] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-12-23 09:20:34,112 - 127.0.0.1 - - [23/Dec/2024 09:20:34] "GET / HTTP/1.1" 200 -
+2024-12-23 09:20:35,705 - 127.0.0.1 - - [23/Dec/2024 09:20:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 09:57:53,623 - 127.0.0.1 - - [23/Dec/2024 09:57:53] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:00:03,111 - 127.0.0.1 - - [23/Dec/2024 10:00:03] "GET / HTTP/1.1" 200 -
+2024-12-23 10:00:04,756 - 127.0.0.1 - - [23/Dec/2024 10:00:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 10:00:22,512 - 127.0.0.1 - - [23/Dec/2024 10:00:22] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:04:57,445 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.0.5:5000
+2024-12-23 10:04:57,445 - [33mPress CTRL+C to quit[0m
+2024-12-23 10:04:57,446 -  * Restarting with stat
+2024-12-23 10:05:01,978 -  * Debugger is active!
+2024-12-23 10:05:01,979 -  * Debugger PIN: 536-923-931
+2024-12-23 10:05:11,839 - 127.0.0.1 - - [23/Dec/2024 10:05:11] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:05:20,560 - 127.0.0.1 - - [23/Dec/2024 10:05:20] "GET / HTTP/1.1" 200 -
+2024-12-23 10:05:44,710 - 127.0.0.1 - - [23/Dec/2024 10:05:44] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:13:05,550 - 127.0.0.1 - - [23/Dec/2024 10:13:05] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:15:53,045 - 127.0.0.1 - - [23/Dec/2024 10:15:53] "GET / HTTP/1.1" 200 -
+2024-12-23 10:15:54,846 - 127.0.0.1 - - [23/Dec/2024 10:15:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-23 10:17:34,810 - 127.0.0.1 - - [23/Dec/2024 10:17:34] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:19:12,149 - 127.0.0.1 - - [23/Dec/2024 10:19:12] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-23 10:20:10,812 - Gebruikersinvoer: Wat is DUS-i?
+2024-12-23 10:20:11,011 - Chatbotantwoord: Ik begrijp je vraag niet helemaal. Kun je het herformuleren?
+2024-12-23 10:20:11,011 - 127.0.0.1 - - [23/Dec/2024 10:20:11] "POST /chat HTTP/1.1" 200 -
+2024-12-24 05:21:19,570 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.0.5:5000
+2024-12-24 05:21:19,570 - [33mPress CTRL+C to quit[0m
+2024-12-24 05:21:19,571 -  * Restarting with stat
+2024-12-24 05:21:24,043 -  * Debugger is active!
+2024-12-24 05:21:24,044 -  * Debugger PIN: 156-538-454
+2024-12-24 05:21:41,236 - 127.0.0.1 - - [24/Dec/2024 05:21:41] "GET / HTTP/1.1" 200 -
+2024-12-24 05:21:42,908 - 127.0.0.1 - - [24/Dec/2024 05:21:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-24 05:27:21,624 - 127.0.0.1 - - [24/Dec/2024 05:27:21] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-12-24 05:27:29,804 - 127.0.0.1 - - [24/Dec/2024 05:27:29] "GET / HTTP/1.1" 200 -
+2024-12-24 05:33:18,628 - 127.0.0.1 - - [24/Dec/2024 05:33:18] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-24 05:34:02,830 - 127.0.0.1 - - [24/Dec/2024 05:34:02] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-24 05:34:24,432 - 127.0.0.1 - - [24/Dec/2024 05:34:24] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-24 05:37:46,349 - 127.0.0.1 - - [24/Dec/2024 05:37:46] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-24 05:54:56,683 -  * Detected change in '/home/RaThorat/my-chatbot-project/scripts/dialoogbeheer.py', reloading
+2024-12-24 05:54:57,398 -  * Restarting with stat
