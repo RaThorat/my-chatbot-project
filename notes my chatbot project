@@ -1,0 +1,54 @@
+To upload repository changes to github
+git remote add origin git@github.com:RaThorat/my-chatbot-project.git
+git branch -M main
+git push -u origin main
+
+To upload repository changes to github from VM
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/myrsakey
+ssh -T git@github.com
+git remote -v
+git remote set-url origin git@github.com:RaThorat/my-chatbot-project.git
+git push origin main
+
+To download repository from github
+used github login to vs code
+
+python3 textcat_model_training.py
+
+
+PROJECT_DETAILS, HANDLEIDINGEN, FORMULIEREN, STAGEAANBIEDERS, INTERN_DUSI, INZICHT, PLAN, UITSLAG
+
+RAM was 256 GB for making textcat model with model GroNLP/bert-base-dutch-cased (110 million parameters). May it was too high. 
+Ik heb GEITje probeerd maar met ook nog RAM van 256 GB de process is 'killed'. Ik wil niet de GPU gebruiken vanwege hoge kosten. 
+
+NER entities: PERSOON, ORGANISATIE, PROJECT, BEDRAG, LOCATIE, TIJDSPERIODE, SUBSIDIE, PRODUCT
+
+---did not work-----
+in my-chatbot-project working directory: prodigy ner.manual_hf test_dataset ./Data/combined_documents.jsonl --label PERSOON, ORGANISATIE, PROJECT, BEDRAG, LOCATIE, TIJDSPERIODE, SUBSIDIE
+
+PRODIGY_HOME=scripts prodigy -F ./scripts/ner_custom.py ner.manual_hf test_dataset ./Data/combined_documents.txt --label PERSOON,ORGANISATIE,PROJECT,BEDRAG,LOCATIE,TIJDSPERIODE,SUBSIDIE
+
+python3 ./scripts/ner_custom.py
+
+--did work
+
+Annotation: prodigy ner.manual ner_dataset nl_core_news_lg ./Data/combined_documents.txt --label PERSOON,ORG,PROJECT,BEDRAG,LOC,TIJD,SUB
+
+Model creation: prodigy train ./scripts --ner ner_dataset --lang nl --label-stats --verbose --eval-split 0.2
+
+
+1. Bouw een eenvoudige HTML-pagina
+Een html-pagina stelt gebruikers in staat om berichten naar je chatbot-API te sturen en antwoorden te ontvangen.
+
+Frontend-code (chatbot.html):
+html
+Code kopiëren
+
+2. Integreer de frontend met de backend
+
+python3 -m http.server 8000 --directory ./frontend
+http://localhost:8000/chatbot.html
+
+scp -r RaThorat@35.239.122.65:/home/RaThorat/my-chatbot-project ~/Downloads
+
