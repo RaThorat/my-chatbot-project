@@ -16,3 +16,9 @@ node_modules/
 models/
 
 frontend/
+
+*.log
+*.zip
+*.csv
+*.tmp
+node_modules/
