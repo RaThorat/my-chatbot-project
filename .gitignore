@@ -12,3 +12,7 @@ results/
 node_modules/
 *.log
 *.tmp
+
+models/
+
+frontend/
