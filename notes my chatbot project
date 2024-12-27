@@ -11,6 +11,13 @@ git remote -v
 git remote set-url origin git@github.com:RaThorat/my-chatbot-project.git
 git push origin main
 
+cd existing_repo
+git init
+git remote add origin https://gitlab.com/dus-i/my-chatbot-project.git
+git branch -M main
+git push -uf origin main
+
+
 To download repository from github
 used github login to vs code
 

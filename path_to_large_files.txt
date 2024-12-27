@@ -1,0 +1,6 @@
+100644 blob b77e1960ae76c9653e89db23c2d6a32473f76e8b    models/textcat_model/model.safetensors
+100644 blob b77e1960ae76c9653e89db23c2d6a32473f76e8b    results/checkpoint-9/model.safetensors
+100644 blob 8d0713e6ad423cc7c02e9a3d00accb5c2c36a143    results/checkpoint-4/model.safetensors
+100644 blob a119fb03f62741fc308c9844b34dae232868f16e    results/checkpoint-4/optimizer.pt
+100644 blob c9d6188edfd0570c5a04c2814f438d5bfa1a1248    results/checkpoint-8/optimizer.pt
+100644 blob 8cc2c1a3d2ba30320619e3a6fefea531ea676a14    results/checkpoint-9/optimizer.pt
