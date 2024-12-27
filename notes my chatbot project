@@ -71,3 +71,16 @@ models/best-model/ner filter=lfs diff=lfs merge=lfs -text
 models/ner_model/vocab/strings.json filter=lfs diff=lfs merge=lfs -text
 *.safetensors filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
+
+git filter-repo --path models/best-model/tok2vec/model --invert-paths
+git filter-repo --path models/best-model/vocab/vectors --invert-paths
+git filter-repo --path models/ner_model/ner/model --invert-paths
+git filter-repo --path models/textcat_model/training_args.bin --invert-paths
+git filter-repo --path models/best-model/ner --invert-paths
+git filter-repo --path models/ner_model/vocab/strings.json --invert-paths
+git filter-repo --path models/textcat_model/model.safetensors --invert-paths
+git filter-repo --path results/checkpoint-9/model.safetensors --invert-paths
+git filter-repo --path results/checkpoint-4/model.safetensors --invert-paths
+git filter-repo --path results/checkpoint-4/optimizer.pt --invert-paths
+git filter-repo --path results/checkpoint-8/optimizer.pt --invert-paths
+git filter-repo --path results/checkpoint-9/optimizer.pt --invert-paths
