@@ -6,3 +6,5 @@ models/ner_model/ner/model filter=lfs diff=lfs merge=lfs -text
 models/textcat_model/training_args.bin filter=lfs diff=lfs merge=lfs -text
 models/best-model/ner filter=lfs diff=lfs merge=lfs -text
 models/ner_model/vocab/strings.json filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
