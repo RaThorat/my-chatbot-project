@@ -19,8 +19,6 @@ results/checkpoint-4/optimizer.pt
 results/checkpoint-8/optimizer.pt
 results/checkpoint-9/optimizer.pt
 
-frontend/
-
 *.log
 *.zip
 *.csv

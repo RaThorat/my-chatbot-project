@@ -7,6 +7,12 @@ To upload repository changes to github from VM
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/myrsakey
 ssh -T git@github.com
+git pull origin main
+git add filename or
+git add .
+git commit -m "message"
+git push origin main
+
 git remote -v
 git remote set-url origin git@github.com:RaThorat/my-chatbot-project.git
 git push origin main

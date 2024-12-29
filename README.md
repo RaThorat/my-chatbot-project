@@ -45,12 +45,20 @@ Modeltraining uitgevoerd met de command-line interface van Prodigy:
 
 prodigy ner.manual ner_dataset nl_core_news_lg ./Data/combined_documents.txt --label PERSOON,ORG,PROJECT,BEDRAG,LOC,TIJD,SUB
 prodigy train ./scripts --ner ner_dataset --lang nl --label-stats --verbose --eval-split 0.2
-Stap 5: Integratie en Testen
-Integratie: Textcat- en NER-modellen gecombineerd in een pipeline (scripts/ner_textcat_pipeline.py). Response van chatbot is geformuleerd (scripts/dialoogbeheer.py). Backend ontwikkeld met Flask (main.py).
 
-Frontend gecreëerd met een eenvoudige HTML-pagina (frontend/chatbot.html) voor gebruikersinteractie.
+Textcat- en NER-modellen gecombineerd in een pipeline (scripts/ner_textcat_pipeline.py). Response van chatbot is geformuleerd (scripts/dialoogbeheer.py).
 
 Testen: scripts/test_pipeline.py, scripts/test_ner.py
+
+### Stap 5: Integreer de frontend met de backend
+
+
+Frontend-code (chatbot.html) is gemaakt en geplaatst in /my-chatbot-project/frontend/chatbot.html.
+Gebruik Python om een lokale webserver te starten voor html pagina:
+python3 -m http.server 8000 --directory ./frontend
+Ga naar http://127.0.0.1:8000/chatbot.html om de chatbot te gebruiken.
+
+Backend ontwikkeld met Flask (main.py).
 
 ## Beperkingen:
 Grote bestanden zoals models/textcat_model/model.safetensors konden niet op GitHub worden gehost vanwege opslaglimieten, noch html pagina voor frontend
