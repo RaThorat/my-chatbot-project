@@ -90,3 +90,13 @@ git filter-repo --path results/checkpoint-4/model.safetensors --invert-paths
 git filter-repo --path results/checkpoint-4/optimizer.pt --invert-paths
 git filter-repo --path results/checkpoint-8/optimizer.pt --invert-paths
 git filter-repo --path results/checkpoint-9/optimizer.pt --invert-paths
+
+gitignore
+results/checkpoint-9/model.safetensors
+results/checkpoint-8/model.safetensors
+results/checkpoint-12/model.safetensors
+results/checkpoint-4/model.safetensors
+results/checkpoint-4/optimizer.pt
+results/checkpoint-8/optimizer.pt
+results/checkpoint-9/optimizer.pt
+results/checkpoint-12/optimizer.pt
