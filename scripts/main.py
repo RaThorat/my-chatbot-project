@@ -1,6 +1,8 @@
 import sys
 import os
 import logging
+from flask_cors import CORS
+
 
 # Voeg de scripts-map toe aan het Python-pad
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -14,7 +16,7 @@ logging.basicConfig(filename="chatbot.log", level=logging.INFO, format="%(asctim
 
 # Flask-app instellen
 app = Flask(__name__)
-
+CORS(app)
 # Rootroute toevoegen
 @app.route("/", methods=["GET"])
 def home():
