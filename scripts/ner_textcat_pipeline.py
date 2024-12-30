@@ -2,7 +2,7 @@ import spacy
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 
 # Laad SpaCy NER-model
-spacy_ner_model_path = "./models/best-model"
+spacy_ner_model_path = "./models/ner_model"
 spacy_nlp = spacy.load(spacy_ner_model_path)
 
 # Laad Hugging Face textcat-model
