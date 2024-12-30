@@ -14,10 +14,12 @@ node_modules/
 
 models/textcat_model/model.safetensors
 results/checkpoint-9/model.safetensors
+results/checkpoint-12/model.safetensors
 results/checkpoint-4/model.safetensors
 results/checkpoint-4/optimizer.pt
 results/checkpoint-8/optimizer.pt
 results/checkpoint-9/optimizer.pt
+results/checkpoint-12/optimizer.pt
 
 *.log
 *.zip

@@ -39,6 +39,8 @@ Bronnen: Prodigy Deployment Guide en GCP Demo.
 ### Stap 4: Modelontwikkeling
 Tekstclassificatie (Textcat) Model: Documenten omgezet naar JSONL-formaat (Data/raw_labeled.jsonl). Subdocumenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 256 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
 
+python3 ./scripts/train_textcat_model.py
+
 Named Entity Recognition (NER) Model: Annotatie met Prodigy (ner.manual) van entiteiten zoals PERSOON, ORGANISATIE, PROJECT, BEDRAG, LOCATIE, TIJDSPERIODE, SUBSIDIE en PRODUCT zijn geïdentificeerd.
 
 Modeltraining uitgevoerd met de command-line interface van Prodigy:
@@ -48,7 +50,7 @@ prodigy train ./models --ner ner_dataset --lang nl --label-stats --verbose --eva
 
 Textcat- en NER-modellen gecombineerd in een pipeline (scripts/ner_textcat_pipeline.py). Response van chatbot is geformuleerd (scripts/dialoogbeheer.py).
 
-Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py
+Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py,
 
 ### Stap 5: Integreer de frontend met de backend
 
