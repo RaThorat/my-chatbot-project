@@ -13,11 +13,18 @@ textcat_pipeline = pipeline("text-classification", model=textcat_model, tokenize
 
 
 def process_user_input(user_input):
-    # NER met SpaCy
-    doc = spacy_nlp(user_input)
-    entities = [{"entity": ent.text, "label": ent.label_} for ent in doc.ents]
+    try:
+        # Verwerk gebruikersinvoer met SpaCy NER
+        doc = spacy_nlp(user_input)
+        entities = [{"entity": ent.text, "label": ent.label_} for ent in doc.ents]
 
-    # Textcat met Hugging Face
-    intent = textcat_pipeline(user_input)[0]
+        # Verwerk intentie met Hugging Face text classification pipeline
+        intent = textcat_pipeline(user_input)[0]
 
-    return {"intent": intent["label"], "entities": entities}
+        # Retourneer intentie en entiteiten
+        return {"intent": intent["label"], "entities": entities}
+    except Exception as e:
+        # Log een fout als de verwerking mislukt
+        logging.error(f"Fout bij NER of intentieherkenning: {e}")
+        return {"intent": "default", "entities": []}
+

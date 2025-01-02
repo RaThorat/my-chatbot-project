@@ -37,7 +37,7 @@ Voordelen: Prodigy eenvoudig beheren via SSH en VSCode, met lokale functionalite
 Bronnen: Prodigy Deployment Guide en GCP Demo.
 
 ### Stap 4: Modelontwikkeling
-Tekstclassificatie (Textcat) Model: Documenten omgezet naar JSONL-formaat (Data/raw_labeled.jsonl). Subdocumenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 256 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
+Tekstclassificatie (Textcat) Model: Documenten omgezet naar JSONL-formaat (Data/raw_labeled.jsonl). Subdocumenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 128 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
 
 python3 ./scripts/train_textcat_model.py
 
@@ -66,4 +66,4 @@ Backend ontwikkeld met Flask (main.py).
 Grote bestanden zoals models/textcat_model/model.safetensors konden niet op GitHub worden gehost vanwege opslaglimieten
 
 ## Kostenindicatie:
-Kosten voor Google Cloud Console: €100 voor RAM-gebruik tijdens modeltraining.
+Kosten voor Google Cloud Console: €156 maandelijks kosten voor VM-gebruik
