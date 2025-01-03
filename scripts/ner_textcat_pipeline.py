@@ -18,8 +18,12 @@ def process_user_input(user_input):
         doc = spacy_nlp(user_input)
         entities = [{"entity": ent.text, "label": ent.label_} for ent in doc.ents]
 
-        # Verwerk intentie met Hugging Face text classification pipeline
-        intent = textcat_pipeline(user_input)[0]
+        # Intentieherkenning met confidence score
+        intent_result = textcat_pipeline(user_input)
+        if intent_result and intent_result[0]["score"] >= 0.7:  # Controleer confidence score
+            intent = intent_result[0]["label"]
+        else:
+            intent = "default"  # Fallback intentie
 
         # Retourneer intentie en entiteiten
         return {"intent": intent["label"], "entities": entities}
