@@ -82,9 +82,9 @@ def process_files(input_folder, temp_folder, output_file):
     combine_text_files(temp_folder, output_file)
 
 # Paden instellen
-input_folder = "Data/raw"  # Map met ruwe bestanden
-temp_folder = "Data/processed"  # Map voor tussenresultaten
-output_file = "Data/combined_documents.txt"  # Uitvoerbestand
+input_folder = "./Data/raw"  # Map met ruwe bestanden
+temp_folder = "./Data/processed"  # Map voor tussenresultaten
+output_file = "./Data/combined_documents.txt"  # Uitvoerbestand
 
 # Verwerk bestanden
 process_files(input_folder, temp_folder, output_file)

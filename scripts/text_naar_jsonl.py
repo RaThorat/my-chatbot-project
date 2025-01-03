@@ -2,33 +2,21 @@ import os
 import re
 import json
 
+# Function to generate labels from filenames
 def generate_labels_from_filenames(directory):
     """
-    Genereer labels op basis van bestandsnamen.
-
-    Parameters:
-    - directory (str): Pad naar de map met bestanden.
-
-    Returns:
-    - list: Een lijst met tuples (bestandsnaam, label).
+    Generate labels based on filenames.
     """
     file_label_mapping = []
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
-            # Genereer een label op basis van de bestandsnaam
             label = generate_label_from_name(filename)
             file_label_mapping.append((filename, label))
     return file_label_mapping
 
 def generate_label_from_name(filename):
     """
-    Genereer een label op basis van de bestandsnaam.
-
-    Parameters:
-    - filename (str): Naam van het bestand.
-
-    Returns:
-    - str: Een gegenereerd label.
+    Generate a label based on the filename.
     """
     filename_lower = filename.lower()
     if "loting" in filename_lower:
@@ -62,29 +50,39 @@ def generate_label_from_name(filename):
     elif "handreiking" in filename_lower:
         return "HANDLEIDINGEN"
     else:
-        return "INZICHT"
+        return "ANDERS"
+        
+def is_valid_segment(segment):
+    """
+    Controleer of een segment geldig is en betekenisvolle inhoud heeft.
+    """
+    segment = segment.strip()
+    # Minimaal aantal woorden en geen numerieke of speciale karakters
+    return (
+        len(segment.split()) > 2 and  # Meer dan 2 woorden
+        not segment.isdigit() and     # Geen volledig numerieke segmenten
+        not all(char in "|-_/." for char in segment)  # Geen segmenten met alleen speciale karakters
+    )
 
 def split_text_into_segments(text):
     """
-    Verdeel tekst in kleinere paragrafen of zinnen.
-
-    Parameters:
-    - text (str): De volledige tekst.
-
-    Returns:
-    - list: Een lijst met tekstsegmenten.
+    Split text into smaller paragraphs or sentences.
     """
-    # Verdeel tekst op basis van lege regels of zinnen
     segments = re.split(r'\n\s*\n|(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', text)
     return [segment.strip() for segment in segments if segment.strip()]
 
-def create_jsonl_from_files(directory, output_file):
+def assign_label_with_model(segment, textcat_pipeline):
     """
-    Maak een JSONL-bestand op basis van bestanden in een map.
+    Assign a label to a segment using a trained textcat model.
+    """
+    classification = textcat_pipeline(segment, truncation=True, max_length=512)
+    if not classification or classification[0]["score"] < 0.7:
+        return "UNKNOWN"
+    return classification[0]["label"]
 
-    Parameters:
-    - directory (str): Pad naar de map met bestanden.
-    - output_file (str): Pad naar het uitvoerbestand.
+def create_jsonl_from_files_with_model(directory, output_file, textcat_pipeline=None):
+    """
+    Maak een JSONL-bestand met filtering en dynamische labels.
     """
     file_label_mapping = generate_labels_from_filenames(directory)
     with open(output_file, 'w', encoding='utf-8') as outfile:
@@ -94,11 +92,24 @@ def create_jsonl_from_files(directory, output_file):
                 text = infile.read().strip()
                 segments = split_text_into_segments(text)
                 for segment in segments:
+                    if not is_valid_segment(segment):
+                        continue  # Filter irrelevante segmenten
+                    if textcat_pipeline:
+                        label = assign_label_with_model(segment, textcat_pipeline)
                     json_line = {"text": segment, "label": label}
                     outfile.write(json.dumps(json_line) + "\n")
     print(f"JSONL-bestand gemaakt: {output_file}")
 
-# Gebruik het script
-directory = "/home/gebruiker/Documenten/git_workspace/my-chatbot-project/Data/raw"
-output_file = "/home/gebruiker/Documenten/git_workspace/my-chatbot-project/Data/raw_labeled.jsonl"
-create_jsonl_from_files(directory, output_file)
+
+# Example Usage
+directory = "/home/RaThorat/my-chatbot-project/Data/processed"
+output_file = "/home/RaThorat/my-chatbot-project/Data/raw_labeled.jsonl"
+
+# Optional: Use an existing textcat model
+# Assuming `textcat_pipeline` is your Hugging Face pipeline for the textcat model
+# Uncomment below if your model is available
+from transformers import pipeline
+textcat_pipeline = pipeline("text-classification", model="/home/RaThorat/my-chatbot-project/models/textcat_model")
+
+# Use the script with or without the textcat model
+create_jsonl_from_files_with_model(directory, output_file, textcat_pipeline=None)
