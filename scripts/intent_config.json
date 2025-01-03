@@ -4,9 +4,10 @@
          "PROJECT_DETAILS": "handle_project_details",
          "FORMULIEREN": "handle_formulieren",
          "STAGEAANBIEDERS": "handle_stageaanbieders",
-         "INTERN_DUSI": "handle_organization_info",
+         "INTERN_DUSI": "handle_intern_dusi",
          "INZICHT": "handle_inzicht",
          "PLAN": "handle_plan",
          "UITSLAG": "handle_uitslag"
+
      }
  }

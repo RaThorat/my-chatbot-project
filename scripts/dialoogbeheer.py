@@ -42,6 +42,17 @@ def handle_project_details(entity_dict):
         project = entity_dict["PROJECT"][0]
         return create_response(f"Informatie over het project {project} is beschikbaar.")
 
+def handle_intern_dusi(entity_dict):
+    if "SUB" in entity_dict:
+        subsidie = entity_dict["SUB"][0]
+        return create_response(f"De subsidie voor {subsidie} is beschikbaar.")
+    if "ORG" in entity_dict:
+        organisatie = entity_dict["ORG"][0]
+        return create_response(f"De informatie over organisatie {organisatie} is beschikbaar.")
+    if "PROJECT" in entity_dict:
+        project = entity_dict["PROJECT"][0]
+        return create_response(f"Informatie over het project {project} is beschikbaar.")
+
 
 def handle_formulieren(entity_dict):
     if "PERSOON" in entity_dict:
