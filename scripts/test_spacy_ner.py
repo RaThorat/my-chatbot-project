@@ -1,7 +1,7 @@
 import spacy
 
 # Laad het SpaCy-model
-model_path = "./models/ner_model"  # Update dit pad als je model ergens anders staat
+model_path = "./models/best-model"  # Update dit pad als je model ergens anders staat
 nlp = spacy.load(model_path)
 
 # Test een voorbeeldtekst

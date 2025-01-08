@@ -4,26 +4,12 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipe
 import logging
 import os
 import sqlite3
-import faiss
-from faiss_search import search_faiss
 
 import warnings
 from torchvision import disable_beta_transforms_warning
 
 warnings.filterwarnings("ignore")
 disable_beta_transforms_warning()
-
-from transformers import AutoModelForCausalLM, AutoTokenizer
-
-# Laad DistilGPT-2
-tokenizer = AutoTokenizer.from_pretrained("distilgpt2")
-model = AutoModelForCausalLM.from_pretrained("distilgpt2")
-
-def generate_answer(prompt, max_length=150):
-    inputs = tokenizer(prompt, return_tensors="pt")
-    outputs = model.generate(inputs.input_ids, max_length=max_length)
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
-
 
 # Logging instellen
 logging.basicConfig(
@@ -124,44 +110,33 @@ def index():
 
 @app.route("/chat", methods=["GET"])
 def chat():
+    """
+    API voor chatqueries.
+    """
     try:
         query = request.args.get("query")
+        logging.info(f"Ontvangen query: {query}")
         if not query:
             return jsonify({"error": "Query parameter is required"}), 400
 
-        # Verwerk intentie en entiteiten
+        # Verwerk query met de pipeline
         model_results = process_user_input(query)
+        logging.info(f"Model resultaten: {model_results}")
 
-        # Database-query resultaten
         db_results = chatbot_query(query)
+        logging.info(f"Database resultaten: {db_results}")
 
-        # FAISS-zoekresultaten
-        faiss_results = search_faiss(query)
-
-        # Combineer FAISS-resultaten met de generatieve pipeline
-        combined_prompt = f"Vraag: {query}\n"
-        if faiss_results:
-            combined_prompt += "Relevante documenten:\n" + "\n".join([doc for doc, _ in faiss_results]) + "\n"
-        # Genereer een antwoord
-        generative_response = generate_answer(combined_prompt)
-
-        # Combineer alles in de JSON-response
+        # Combineer modellenresultaten met database
         response = {
-            "query": query,
-            "intent": model_results["intent"],
-            "entities": model_results["entities"],
-            "faiss_results": [
-                {"document": doc, "score": score} for doc, score in faiss_results
-            ],
-            "db_responses": db_results["responses"],
-            "db_suggestions": db_results["suggestions"],
-            "generative_response": generative_response
+            "intent": model_results["intent"], 
+            "entities": model_results["entities"], 
+            **db_results
         }
+        logging.info(f"Finale response: {response}")
         return jsonify(response)
     except Exception as e:
-        logging.error(f"Error in /chat endpoint: {e}")
+        logging.error(f"Error in /chat endpoint: {e}", exc_info=True)  # exc_info=True voegt traceback toe
         return jsonify({"error": "Er is een fout opgetreden bij het verwerken van uw verzoek. Probeer het later opnieuw."}), 500
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)

@@ -100,3 +100,26 @@ results/checkpoint-4/optimizer.pt
 results/checkpoint-8/optimizer.pt
 results/checkpoint-9/optimizer.pt
 results/checkpoint-12/optimizer.pt
+
+RAG approach
+1. Document Indexing met SQlite
+2. Retrieval + Generatie
+3. Optionele NER-Integratie
+
+Concrete Actiepunten voor Jouw Project
+RAG-pipeline testen:
+
+Gebruik een kleine subset van je documenten om een Elasticsearch- of FAISS-index te bouwen en een retrieval-gedeelte te testen.
+Generatief model kiezen:
+
+Begin met een compact model zoals Flan-T5-small of GPT-Neo 1.3B, afhankelijk van je beschikbare resources.
+Backend-integratie:
+
+Bouw een eenvoudige Flask-backend die vragen ontvangt, passages ophaalt en antwoorden genereert.
+NER integreren:
+
+Gebruik pre-trained NER-modellen voor entiteitsdetectie op relevante passages.
+Schaalbaarheid onderzoeken:
+
+Na succesvolle testing, schaal je de oplossing op naar je volledige dataset.
+curl -X GET "http://127.0.0.1:5000/chat?query=Wat+is+DUS-i?"
