@@ -36,7 +36,7 @@ def generate_answer_with_context(prompt, max_length=150, temperature=0.7):
     outputs = model.generate(
         inputs.input_ids,
         attention_mask=inputs.attention_mask,  # Voeg expliciete attention_mask toe
-        max_length=max_length,
+        max_new_tokens=200,
         temperature=0.6,
         do_sample=True,
         no_repeat_ngram_size=2,
@@ -116,14 +116,13 @@ def chatbot_query(query):
 
         # Als geen resultaten, suggereer alternatieven
         if not results:
-            suggestions = ["Geen relevante informatie gevonden. Probeer andere zoekwoorden."]
-            return {"responses": [], "suggestions": suggestions}
+            return {"responses": []}
 
         # Format resultaten
         formatted_results = [
             f"In bestand {filename}: {content[:200]}..." for filename, content in results
         ]
-        return {"responses": formatted_results, "suggestions": []}
+        return {"responses": formatted_results}
     except Exception as e:
         logging.error(f"Error querying database: {e}")
         return {"responses": [], "suggestions": ["Er is een fout opgetreden bij het zoeken."]}
@@ -142,6 +141,45 @@ def clean_response(response):
     for phrase in ["Ik weet het niet", "Dit is een antwoord"]:
         cleaned = cleaned.replace(phrase, "")
     return cleaned.strip()
+
+def convert_numerics_to_float(data):
+    if isinstance(data, list):
+        return [convert_numerics_to_float(item) for item in data]
+    elif isinstance(data, dict):
+        return {key: convert_numerics_to_float(value) for key, value in data.items()}
+    elif isinstance(data, (float, int)):  # Detecteer numerieke waarden
+        return float(data)  # Converteer naar standaard float
+    return data  # Laat andere types ongemoeid
+
+def truncate_prompt(prompt, max_tokens=2048):
+    """
+    Beperk de prompt tot het maximale aantal tokens door
+    minder relevante FAISS-resultaten te verwijderen.
+    """
+    prompt_lines = prompt.split("\n")
+    while len(" ".join(prompt_lines).split()) > max_tokens and len(prompt_lines) > 3:
+        # Verwijder het minst relevante document (onderste regel van de resultaten)
+        prompt_lines.pop(-2)  # Laatste -2 omdat de structuur "Antwoord: ..." onderaan heeft
+    return "\n".join(prompt_lines)
+
+def remove_duplicate_results(results):
+    """
+    Verwijder dubbele of soortgelijke resultaten op basis van de titel en inhoud.
+    """
+    unique_titles = set()
+    filtered_results = []
+    for title, score in results:
+        if title not in unique_titles:
+            unique_titles.add(title)
+            filtered_results.append((title, score))
+    return filtered_results
+
+def summarize_content(content, max_length=300):
+    """
+    Beperk de lengte van de content tot max_length tekens.
+    Voegt "..." toe als het ingekort wordt.
+    """
+    return (content[:max_length] + "...") if len(content) > max_length else content
 
 
 @app.route("/")
@@ -170,25 +208,61 @@ def chat():
         db_results = chatbot_query(query)
 
         # FAISS-zoekresultaten
-        logging.info(f"Query for FAISS search: {query}")
         faiss_results = search_faiss_with_content(query)
+        
+        # Pas toe na FAISS-resultaten ophalen
         logging.info(f"FAISS Results: {faiss_results}")
+        print(f"FAISS Results Debug: {faiss_results}")
+        logging.info(f"FAISS resultaten: {len(faiss_results)} documenten gevonden.")
+        for idx, (title, score) in enumerate(faiss_results):
+            logging.info(f"Resultaat {idx + 1}: {title[:50]}... (score: {score:.2f})")
 
-
-        # Zorg voor unieke documenten in de prompt
-        unique_docs = list({doc for doc, _ in faiss_results})
-
-        # Bouw de combined_prompt
-        if unique_docs:
-            combined_prompt = f"Vraag: {query}\nRelevante documenten:\n"
-            for idx, doc in enumerate(unique_docs[:3], start=1):
-                combined_prompt += f"{idx}. {doc}\n"
-            combined_prompt += "Antwoord kort en bondig in één zin."
+        # Verwerk FAISS-resultaten
+        if faiss_results:
+            faiss_results = remove_duplicate_results(faiss_results)
+            formatted_faiss_results = [
+            {
+                "title": summarize_content(content) if content else f"Document zonder titel (ID: {idx})",
+                "score": float(score)
+            }
+            for idx, (content, score) in enumerate(faiss_results)
+        ]
         else:
-            # Geen FAISS-resultaten, fallback-prompt
+            formatted_faiss_results = []
+
+
+        # Controleer of er resultaten zijn uit zowel database als FAISS
+        if not db_results["responses"] and not formatted_faiss_results:
+            generative_response = (
+                "Er zijn geen relevante documenten gevonden in de database of FAISS. "
+                "Probeer uw vraag opnieuw te stellen met andere zoekwoorden."
+            )
+            return jsonify({
+                "query": query,
+                "faiss_results": [],
+                "db_responses": [],
+                "generative_response": generative_response
+            })
+
+        # Bouw de prompt op basis van FAISS-resultaten
+        # Beperk het aantal FAISS-resultaten in de prompt
+        # Combineer prompt met maximaal 3-5 relevante resultaten
+        if formatted_faiss_results:
+            combined_prompt = f"Vraag: {query}\nRelevante documenten:\n"
+            for idx, (title, score) in enumerate(faiss_results):
+                safe_title = title[:50] if title else "Geen titel"
+                logging.info(f"Resultaat {idx + 1}: {safe_title}... (score: {score:.2f})")
+            combined_prompt += "Antwoord kort en bondig op basis van bovenstaande documenten."
+        else:
             combined_prompt = f"Vraag: {query}\nGeen relevante documenten gevonden. Antwoord zo goed mogelijk op basis van algemene kennis."
 
         logging.info(f"Combined prompt: {combined_prompt}")
+
+        # Controleer op tokenlimiet en genereer een antwoord
+        # Gebruik de functie
+        if len(combined_prompt.split()) > 2048:
+            combined_prompt = truncate_prompt(combined_prompt, max_tokens=2048)
+            logging.warning("Prompt was too long and has been truncated intelligently.")
 
         # Genereer een antwoord met context
         generative_response = generate_answer_with_context(combined_prompt)
@@ -197,13 +271,11 @@ def chat():
         # Combineer alles in de JSON-response
         response = {
             "query": query,
-            "faiss_results": [
-                {"content": content, "score": score} for content, score in faiss_results
-            ],
+            "faiss_results": formatted_faiss_results,
             "db_responses": db_results["responses"],
-            "db_suggestions": db_results["suggestions"],
             "generative_response": generative_response
         }
+        response = convert_numerics_to_float(response)
 
         # Voeg intenties en entiteiten toe indien aanwezig
         if model_results["intent"] != "default":
@@ -213,6 +285,8 @@ def chat():
             response["entities"] = model_results["entities"]
         else:
             logging.info("Geen entiteiten gevonden voor query.")
+            response["entities"] = [{"entity": "geen specifieke entiteiten", "label": "N/A"}]
+
 
         return jsonify(response)
     except Exception as e:
