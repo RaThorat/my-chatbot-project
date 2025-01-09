@@ -1,39 +1,34 @@
-# my-chatbot-project
+# README: Chatbot met Retrieval-Augmented Generation (RAG)
 
 ## Inleiding
-De Dienst Uitvoering Subsidies aan Instellingen (DUS-I) streeft naar innovatieve oplossingen om interne processen efficiënter te maken en de dienstverlening aan medewerkers te verbeteren. In lijn met dit streven is een pilot gestart om een chatbot te ontwikkelen die veelgestelde vragen van medewerkers beantwoordt op basis van openbare informatie, zoals beleidsdocumenten en nieuwsberichten. Dit rapport biedt een overzicht van de doelstellingen, aanpak, technische details en verwachte voordelen van deze pilot.
+De Dienst Uitvoering Subsidies aan Instellingen (DUS-I) streeft naar innovatieve oplossingen om interne processen efficiënter te maken en de dienstverlening te verbeteren. Dit project combineert een chatbot met een Retrieval-Augmented Generation (RAG)-architectuur om vragen te beantwoorden op basis van zowel opgehaalde documentfragmenten als gegenereerde antwoorden.
+
+Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openbare gegevens van DUS-I (zoals beleidsdocumenten en nieuwsberichten) om medewerkers snel en accuraat te informeren.
 
 ## Doelstellingen
-De focus van deze pilot ligt op zelfbouw en minimalisering van afhankelijkheid van externe platforms zoals Microsoft of van ICT leveranciers. De pilot heeft de volgende doelen:
 
-### Demo aan Bestuur: 
-Een werkende chatbot (proof of concept) tonen die vragen beantwoordt met behulp van informatie op de website van DUS-I, zoals beleidsstukken en nieuwsartikelen (bijv. https://www.dus-i.nl/documenten).
+1. **Demo aan het Bestuur**: Een werkende chatbot tonen die vragen kan beantwoorden met behulp van informatie van DUS-I’s openbare website (bijv. https://www.dus-i.nl/documenten).
+2. **Privacybescherming**: Het waarborgen van gegevensbescherming door het uitvoeren van een Data Protection Impact Assessment (DPIA).
+3. **Efficiëntie**: Tijd besparen door snel informatie te leveren aan medewerkers via AI.
+4. **Schaalbaarheid**: Het model uitbreiden met nieuwe datasets en functionaliteiten.
+5. **Zelfbouw**: Minimaliseren van afhankelijkheid van externe platforms zoals Microsoft of ICT-leveranciers.
 
-### Privacybescherming: 
-Een Data Protection Impact Assessment (DPIA) mogelijk maken door de ervaring en mening.
+---
 
-### Efficiëntie voor Medewerkers: 
-Mening van medewerkers in bouwen van AI meenemen.
+## Architectuur en Aanpak
 
-### Schaalbaarheid: 
-Mogelijkheid controleren tot uitbreiding met nieuwe datasets en functionaliteiten met mogelijkheid tot cloud hosting.
-
-## Aanpak en Stappenplan
 ### Stap 1: Use Case Bepaling
-Identificeren van Vragen: Veelvoorkomende onderwerpen zoals samenvattingen van nieuwsberichten en informatie over subsidieregelingen.
-
-Output Bepalen: Korte antwoorden, informatie of verwijzingen naar relevante documenten.
+- **Identificatie van vragen**: Veelvoorkomende onderwerpen zijn subsidie-informatie, beleidsontwikkelingen en handleidingen.
+- **Output**: Korte antwoorden met verwijzingen naar documenten of gegenereerde tekst.
 
 ### Stap 2: Dataset Voorbereiding
-Verzameling van Data: 35 openbare documenten van DUS-I (https://www.dus-i.nl/documenten) geselecteerd, zoals handleidingen, bekendmakingen en subsidie-informatie.
+- **Bronnen**: 35 openbare documenten verzameld van de DUS-I-website.
+- **Opschoning**: Documenten gecombineerd en ruis verwijderd met scripts (`combine_text_files.py`).
+- **Indexeren**: Gecombineerde documenten (`Data/combined_documents.txt`) zijn verwerkt en opgeslagen in een SQLite-database (`documents.db`).
 
-Opschoning van Data: Ruis en niet-relevante informatie verwijderd (Data/cleaned_documents.txt). Documenten gecombineerd (scripts/combine_text_files.py) in Data/combined_documents.txt. Voorlopig is geen aandacht besteed aan het voorkomen van gevoelige gegevens; dit wordt meegenomen in de DPIA-evaluatie.
-
-### Stap 3: Gebruik van Virtual Machine
-Specificaties: Debian GNU/Linux 12 (bookworm) met 2 vCPU’s, 8.25 GB RAM, en 70 GB opslag.
-
-Voordelen: Prodigy eenvoudig beheren via SSH en VSCode, met lokale functionaliteiten zoals slepen en bewerken van bestanden.
-
+### Stap 3: Virtual Machine
+- **Specificaties**: Debian GNU/Linux 12, 2 vCPU's, 8.25 GB RAM, 70 GB opslag.
+- **Voordelen**: Prodigy en andere tools kunnen lokaal worden gehost en beheerd via SSH.
 Bronnen: Prodigy Deployment Guide en GCP Demo.
 
 ### Stap 4: Modelontwikkeling
@@ -52,18 +47,68 @@ Textcat- en NER-modellen gecombineerd in een pipeline (scripts/ner_textcat_pipel
 
 Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py,
 
-### Stap 5: Integreer de frontend met de backend
+#### Embeddings en Vectorindex
+- Documenten omgezet naar embeddings met `all-MiniLM-L6-v2`.
+- FAISS gebruikt voor snelle zoekopdrachten in de vectorruimte.
 
+### Stap 5: Retrieval-Augmented Generation (RAG)
+- FAISS opgezet om documenten op te halen op basis van relevantie.
+- Chatbot integreert:
+  1. **Intentieherkenning**: Begrijpen van de vraag via Textcat.
+  2. **Entiteitenherkenning**: Uitlezen van sleutelbegrippen via NER.
+  3. **Documentophaling**: FAISS zoekt relevante documenten.
+  4. **Generatief antwoord**: GPT-Neo 125M genereert een antwoord met opgehaalde documenten als context.
 
-Frontend-code (chatbot.html) is gemaakt en geplaatst in /my-chatbot-project/frontend/chatbot.html.
-Gebruik Python om een lokale webserver te starten voor html pagina:
-python3 -m http.server 8000 --directory ./frontend
-Ga naar http://127.0.0.1:8000/chatbot.html om de chatbot te gebruiken.
+### Stap 6: Frontend- en Backendintegratie
+- **Frontend**: Een interactieve webinterface gebouwd met HTML en JavaScript.
+- **Backend**: Flask-server die:
+  - Intenties en entiteiten verwerkt.
+  - Documenten zoekt in SQLite en FAISS.
+  - Contextuele antwoorden genereert met GPT-Neo 125M.
 
-Backend ontwikkeld met Flask (main.py).
+---
 
-## Beperkingen:
-Grote bestanden zoals models/textcat_model/model.safetensors konden niet op GitHub worden gehost vanwege opslaglimieten
+## Hoe te Gebruiken
 
-## Kostenindicatie:
-Kosten voor Google Cloud Console: €156 maandelijks kosten voor VM-gebruik
+1. **Installatie**:
+   - Clone de repository.
+   - Installeer vereisten: `pip install -r requirements.txt`.
+
+2. **Data Voorbereiden**:
+   - Plaats ruwe documenten in `./Data/raw`.
+   - Combineer en indexeer met de scripts in `./scripts`.
+
+3. **FAISS Index Bouwen**:
+   ```bash
+   python3 ./scripts/faiss_index.py
+   ```
+
+4. **Start de Webapp**:
+   ```bash
+   python3 ./scripts/webapp.py
+   ```
+   Open de browser op [http://127.0.0.1:5000](http://127.0.0.1:5000).
+
+5. **Test de Pipeline**:
+   ```bash
+   python3 ./scripts/test_pipeline.py
+   ```
+
+---
+
+## Beperkingen
+
+- **Opslaglimiet**: Grote modellen zoals `textcat_model` kunnen niet direct worden gehost op GitHub.
+- **Generatiekwaliteit**: GPT-Neo 125M kan beperkte antwoorden geven bij complexe vragen.
+
+---
+
+## Kosten
+- Kosten voor Google Cloud VM: €156 per maand.
+
+---
+
+## Toekomstige Uitbreidingen
+- Integreren van geavanceerdere modellen zoals GPT-3 voor betere antwoordkwaliteit.
+- Ondersteuning voor meerdere talen.
+- Hosting op schaalbare cloudomgevingen.

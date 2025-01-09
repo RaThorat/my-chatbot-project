@@ -1,8 +1,8 @@
-from faiss_search import search_faiss
+from faiss_search import search_faiss_with_content
 
 query = "Wat doet DUS-i?"
-results = search_faiss(query)
+results = search_faiss_with_content(query)
 
 print("Zoekresultaten:")
-for doc_id, distance in results:
-    print(f"Document ID: {doc_id}, Afstand: {distance}")
+for content, distance in results:
+    print(f"Content: {content[:100]}..., Afstand: {distance}")

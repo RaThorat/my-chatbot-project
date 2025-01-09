@@ -59,8 +59,9 @@ sendBtn.addEventListener("click", async () => {
             appendMessage("Bot: Gedetecteerde entiteiten:");
             data.entities.forEach(entity => {
                 appendMessage(`- ${entity.entity} (${entity.label})`);
-            });
+         });
         }
+
 
         // Toon FAISS-resultaten
         if (data.faiss_results && data.faiss_results.length > 0) {

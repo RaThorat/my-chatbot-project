@@ -1,4 +1,4 @@
-from scripts.ner_textcat_pipeline import process_user_input
+from ner_textcat_pipeline import process_user_input
 
 # Testinput
 input_text = "Wat is DUS-i?"
