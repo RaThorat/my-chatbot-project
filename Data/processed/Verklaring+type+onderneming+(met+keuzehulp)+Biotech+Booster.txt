@@ -1,226 +1,227 @@
-Verklaring type onderneming
-Subsidieregeling Biotech Booster
-
-In de subsidieregeling Biotech Booster worden 3 typen onderneming 
-onderscheiden aan de hand van hun omvang: kleine, middelgrote en 
-grote ondernemingen. De subsidieontvanger verklaart een middel­
-grote of kleine onderneming te zijn volgens aanbeveling 2003/361/EG 
-van de Europese Commissie. 
-
-Vul de ‘Keuzehulp type onderneming’ op de volgende pagina in om 
-te bepalen in welke categorie u valt.
-Bekijk voor meer informatie de ‘Gebruikersgids bij de definitie van 
-kmo’s’ van de Europese Commissie. 
-
-Ondertekende verklaart dat de verklaring is ingevuld voor de 
-onder neming in haar geheel, inclusief verbonden ondernemingen 
-en partner ondernemingen, ook buiten Nederland.
-
-1 
-
-Gegevens onderneming
-
-1.1  Naam onderneming
-
-1.2  Vestigingsadres
-
-1.3  Postcode en plaats
-
-1.4  Aantal fte van werkzame 
-
-personen
-
-1.5  Laatst afgesloten boekjaar
-
-1.6 
-
-Jaaromzet in €
-
-1.7  Balanstotaal in €
-
-|
-
-|
-
-|
-
-|
-
-1.8  Mijn ondernemening is een
-
-  Kleine onderneming
-
-|
-
-  Middelgrote onderneming
-
-  Grote onderneming
-
-Gegevens aanvrager
-
-|
-
-|
-
-Ondertekening
-
-Dag 
-
-  maand   
-
-jaar
-
-2 
-
-3 
-
-2.1  Naam
-
-2.2  Functie
-
-3.1  Datum
-
-3.2  Handtekening
-
-|
-
-dus-i_54.01
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-2 van 2
-
-Stroomschema MKB
-
-1  Heeft uw onderneming 250 medewerkers (fte) of meer?
-
-Nee. Ga door met vraag 2.
-
-Ja. Ga door naar uitkomst C.
-
-2  Bedraagt de jaaromzet meer dan € 50 miljoen? En bedraagt het balanstotaal meer dan 
-€ 43 miljoen?
-
-Nee. Ga door met vraag 3.
-
-Ja. Ga door naar uitkomst C.
-
-3  Hebben een of meer overheidsinstanties of openbare lichamen gezamenlijk direct of indirect 
-zeggenschap over >25% van kapitaal of stemrechten van uw onderneming?
-Uitgezonderd: openbare participatiemaatschappijen, durfkapitaalmaatschappijen, universiteiten of 
-onderzoeks centra zonder winstoogmerk, institutionele investeerders, regionale ontwikkelingsfondsen en 
-lokale overheden met een jaarlijkse begroting van minder dan € 10 miljoen en minder dan 5.000 inwoners.
-
-Nee. Ga door met vraag 4.
-
-Ja. Ga door naar uitkomst C.
-
-4  Bezit uw onderneming meer dan 50% van de stemrechten van een andere onderneming?  
-Of bezit een andere onderneming, of groep van verbonden ondernemingen gezamenlijk, 
-meer dan 50% van de stemrechten van uw onderneming?
-
-Nee. Ga door met vraag 5.
-
-Ja. Ga door naar vraag 4A.
-
-5  Bezit uw onderneming, alleen of samen met verbonden ondernemingen, 25% of meer van 
-het kapitaal of de stemrechten van een andere onderneming?
-Uitgezonderd: openbare participatiemaatschappijen, durfkapitaalmaatschappijen, universiteiten of 
-onderzoeks centra zonder winstoogmerk, institutionele investeerders, regionale ontwikkelingsfondsen en 
-lokale overheden met een jaarlijkse begroting van minder dan € 10 miljoen en minder dan 5.000 inwoners.
-
-Of bezitten een of meerdere verbonden ondernemingen, 25% of meer van het kapitaal of 
-de stemrechten van uw onderneming?
-
-Nee. Ga door met vraag 6.
-
-Ja. Ga door naar vraag 5A.
-
-6  Heeft uw onderneming 50 medewerkers (fte) of meer?
-
-Nee. Ga door met vraag 7.
-
-Ja. Ga door naar uitkomst B.
-
-7  Bedraagt de jaaromzet en het balanstotaal meer dan € 10 miljoen?
-
-Nee. Ga door naar uitkomst A.
-
-Ja. Ga door naar uitkomst B.
-
-Uitkomsten
-
-A  Uw onderneming is een 
-kleine onderneming.
-
-B  Uw onderneming is een 
-middelgrote onderneming.
-
-C  Uw onderneming is 
-geen mkb-onder neming of 
-een grote onderneming.
-
-4A  Uw onderneming is een verbonden 
-onderneming.
-Bij het berekenen van het aantal mede­
-werkers, jaaromzet en balanstotaal dient 
-u de gegevens van alle verbonden onder­
-nemingen op te tellen bij de eigen gegevens 
-(100% meetellen).
-
-Indien uw onderneming ook partneronder­
-nemingen heeft (zie vraag 5) dient ook de 
-gegevens van de partnerondernemingen in 
-evenredigheid met het aandeel in kapitaal of 
-stemrechten (hoogste van de percentages) 
-op te tellen bij de eigen gegevens.
-
-5A  Uw onderneming is een 
-partneronderneming.
-Bij het berekenen van het aantal mede­
-werkers, jaaromzet en balanstotaal dient u 
-de gegevens van de partneronderneming in 
-evenredigheid met het aandeel in kapitaal of 
-stemrechten (hoogste van de percentages) 
-op te tellen bij de eigen gegevens.
-
-Bereken het aantal fte, jaaromzet en 
-balans totaal van uw onderneming inclusief 
-verbonden onder nemingen en partner onder­
-nemingen. Blijven de opgetelde waardes van 
-uw onderneming onder de bij vraag 1 en 2 
-genoemde grenzen?
-
-Nee. Ga door naar 
-uitkomst C.
-
-Ja. Ga door met 
-vraag 6.
-
-
+### Verklaring type onderneming
+### Subsidieregeling Biotech Booster
+### 
+### In de subsidieregeling Biotech Booster worden 3 typen onderneming
+### onderscheiden aan de hand van hun omvang: kleine, middelgrote en
+### grote ondernemingen. De subsidieontvanger verklaart een middel­
+### grote of kleine onderneming te zijn volgens aanbeveling 2003/361/EG
+### van de Europese Commissie.
+### 
+### Vul de ‘Keuzehulp type onderneming’ op de volgende pagina in om
+### te bepalen in welke categorie u valt.
+### Bekijk voor meer informatie de ‘Gebruikersgids bij de definitie van
+### kmo’s’ van de Europese Commissie.
+### 
+### Ondertekende verklaart dat de verklaring is ingevuld voor de
+### onder neming in haar geheel, inclusief verbonden ondernemingen
+### en partner ondernemingen, ook buiten Nederland.
+### 
+### 1
+### 
+### Gegevens onderneming
+### 
+### 1.1  Naam onderneming
+### 
+### 1.2  Vestigingsadres
+### 
+### 1.3  Postcode en plaats
+### 
+### 1.4  Aantal fte van werkzame
+### 
+### personen
+### 
+### 1.5  Laatst afgesloten boekjaar
+### 
+### 1.6
+### 
+### Jaaromzet in €
+### 
+### 1.7  Balanstotaal in €
+### 
+### |
+### 
+### |
+### 
+### |
+### 
+### |
+### 
+### 1.8  Mijn ondernemening is een
+### 
+### Kleine onderneming
+### 
+### |
+### 
+### Middelgrote onderneming
+### 
+### Grote onderneming
+### 
+### Gegevens aanvrager
+### 
+### |
+### 
+### |
+### 
+### Ondertekening
+### 
+### Dag
+### 
+### maand
+### 
+### jaar
+### 
+### 2
+### 
+### 3
+### 
+### 2.1  Naam
+### 
+### 2.2  Functie
+### 
+### 3.1  Datum
+### 
+### 3.2  Handtekening
+### 
+### |
+### 
+### dus-i_54.01
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 2 van 2
+### 
+### Stroomschema MKB
+### 
+### 1  Heeft uw onderneming 250 medewerkers (fte) of meer?
+### 
+### Nee. Ga door met vraag 2.
+### 
+### Ja. Ga door naar uitkomst C.
+### 
+### 2  Bedraagt de jaaromzet meer dan € 50 miljoen? En bedraagt het balanstotaal meer dan
+### € 43 miljoen?
+### 
+### Nee. Ga door met vraag 3.
+### 
+### Ja. Ga door naar uitkomst C.
+### 
+### 3  Hebben een of meer overheidsinstanties of openbare lichamen gezamenlijk direct of indirect
+### zeggenschap over >25% van kapitaal of stemrechten van uw onderneming?
+### Uitgezonderd: openbare participatiemaatschappijen, durfkapitaalmaatschappijen, universiteiten of
+### onderzoeks centra zonder winstoogmerk, institutionele investeerders, regionale ontwikkelingsfondsen en
+### lokale overheden met een jaarlijkse begroting van minder dan € 10 miljoen en minder dan 5.000 inwoners.
+### 
+### Nee. Ga door met vraag 4.
+### 
+### Ja. Ga door naar uitkomst C.
+### 
+### 4  Bezit uw onderneming meer dan 50% van de stemrechten van een andere onderneming?
+### Of bezit een andere onderneming, of groep van verbonden ondernemingen gezamenlijk,
+### meer dan 50% van de stemrechten van uw onderneming?
+### 
+### Nee. Ga door met vraag 5.
+### 
+### Ja. Ga door naar vraag 4A.
+### 
+### 5  Bezit uw onderneming, alleen of samen met verbonden ondernemingen, 25% of meer van
+### het kapitaal of de stemrechten van een andere onderneming?
+### Uitgezonderd: openbare participatiemaatschappijen, durfkapitaalmaatschappijen, universiteiten of
+### onderzoeks centra zonder winstoogmerk, institutionele investeerders, regionale ontwikkelingsfondsen en
+### lokale overheden met een jaarlijkse begroting van minder dan € 10 miljoen en minder dan 5.000 inwoners.
+### 
+### Of bezitten een of meerdere verbonden ondernemingen, 25% of meer van het kapitaal of
+### de stemrechten van uw onderneming?
+### 
+### Nee. Ga door met vraag 6.
+### 
+### Ja. Ga door naar vraag 5A.
+### 
+### 6  Heeft uw onderneming 50 medewerkers (fte) of meer?
+### 
+### Nee. Ga door met vraag 7.
+### 
+### Ja. Ga door naar uitkomst B.
+### 
+### 7  Bedraagt de jaaromzet en het balanstotaal meer dan € 10 miljoen?
+### 
+### Nee. Ga door naar uitkomst A.
+### 
+### Ja. Ga door naar uitkomst B.
+### 
+### Uitkomsten
+### 
+### A  Uw onderneming is een
+### kleine onderneming.
+### 
+### B  Uw onderneming is een
+### middelgrote onderneming.
+### 
+### C  Uw onderneming is
+### geen mkb-onder neming of
+### een grote onderneming.
+### 
+### 4A  Uw onderneming is een verbonden
+### onderneming.
+### Bij het berekenen van het aantal mede­
+### werkers, jaaromzet en balanstotaal dient
+### u de gegevens van alle verbonden onder­
+### nemingen op te tellen bij de eigen gegevens
+### (100% meetellen).
+### 
+### Indien uw onderneming ook partneronder­
+### nemingen heeft (zie vraag 5) dient ook de
+### gegevens van de partnerondernemingen in
+### evenredigheid met het aandeel in kapitaal of
+### stemrechten (hoogste van de percentages)
+### op te tellen bij de eigen gegevens.
+### 
+### 5A  Uw onderneming is een
+### partneronderneming.
+### Bij het berekenen van het aantal mede­
+### werkers, jaaromzet en balanstotaal dient u
+### de gegevens van de partneronderneming in
+### evenredigheid met het aandeel in kapitaal of
+### stemrechten (hoogste van de percentages)
+### op te tellen bij de eigen gegevens.
+### 
+### Bereken het aantal fte, jaaromzet en
+### balans totaal van uw onderneming inclusief
+### verbonden onder nemingen en partner onder­
+### nemingen. Blijven de opgetelde waardes van
+### uw onderneming onder de bij vraag 1 en 2
+### genoemde grenzen?
+### 
+### Nee. Ga door naar
+### uitkomst C.
+### 
+### Ja. Ga door met
+### vraag 6.
+### 
+### 

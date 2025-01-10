@@ -162,18 +162,6 @@ def truncate_prompt(prompt, max_tokens=2048):
         prompt_lines.pop(-2)  # Laatste -2 omdat de structuur "Antwoord: ..." onderaan heeft
     return "\n".join(prompt_lines)
 
-def remove_duplicate_results(results):
-    """
-    Verwijder dubbele of soortgelijke resultaten op basis van de titel en inhoud.
-    """
-    unique_titles = set()
-    filtered_results = []
-    for title, score in results:
-        if title not in unique_titles:
-            unique_titles.add(title)
-            filtered_results.append((title, score))
-    return filtered_results
-
 def summarize_content(content, max_length=300):
     """
     Beperk de lengte van de content tot max_length tekens.
@@ -209,24 +197,24 @@ def chat():
 
         # FAISS-zoekresultaten
         faiss_results = search_faiss_with_content(query)
-        
         # Pas toe na FAISS-resultaten ophalen
         logging.info(f"FAISS Results: {faiss_results}")
-        print(f"FAISS Results Debug: {faiss_results}")
+        #print(f"FAISS Results Debug: {faiss_results}")
         logging.info(f"FAISS resultaten: {len(faiss_results)} documenten gevonden.")
         for idx, (title, score) in enumerate(faiss_results):
             logging.info(f"Resultaat {idx + 1}: {title[:50]}... (score: {score:.2f})")
 
         # Verwerk FAISS-resultaten
         if faiss_results:
-            faiss_results = remove_duplicate_results(faiss_results)
+            
             formatted_faiss_results = [
             {
-                "title": summarize_content(content) if content else f"Document zonder titel (ID: {idx})",
+                "title": summarize_content(content) if content else f"Geen titel beschikbaar (ID: {idx})",
                 "score": float(score)
             }
-            for idx, (content, score) in enumerate(faiss_results)
+            for idx, (content, score) in enumerate(faiss_results) if content
         ]
+
         else:
             formatted_faiss_results = []
 
@@ -248,11 +236,10 @@ def chat():
         # Beperk het aantal FAISS-resultaten in de prompt
         # Combineer prompt met maximaal 3-5 relevante resultaten
         if formatted_faiss_results:
-            combined_prompt = f"Vraag: {query}\nRelevante documenten:\n"
-            for idx, (title, score) in enumerate(faiss_results):
-                safe_title = title[:50] if title else "Geen titel"
-                logging.info(f"Resultaat {idx + 1}: {safe_title}... (score: {score:.2f})")
-            combined_prompt += "Antwoord kort en bondig op basis van bovenstaande documenten."
+            combined_prompt += "\n### Markdown-inhoud:\n"
+            for idx, result in enumerate(formatted_faiss_results[:5], start=1):
+                combined_prompt += f"{idx}. {result['content']}\n"
+            combined_prompt += "Antwoord op basis van bovenstaande Markdown-informatie."
         else:
             combined_prompt = f"Vraag: {query}\nGeen relevante documenten gevonden. Antwoord zo goed mogelijk op basis van algemene kennis."
 

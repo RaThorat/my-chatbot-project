@@ -8,7 +8,7 @@ Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openba
 ## Doelstellingen
 
 1. **Demo aan het Bestuur**: Een werkende chatbot tonen die vragen kan beantwoorden met behulp van informatie van DUS-I’s openbare website (bijv. https://www.dus-i.nl/documenten).
-2. **Privacybescherming**: Het waarborgen van gegevensbescherming door het uitvoeren van een Data Protection Impact Assessment (DPIA).
+2. **Privacybescherming**: Het bieden van mogelijkheid voor het uitvoeren van een Data Protection Impact Assessment (DPIA).
 3. **Efficiëntie**: Tijd besparen door snel informatie te leveren aan medewerkers via AI.
 4. **Schaalbaarheid**: Het model uitbreiden met nieuwe datasets en functionaliteiten.
 5. **Zelfbouw**: Minimaliseren van afhankelijkheid van externe platforms zoals Microsoft of ICT-leveranciers.
@@ -22,8 +22,8 @@ Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openba
 - **Output**: Korte antwoorden met verwijzingen naar documenten of gegenereerde tekst.
 
 ### Stap 2: Dataset Voorbereiding
-- **Bronnen**: 35 openbare documenten verzameld van de DUS-I-website.
-- **Opschoning**: Documenten gecombineerd en ruis verwijderd met scripts (`combine_text_files.py`).
+- **Bronnen**: 129 openbare documenten verzameld van de DUS-I-website.
+- **Opschoning**: Documenten gecombineerd en ruis verwijderd met scripts.
 - **Indexeren**: Gecombineerde documenten (`Data/combined_documents.txt`) zijn verwerkt en opgeslagen in een SQLite-database (`documents.db`).
 
 ### Stap 3: Virtual Machine
@@ -88,11 +88,6 @@ Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py,
    python3 ./scripts/webapp.py
    ```
    Open de browser op [http://127.0.0.1:5000](http://127.0.0.1:5000).
-
-5. **Test de Pipeline**:
-   ```bash
-   python3 ./scripts/test_pipeline.py
-   ```
 
 ---
 

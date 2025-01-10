@@ -1,106 +1,107 @@
-Informatie over activiteiten en begroting 
-
-Toelichting bij de activiteiten  
-Voor iedere activiteit waarvoor u subsidie aanvraagt beschrijft u:  
-
-  de aard, omvang, duur en wijze van uitvoering van de activiteiten, en 
-  de met de activiteiten na te streven doelstellingen, resultaten of producten.  
-
-Ook kunt u bij uw aanvraag een uitgebreid activiteitenplan meesturen. Dit is niet verplicht. 
-
-Toelichting bij de begroting  
-Voor iedere activiteit geeft u een begroting op. Deze moet u nauwkeurig en reëel berekenen. De 
-hoogte van het subsidiebedrag wordt berekend op basis van de begroting van de kosten die nodig 
-zijn voor het uitvoeren van uw activiteiten. Hierbij wordt rekening gehouden met de eigen bijdrage 
-en bijdragen van derden.  U moet de kosten en opbrengsten kort beschrijven. 
-
-Personeel 
-  Vermeld hier alle personele kosten (van uw eigen personeel in loondienst) voor de activiteit. 
-  De indexatie vanwege de Overheidsbijdrage in de Arbeidskostenontwikkeling (OVA) mag niet 
-
-worden opgegeven. De OVA wordt later in het jaar toegekend. 
-
-  De kosten voor externe inhuur vallen niet onder eigen personeel en geeft u op bij ‘Overige 
-
- 
-
-kosten’ 
-In de toelichting geeft u inzicht in het aantal fte per functie maal de kosten. Het maximum tarief 
-is vastgesteld. Het maximale aantal fte per functie en het maximale jaartarief per functie per 
-organisatie is ook vastgesteld. Dit staat in de subsidieregeling. 
-
-Materieel 
-  Vermeld alle materiële kosten, bijvoorbeeld drukwerkkosten, software of kosten bijeenkomsten, 
-
-voor de activiteit. 
-
-  Maak de kosten inzichtelijk en licht de kosten cijfermatig toe. Eventuele offertes kunnen worden 
-
-meegestuurd. 
-
-  Onvoorziene kosten kunnen niet worden opgegeven. 
-
-Overige kosten/ kosten derden 
-  Vermeld alle kosten die niet vallen onder de personele of materiële kosten. Dit zijn bijvoorbeeld 
-
-accountantskosten, externe inhuur en trainingen. 
-
-  Maak de kosten inzichtelijk en licht de kosten cijfermatig toe. Eventuele offertes kunnen worden 
-
-meegestuurd. 
-
-  Vermeld bij externe inhuur het aantal uren maal het uurtarief. 
-  Onvoorziene kosten en kosten voor (toevoegingen aan) voorzieningen en reserves kunnen niet 
-
-worden opgegeven. Dit zijn bijvoorbeeld wachtgelden. 
-
-Eigen bijdrage  
-  Dit is de bijdrage van de subsidieaanvrager zelf voor de activiteit.  
-  Vermeld de eigen bijdrage aan de activiteit. Deze wordt ingebracht vanuit de eigen middelen van 
-
-uw organisatie en is afkomstig uit het eigen vermogen.  
-
-  Bijdragen van deelnemers aan activiteiten worden ook wel ‘eigen bijdragen’ genoemd, maar 
-
-deze geeft u op onder de bijdragen van derden. 
-
- 
- 
- 
- 
- 
- 
-Bijdragen van derden 
-  Dit zijn bijdragen die u niet ontvangt vanuit de subsidie en die u gebruikt om de activiteit uit te 
-voeren. Dit zijn bijvoorbeeld renteopbrengsten, contributies, geoormerkte schenkingen en 
-legaten, sponsoring, bijdragen van deelnemers aan de activiteiten en subsidies van een ander 
-bestuursorgaan. 
-
-  De bijdragen moeten van derden afkomstig zijn en worden gebruikt voor de activiteit. Of ze 
-
-worden gegenereerd door de activiteit, bijvoorbeeld door kaartverkoop. 
-
-  Vermeld hier alle bijdragen van derden aan de activiteit, exclusief de gevraagde subsidie.  
-  Als de bijdragen derden niet per activiteit kunnen worden gespecificeerd, dan kunt u deze in 
-
-totaal voor alle activiteiten vermelden.  
-
-  Specificeer en licht de bijdragen van derden per verstrekker cijfermatig toe.  
-  Als u voor dezelfde kosten ook subsidie (of een andere financiële bijdrage) heeft aangevraagd bij 
-een ander bestuursorgaan, dan moet u dit melden. Geef hierbij aan wat van de stand van zaken 
-is van de beoordeling van die andere aanvraag. Als dit op een later tijdstip plaatsvindt dan moet 
-u dit direct melden bij DUS-I.  
-
-Liquiditeitsprognose 
-Is de liquiditeitsbehoefte niet gelijkmatig over het jaar is verdeeld? Dan kunt u een 
-liquiditeitsprognose meesturen. Hierin moet u de liquiditeitsprognose specificeren en onderbouwen. 
-
-Overzicht kern- en satellietziekenhuizen donatie 
-Voor orgaan- en weefseldonatie en -transplantatie is Nederland opgedeeld in 7 regio’s. Deze regio’s 
-bestaan uit kernziekenhuizen en satellietziekenhuizen die verbonden zijn met de universitaire 
-ziekenhuizen met transplantatiecentra. Het overzicht kern- en satellietziekenhuizen donatie vindt u 
-op de website van de Nederlandse Transplantatie Stichting (NTS).  
-
- 
- 
-
+### Informatie over activiteiten en begroting
+### 
+### Toelichting bij de activiteiten
+### Voor iedere activiteit waarvoor u subsidie aanvraagt beschrijft u:
+### 
+###   de aard, omvang, duur en wijze van uitvoering van de activiteiten, en
+###   de met de activiteiten na te streven doelstellingen, resultaten of producten.
+### 
+### Ook kunt u bij uw aanvraag een uitgebreid activiteitenplan meesturen. Dit is niet verplicht.
+### 
+### Toelichting bij de begroting
+### Voor iedere activiteit geeft u een begroting op. Deze moet u nauwkeurig en reëel berekenen. De
+### hoogte van het subsidiebedrag wordt berekend op basis van de begroting van de kosten die nodig
+### zijn voor het uitvoeren van uw activiteiten. Hierbij wordt rekening gehouden met de eigen bijdrage
+### en bijdragen van derden.  U moet de kosten en opbrengsten kort beschrijven.
+### 
+### Personeel
+###   Vermeld hier alle personele kosten (van uw eigen personeel in loondienst) voor de activiteit.
+###   De indexatie vanwege de Overheidsbijdrage in de Arbeidskostenontwikkeling (OVA) mag niet
+### 
+### worden opgegeven. De OVA wordt later in het jaar toegekend.
+### 
+###   De kosten voor externe inhuur vallen niet onder eigen personeel en geeft u op bij ‘Overige
+### 
+### 
+### 
+### kosten’
+### In de toelichting geeft u inzicht in het aantal fte per functie maal de kosten. Het maximum tarief
+### is vastgesteld. Het maximale aantal fte per functie en het maximale jaartarief per functie per
+### organisatie is ook vastgesteld. Dit staat in de subsidieregeling.
+### 
+### Materieel
+###   Vermeld alle materiële kosten, bijvoorbeeld drukwerkkosten, software of kosten bijeenkomsten,
+### 
+### voor de activiteit.
+### 
+###   Maak de kosten inzichtelijk en licht de kosten cijfermatig toe. Eventuele offertes kunnen worden
+### 
+### meegestuurd.
+### 
+###   Onvoorziene kosten kunnen niet worden opgegeven.
+### 
+### Overige kosten/ kosten derden
+###   Vermeld alle kosten die niet vallen onder de personele of materiële kosten. Dit zijn bijvoorbeeld
+### 
+### accountantskosten, externe inhuur en trainingen.
+### 
+###   Maak de kosten inzichtelijk en licht de kosten cijfermatig toe. Eventuele offertes kunnen worden
+### 
+### meegestuurd.
+### 
+###   Vermeld bij externe inhuur het aantal uren maal het uurtarief.
+###   Onvoorziene kosten en kosten voor (toevoegingen aan) voorzieningen en reserves kunnen niet
+### 
+### worden opgegeven. Dit zijn bijvoorbeeld wachtgelden.
+### 
+### Eigen bijdrage
+###   Dit is de bijdrage van de subsidieaanvrager zelf voor de activiteit.
+###   Vermeld de eigen bijdrage aan de activiteit. Deze wordt ingebracht vanuit de eigen middelen van
+### 
+### uw organisatie en is afkomstig uit het eigen vermogen.
+### 
+###   Bijdragen van deelnemers aan activiteiten worden ook wel ‘eigen bijdragen’ genoemd, maar
+### 
+### deze geeft u op onder de bijdragen van derden.
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Bijdragen van derden
+###   Dit zijn bijdragen die u niet ontvangt vanuit de subsidie en die u gebruikt om de activiteit uit te
+### voeren. Dit zijn bijvoorbeeld renteopbrengsten, contributies, geoormerkte schenkingen en
+### legaten, sponsoring, bijdragen van deelnemers aan de activiteiten en subsidies van een ander
+### bestuursorgaan.
+### 
+###   De bijdragen moeten van derden afkomstig zijn en worden gebruikt voor de activiteit. Of ze
+### 
+### worden gegenereerd door de activiteit, bijvoorbeeld door kaartverkoop.
+### 
+###   Vermeld hier alle bijdragen van derden aan de activiteit, exclusief de gevraagde subsidie.
+###   Als de bijdragen derden niet per activiteit kunnen worden gespecificeerd, dan kunt u deze in
+### 
+### totaal voor alle activiteiten vermelden.
+### 
+###   Specificeer en licht de bijdragen van derden per verstrekker cijfermatig toe.
+###   Als u voor dezelfde kosten ook subsidie (of een andere financiële bijdrage) heeft aangevraagd bij
+### een ander bestuursorgaan, dan moet u dit melden. Geef hierbij aan wat van de stand van zaken
+### is van de beoordeling van die andere aanvraag. Als dit op een later tijdstip plaatsvindt dan moet
+### u dit direct melden bij DUS-I.
+### 
+### Liquiditeitsprognose
+### Is de liquiditeitsbehoefte niet gelijkmatig over het jaar is verdeeld? Dan kunt u een
+### liquiditeitsprognose meesturen. Hierin moet u de liquiditeitsprognose specificeren en onderbouwen.
+### 
+### Overzicht kern- en satellietziekenhuizen donatie
+### Voor orgaan- en weefseldonatie en -transplantatie is Nederland opgedeeld in 7 regio’s. Deze regio’s
+### bestaan uit kernziekenhuizen en satellietziekenhuizen die verbonden zijn met de universitaire
+### ziekenhuizen met transplantatiecentra. Het overzicht kern- en satellietziekenhuizen donatie vindt u
+### op de website van de Nederlandse Transplantatie Stichting (NTS).
+### 
+### 
+### 
+### 

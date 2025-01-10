@@ -1,1404 +1,1424 @@
-Accountantsprotocol 
-
-COPRO 23032 B 
-
-behorend bij 
-
-de Subsidieregeling Maatschappelijk 
-
-Diensttijd (MDT) 
-
-- Aanvraagtijdvak 2023 en
-
-- Aanvraagtijdvak 2024
-
-Dit Accountantsprotocol is op maat gemaakt voor de subsidieregeling MDT (aanvraagtijdvak 2023 
-en aanvraagtijdvak 2024), waarbij rekening is gehouden met de Schrijfwijzer 
-Accountantsprotocollen van de NBA. MDT is een ‘werkelijke kostenregeling’. 
-
-Het betreft het volgende accountantsproducten voor subsidies vanaf € 125.000, genoemd in 
-subsidieregeling MDT: 
-
-−
-
-−
-
-artikel 13: controleverklaring bij het financieel verslag
-
-artikel 13: in aanvulling op artikel 7.8 van de Kaderregeling, verstrekt de penvoerder tevens
-een prestatiebewijs, voorzien van een assurance rapport en een rapport van feitelijke
-bevindingen, met betrekking tot het aantal afgeronde MDT-trajecten, en het aantal niet-
-afgeronde MDT-trajecten.
-
-Status: versie d.d. 21 mei 2024 
-
-1 
-
-COPRO 23032 B 
-
-2 
-
-Uitgangspunten ................................................................................................................. 3 
-1 
-1.1 
-Inleiding ............................................................................................................................. 3 
-Inhoud 
-1.2  Doelstelling en definities.................................................................................................. 3 
-Subsidie aanvraag en verplichtingen penvoerder ........................................................ 3 
-1.3 
-Verantwoordelijkheden penvoerder/hoofdaanvrager .................................................... 5 
-1.5 
-Procedures en termijnen aanvraag tot vaststelling ....................................................... 5 
-1.6 
-Reviewbeleid ...................................................................................................................... 6 
-1.7 
-Contactgegevens ............................................................................................................... 6 
-1.8 
-Controleaanpak bij het financieel verslag van de kosten van de penvoerder ......... 7 
-Relevante wet- en regelgeving ........................................................................................ 7 
-2.1 
-Financiële Verantwoording Subsidievaststelling Penvoerder......................................... 7 
-2.2 
-2.3  Object en reikwijdte onderzoek ....................................................................................... 7 
-Referentiekader voor de controlewerkzaamheden ......................................................... 7 
-2.4 
-Andere informatie .............................................................................................................. 8 
-2.5 
-Betrouwbaarheid en materialiteit controleverklaring ..................................................... 8 
-2.6 
-Accountantsproduct............................................................................................................... 9 
-2.7 
-Onderzoeksaanpak bij een kwantitatieve opgave van het gerealiseerde aantal 
-
-3 
-afgeronde MDT-trajecten en niet-afgeronde MDT-trajecten ................................................... 10 
-3.1  Onderzoeksobject en onderzoeksaanpak ...................................................................... 10 
-Referentiekader onderzoekswerkzaamheden ............................................................... 10 
-3.2 
-Betrouwbaarheid en nauwkeurigheid assurance-rapport ............................................ 11 
-3.3 
-Accountantsproduct ......................................................................................................... 12 
-3.4 
-Onderzoeksaanpak opdracht inzake overeengekomen specifieke 
-
-4 
-werkzaamheden ............................................................................................................................. 13 
-4.1  Onderzoeksaanpak .......................................................................................................... 13 
-4.2  Onderzoekspunten accountant....................................................................................... 13 
-Rapporteren inzake overeengekomen specifieke werkzaamheden ............................ 14 
-4.3 
-Bijlage A: Model Controleverklaring – Subsidieregeling MDT ..................................................... 15 
-Bijlage B: Model Assurance-rapport – Subsidieregeling MDT (aanvraagtijdvak 2023 en 
-2024) ............................................................................................................................................... 18 
-Bijlage C: Model Rapport overeengekomen specifieke werkzaamheden – Subsidieregeling 
-MDT met betrekking tot... (onderzoeksobject(en)) ..................................................................... 20 
-
-2 
-
-COPRO 23032 B 
-
-1  Uitgangspunten 
-
-1.1  Inleiding 
-
-Dit accountantsprotocol heeft betrekking op de Subsidieregeling Maatschappelijke Diensttijd 
-(hierna genoemd: Subsidieregeling MDT) en geldt voor aanvraag tijdvak 2023 en het tijdvak 
-2024.  
-
-Dit protocol bestaat uit 4 delen: 
-
-•
-•
-
-Hoofdstuk 1: Uitgangspunten
-Hoofdstuk  2:  Controle  aanpak  bij  het  financieel  verslag  bij  de  werkelijke  kosten  en
-gerealiseerde co-financiering van de penvoerder
-
-•  Hoofdstuk  3:  Onderzoeksaanpak  bij een  kwantitatieve  opgave van  het gerealiseerde  aantal
-
-•
-
-afgeronde MDT-trajecten en niet-afgeronde MDT-trajecten1
-Hoofdstuk 4: Onderzoeksaanpak rapport inzake overeengekomen specifieke werkzaamheden
-omtrent  de  naleving  van  de  aan  de  subsidie  verbonden  verplichtingen  door  de
-subsidieontvanger.
-
-In de bijlagen zijn de modellen voor de rapportages voor de accountant opgenomen. 
-
-1.2  Doelstelling en definities 
-
-De subsidieregelingen inclusief beoordelingskader zijn gepubliceerd in de Staatscourant: 
-
-•
-•
-
-Aanvraag tijdvak 2023 Staatcourant 1 mei 2023, nr. 12901
-Aanvraag tijdvak 2024 Staatscourant 5 december 2023 nr. 33054
-
-De subsidie voor MDT ondersteunt maatschappelijke organisaties, bekostigde 
-onderwijsinstellingen en gemeenten om projecten te realiseren die bijdragen aan de 
-doorontwikkeling van het MDT-programma. Op deze regeling is de Kaderregeling subsidies 
-OCW, SZW en VWS van toepassing, met uitzondering van artikel 4.1, eerste lid. Er is sprake 
-van subsidie als bedoeld in artikel 1.5, onderdeel d, van de Kaderregeling. 
-
-De relevante definities staan in artikel 1 van de Subsidieregeling MDT. 
-
-1.3  Subsidie aanvraag en verplichtingen penvoerder
-
-Subsidie kan worden aangevraagd voor subsidieronde 2023 en over 2024 door een penvoerder 
-(hoofdaanvrager) namens een samenwerkingsverband. Voorwaarden zijn dat de penvoerder: 
-
-•
-
-•
-•
-
-voldoet aan de beoordelingscriteria die zijn uitgewerkt in bijlage 1 behorend bij deze
-subsidieregeling (artikel 8 lid 5);
-zorg draagt dat een MDT-traject niet leidt tot stage- of werkverdringing (artikel 8 lid 7); en
-zorg draagt dat deelname aan MDT-trajecten vrijwillig is (artikel 8 lid 8).
-
-De penvoerder heeft onder meer de volgende verplichtingen (artikel 9): 
-
-•
-
-•
-
-•
-
-realiseert cofinanciering zoals bedoeld in artikel 6, derde lid, van ten minste 25% van de
-totale kosten (artikel 9 lid b);
-voert per variant tenminste 85% van het aantal bij de aanvraag voorgenomen MDT-trajecten
-volledig uit (artikel 9 lid d); en
-heeft de verplichting om het MDT-proof label aan te vragen binnen 12 maanden na
-startdatum van het project (artikel 9 lid f).
-
-1 Dit betreft de opgave van de penvoerder inclusief partners
-
-3 
-
-COPRO 23032 B 
-
-De MDT-varianten voor aanvraag in tijdvak 2023 en 2024 betreffen: 
-
-1) MDT-basis-traject: MDT-traject van ten minste 80 uur gedurende een periode van ten
-
-hoogste 6 maanden;
-
-2) MDT-plus-traject: MDT-traject van ten minste 200 uur gedurende een periode van ten
-
-minste 3 en ten hoogste 6 maanden;
-
-3) MDT-extra-traject: MDT-traject van ten minste 80 uur gedurende een periode van ten
-
-hoogste 6 maanden, waarbij het MDT-traject de intensieve begeleiding van een jongere
-vergt.
-
-Uitsluitend voor aanvraag in tijdvak 2024 geldt de volgende variant: 
-
-4) MDT-intensief-traject: MDT-traject van ten minste 320 uur gedurende een periode van ten
-
-hoogste 6 maanden.
-
-1.4  Relevante wet- en regelgeving 
-
-Voor de accountantswerkzaamheden betreffende de aanvraag tot subsidievaststelling zijn de 
-volgende wet- en regelgeving van toepassing: 
-
-• De ‘Subsidieregeling MDT ‘ inclusief toelichting;
-•
-
-Kaderregeling subsidies OCW, SZW en VWS van toepassing, met uitzondering
-van artikel 4.1, eerste lid. Er is sprake van subsidie als bedoeld in artikel 1.5, onderdeel d,
-van de Kaderregeling;
-Standaard 805;
-Standaard 3000A; en
-Standaard 4400.
-
-•
-•
-•
-
-De accountant voert het onderzoek uit inzake de aanvraag tot subsidievaststelling over 2023 
-respectievelijk over 2024 met inachtneming van dit protocol. Dit onderzoek bestaat uit drie 
-opdrachten: 
-
-1. Uitgangspunt voor het accountantsonderzoek gericht op de verantwoordingsdocumenten bij de
-
-werkelijke kosten en gerealiseerde co-financiering van de penvoerder is Standaard 805
-'Bijzondere overwegingen - Controles van een enkel financieel overzicht en controles van
-specifieke elementen, rekeningen of posten van een financieel overzicht'.
-Voor de uitwerking van deze werkzaamheden zie hoofdstuk 2 van dit protocol.
-
-2. Uitgangspunt voor het assurance-onderzoek gericht op de kwantitatieve opgave van de
-
-afgeronde MDT-trajecten en voor niet-afgeronde MDT-trajecten is Standaard 3000A ‘Assurance- 
-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële
-informatie (attest-opdrachten)’.
-Voor de uitwerking van deze werkzaamheden zie hoofdstuk 3 van dit protocol.
-
-3. De opdracht inzake overeengekomen specifieke werkzaamheden omtrent de naleving van de aan
-de subsidie verbonden verplichtingen door de subsidieontvanger valt onder de Standaard 4400
-'Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden', die ook van
-toepassing is bij andere dan financiële informatie.
-Voor de uitwerking van deze werkzaamheden zie hoofdstuk 4 van dit protocol.
-
-De accountant dient de ‘Verordening gedrags- en beroepsregels accountants’ (VGBA) en de 
-‘Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten’ (ViO) na te 
-leven of, indien van toepassing, andere wettelijke of professionele vereisten, die ten minste 
-gelijkwaardig zijn. 
-
-4 
-
-COPRO 23032 B 
-
-1.5  Verantwoordelijkheden penvoerder/hoofdaanvrager 
-
-De penvoerder c.q. hoofdaanvrager dient zorg te vragen voor de controleverklaring over de 
-werkelijke kosten en gerealiseerde co-financiering van de penvoerder. 
-Samenwerkingspartners die van de hoofdaanvrager een subsidie hebben ontvangen en/of 
-samenwerkingspartners die co-financiering hebben gerealiseerd dienen na beëindiging van hun deel 
-van het project een financiële verantwoording in te dienen bij de penvoeder c.q. hoofdaanvrager. 
-Deze financiële verantwoording moet vergezeld gaan van een compleet ingevulde en ondertekende 
-bestuursverklaring (ook wel directieverklaring genoemd). De penvoerder controleert de aangeleverde 
-documenten en is verantwoordelijk voor de aanlevering van financiële verantwoording voor de 
-subsidievaststelling.
-
-1.6  Procedures en termijnen aanvraag tot vaststelling 
-
-De penvoerder heeft de verplichting om uiterlijk binnen 6 maanden na verlening van de subsidie te 
-starten met de projectactiviteiten. De penvoerder dient binnen 22 weken na de datum waarop de 
-activiteiten waarvoor de subsidie is verleend, uiterlijk moeten zijn verricht, een aanvraag om 
-vaststelling in (artikel 13 lid 1) over 2023 respectievelijk over 2024. 
-
-Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister vastgesteld 
-modelformulier gebruikt.  
-
-Voor subsidievaststelling als bedoeld in artikel 13 legt de penvoerder in zijn aanvraag om vaststelling 
-rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag. 
-Voor subsidies vanaf € 125.000 wordt een controleverklaring bij het financieel verslag gevraagd, 
-verstrekt door een accountant: een registeraccountant of Accountant Administratieconsulent als 
-bedoeld in artikel 1 van de Wet op het accountantsberoep. 
-
-Voor de controleverklaring dient gebruik te worden gemaakt van het model controleverklaring zoals 
-opgenomen in bijlage A van dit protocol.  
-
-Bij de aanvraag tot vaststelling wordt tevens een assurance rapport bijgevoegd, betreffende de 
-aantallen gerealiseerde prestatie-eenheden, waarbij de penvoerder tevens een prestatiebewijs 
-verantwoord voor afgeronde MDT-trajecten en voor niet-afgeronde MDT-trajecten per variant, 
-verstrekt door een accountant: een registeraccountant of Accountant Administratieconsulent als 
-bedoeld in artikel 1 van de Wet op het accountantsberoep. Voor het assurance-rapport dient gebruik 
-te worden gemaakt van het model assurance-rapport zoals opgenomen in bijlage B van dit protocol. 
-
-In aanvulling op artikel 7.8 van de Kaderregeling, dient de subsidieontvanger de controleverklaring 
-vergezeld te doen gaan van een rapport inzake overeengekomen specifieke werkzaamheden, 
-verstrekt door een accountant (een registeraccountant of Accountant Administratieconsulent als 
-bedoeld in artikel 1 van de Wet op het accountantsberoep), omtrent de naleving van de aan de 
-subsidie verbonden verplichtingen door de subsidieontvanger. Voor het rapport inzake 
-overeengekomen specifieke werkzaamheden dient gebruik te worden gemaakt van het model rapport 
-zoals opgenomen in bijlage C van dit protocol. 
-
-Indien de penvoerder een onderwijsinstelling (artikel 13 lid 4) is als bedoeld in artikel 1, onderdeel 
-a, van de Regeling jaarverslaggeving onderwijs dan: 
-
-•
-
-•
-
-•
-
-levert de penvoerder een activiteitenverslag aan, inclusief het aantal afgeronde MDT-
-trajecten per variant, en het aantal niet-afgeronde MDT-trajecten per variant en inclusief
-de verwerving van cofinanciering;
-geschiedt de verantwoording in de jaarverslaggeving overeenkomstig de Regeling
-jaarverslaggeving onderwijs met model G, onderdeel 2, zoals bedoeld in richtlijn 660 van
-de Raad voor de Jaarverslaggeving;
-geldt dat de subsidie uitsluitend kan worden besteed aan de activiteiten waarvoor deze
-wordt verleend, en dat niet bestede subsidie worden teruggevorderd; en
-
-5 
-
-COPRO 23032 B 
-
-•
-
-vermeldt de penvoerder in het bestuursverslag het aantal afgeronde MDT-trajecten per
-variant, en het aantal niet-afgeronde MDT-trajecten per variant.
-
-Voor de werkzaamheden van de accountants van de onderwijsinstellingen verwijzen wij naar het 
-Onderwijsaccountantsprotocol 2024 waarin deze werkzaamheden zullen worden opgenomen.  
-
-1.7  Reviewbeleid 
-
-OCW (en DUS-I die de ‘Subsidieregeling MDT uitvoert) heeft als subsidieverstrekker te allen tijde de 
-mogelijkheid een review uit te voeren of te laten uitvoeren bij de accountant belast met het 
-onderzoek naar de informatie opgenomen in de aanvraag teneinde na te gaan of het onderzoek met 
-inachtneming van de relevante regelgeving van de NBA en dit protocol is uitgevoerd. Deze reviews 
-komen niet in de plaats van andere controles dan wel reviews uitgevoerd door de Algemene 
-Rekenkamer.  
-
-De accountant belast met het onderzoek en verantwoordelijk voor het verstrekken van het 
-accountantsproduct bij de aanvraag stemt er mee in dat de onderzoeksdossiers ten behoeve van 
-bovengenoemde reviews integraal aan de reviewers ter inzage worden gegeven. Voorts zal de 
-accountant, schriftelijk dan wel mondeling, alle gevraagde gegevens verstrekken die in het kader van 
-voornoemde reviews worden opgevraagd. In dit kader wordt verwezen naar de bepalingen in 
-hoofdstuk 6, paragraaf 1, van de Comptabiliteitswet 2016. 
-
-1.8  Contactgegevens 
-
-Voor vragen over deze Subsidieregeling kan door aanvragers contact worden opgenomen met de 
-Dienst Uitvoering Subsidies aan Instellingen (DUS-I) via MDTsubsidies@minocw.nl. 
-
-6 
-
-COPRO 23032 B 
-
-2  Controleaanpak bij het financieel verslag van de kosten 
-
-van de penvoerder 
-
-2.1  Relevante wet- en regelgeving 
-
-De subsidieregeling MDT betreft een werkelijke kosten regeling met prestatiecomponent: 
-
-•
-
-•
-
-1: werkelijke kosten (subsidie mag maximaal 75% van het totaal aan werkelijk gemaakte
-kosten zijn); en
-2: prestatiecomponent (gerealiseerd aantal trajecten moet per variant tenminste 85% zijn).
-
-Ter vaststelling van de betrouwbaarheid van de verstrekte informatie wordt een controleverklaring 
-bij het door de penvoerder ingediende financieel verslag als bedoeld in artikel 13 verstrekt.  
-
-2.2  Financiële Verantwoording Subsidievaststelling Penvoerder 
-
-De penvoerder c.q. hoofdaanvrager dient zorg te vragen voor de controleverklaring over de 
-werkelijke kosten en gerealiseerde co-financiering van de penvoerder. 
-Samenwerkingspartners die van de hoofdaanvrager een subsidie hebben ontvangen en/of 
-samenwerkingspartners die co-financiering hebben gerealiseerd dienen na beëindiging van hun deel 
-van het project een financiële verantwoording in te dienen bij de penvoeder c.q. hoofdaanvrager. 
-Deze financiële verantwoording moet vergezeld gaan van een compleet ingevulde en ondertekende 
-bestuursverklaring (ook wel directieverklaring genoemd). De penvoerder controleert de aangeleverde 
-documenten en is verantwoordelijk voor de aanlevering van financiële verantwoording voor de 
-subsidievaststelling.
-
-2.3  Object en reikwijdte onderzoek 
-
-De accountantswerkzaamheden worden uitgevoerd volgens de Standaard 805 en zijn gericht op het 
-verkrijgen van een  redelijke mate van  zekerheid  dat  het aanvraagformulier  tot vaststelling met de 
-opgenomen gerealiseerde prestatie-eenheden in alle van materieel belang zijnde aspecten tot stand is 
-gekomen in overeenstemming met de relevante wet- en regelgeving, zoals vastgelegd in 1.4 van dit 
-protocol. Het controleobject betreft de financiële verantwoording over uitsluitend de werkelijke kosten 
-en gerealiseerde co-financiering van de penvoerder. 
-
-2.4  Referentiekader voor de controlewerkzaamheden 
-
-Voor de controlewerkzaamheden die leiden tot de controleverklaring behorend bij het financieel 
-verslag van uitsluitend de kosten van de penvoerder gelden de volgende toetspunten:  
-
-A) Kosten: de in het financieel verslag verantwoorde kosten dienen betrekking te hebben op de
-
-in de verleningsbeschikking opgenomen activiteiten (artikel 4)2.
-
-B) Periode: de in het financieel verslag verantwoorde kosten en gerealiseerde bijdragen van
-
-derden hebben betrekking op de in de verleningsbeschikking genoemde periode waarvoor de
-subsidie is verleend (artikel 6 lid 1);
-
-C) Kostenberekening: de werkelijke kosten worden berekend op basis van een controleerbare
-
-methode die is gebaseerd op bedrijfseconomische grondslagen en normen die in het
-maatschappelijk verkeer als aanvaardbaar worden beschouwd en die door de
-subsidieontvanger stelselmatig worden toegepast (artikel 1.7 lid 1 Kaderregeling en
-toelichting).
-
-2 Handreiking 2023: Penvoerders zijn verplicht een projectadministratie bij te houden voor een MDT project. Indien meerdere
-MDT-projecten tegelijkertijd lopen, dan dient de projectadministraties (een financiële- en deelnemersadministratie) duidelijk van 
-elkaar gescheiden zijn. Er mag namelijk geen dubbelfinanciering plaatsvinden. Werkelijk gemaakt kosten mogen niet in meerdere 
-projecten worden verantwoord. Gemaakte kosten dienen duidelijk aan een project te zijn toegekend door een factuur aan slechts 
-één project toe te kennen of de factuur door middel van een correcte en transparante verdeelsleutel gedeeltelijk aan de 
-verschillende projecten toe te kennen. 
-
-7 
-
-COPRO 23032 B 
-
-D) Voorzieningen en reserveringen: toevoegingen aan voorzieningen en reserveringen
-komen niet in aanmerking voor subsidie, tenzij de minister met deze toevoegingen
-schriftelijk heeft ingestemd (artikel 1.7 lid 3 Kaderregeling).
-
-Aan de niet hierboven genoemde artikelen van de Kaderregeling hoeft bij de uitvoering van de 
-controle geen aandacht te worden besteed, met dien verstande dat teneinde de controle op de 
-hierboven genoemde artikelen goed te kunnen verrichten kennisneming van de Wet overige OCW-
-subsidies, de Kaderwet SZW-subsidies en de Kaderwet VWS-subsidies en de niet genoemde artikelen 
-van de Kaderregeling (inclusief de toelichting) noodzakelijk is. Voor uitgebreidere informatie over de 
-regeling en subsidiabele kosten wordt verwezen naar de MDT-website3. 
-
-2.5  Andere informatie 
-
-Het financieel verslag betreffende de verantwoording van de bestedingen in het kader van de MDT-
-regeling omvat naast verantwoordingsinformatie ook andere informatie, die bestaat uit:  
-•
-
-het activiteitenverslag.
-
-De accountant dient overeenkomstig Standaard 720 ’De verantwoordelijkheden van de accountant 
-met betrekking tot andere informatie’ vast te stellen dat de andere informatie verenigbaar is met het 
-financieel verslag en geen materiële afwijkingen bevat. Indien blijkt dat de andere informatie niet 
-verenigbaar is met het financieel verslag dan vermeldt de accountant dit in de controleverklaring. 
-
-2.6  Betrouwbaarheid en materialiteit controleverklaring 
-
-De controle behoort zodanig te worden ingepland en uitgevoerd dat een redelijke mate van 
-zekerheid wordt verkregen dat het financieel verslag geen afwijkingen (fouten) van materieel belang 
-bevat. Indien laatstgenoemd begrip voor het gebruik van statistische technieken gekwantificeerd 
-moet worden, moet uitgegaan worden van een betrouwbaarheid van 95%. 
-
-Een goedgekeurde controleverklaring impliceert dat, gegeven de eerdergenoemde betrouwbaarheid, 
-in het financieel verslag geen afwijkingen (onjuistheden) en in de controle geen onzekerheden 
-voorkomen met een belang dat groter is dan de voorgeschreven toleranties. Het referentiekader is 
-opgenomen in paragraaf 2.3 onder a tot en met d van dit accountantsprotocol.  
-
-Het totaalbedrag van de subsidiabele kosten van de penvoerder vormt de basis waarop de 
-toleranties van onderstaande tabel moeten worden toegepast. Voor de strekking van de 
-controleverklaring gelden de volgende toleranties: 
-
-Materialiteitstabel 
-
-Goedkeurend 
-oordeel 
-
-Oordeel met 
-beperking 
-
-Oordeelonthouding/ 
-Afkeurend oordeel 
-
-Fouten (afwijkingen) in het 
-financieel verslag en 
-onzekerheden in de controle 
-
-<2% 
-
->2%  -  <4%
-
->4%
-
-Indien de accountant zowel fouten in het financieel verslag als onzekerheden in de controle aantreft, 
-dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang. 
-
-3 Maatschappelijke diensttijd 2023 | Subsidie | Dienst Uitvoering Subsidies aan Instellingen (dus-i.nl) 
-
-Hier wordt bijvoorbeeld beschreven dat reguliere overheadkosten niet apart mag worden opgevoerd ten laste van de subsidie. 
-Deze kosten moeten worden verrekend in het maximale uurtarief van €130 per uur. Alleen in bijzondere omstandigheden mag 
-hiervan worden afgeweken. Bijvoorbeeld voor specifieke MDT-activiteiten zoals de huur van een bijzondere locatie of inhuur van 
-een spreker op een evenement. 
-
-8 
-
-COPRO 23032 B 
-
-Van fouten in de verantwoording is sprake indien naar aanleiding van de uitgevoerde controle is 
-gebleken dat het financieel verslag onjuistheden bevat omdat deze niet voldoen aan de normen van 
-het in paragraaf 2.3 van dit accountantsprotocol bedoelde referentiekader. Fouten worden in 
-absolute zin opgevat. Salderen van fouten is daarom niet toegestaan. 
-
-Van een onzekerheid in de controle is sprake indien geen voldoende en geschikte (controle-) 
-informatie beschikbaar is om posten in het financieel verslag als goed of fout aan te merken. 
-Kortom, als onzekerheid bestaat over het wel of niet voldoen aan de normen van het 
-referentiekader. 
-
-2.7  Accountantsproduct 
-
-Voor de controleverklaring dient gebruik te worden gemaakt van het model controleverklaring zoals 
-opgenomen in bijlage A van dit protocol aangepast aan de meest recente NBA-voorbeeldteksten ten 
-tijde  van  het  opstellen  van  het  protocol.  Deze  voorbeeldteksten  zijn  gebaseerd  op  de  geldende 
-Standaarden. Om de samenhang en herkenbaarheid van het accountantsproduct te bevorderen raadt 
-de  NBA  het gebruik van de  meest  recente  NBA-voorbeeldteksten  aan. Wel blijft de  accountant zelf 
-verantwoordelijk voor het gebruik van de juiste tekst. De accountant zal deze nog moeten afstemmen 
-op de specifieke situatie. 
-
-9 
-
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-3  Onderzoeksaanpak bij een kwantitatieve opgave van 
-het gerealiseerde aantal afgeronde MDT-trajecten en 
-niet-afgeronde MDT-trajecten4  
-
-3.1  Onderzoeksobject en onderzoeksaanpak 
-
-De accountantswerkzaamheden worden uitgevoerd volgens de Standaard 3000A en zijn gericht 
-op het verkrijgen van een redelijke mate van zekerheid.  
-Met het oog op de vaststelling van de betrouwbaarheid van de verstrekte informatie wordt een 
-assurance-rapport verstrekt bij het aanvraagformulier ten behoeve van de subsidievaststelling.  
-Dit assurance-rapport betreft uitsluitend de volgende twee onderdelen van het 
-aanvraagformulier, te weten: 
-• 
-
-de kwantitatieve opgave met het aantal gerealiseerde afgeronde MDT-trajecten, 
-onderverdeeld naar MDT-basis-trajecten, MDT-plus-trajecten, MDT-extra-trajecten en/of MDT 
-intensief (alleen mogelijk bij aanvraagtijdvak 2024); 
-de kwantitatieve opgave met het aantal niet afgeronde MDT-basis-trajecten, MDT-plus-
-trajecten, MDT extra-trajecten en/of MDT intensief (alleen mogelijk bij aanvraagtijdvak 
-2024). 
-
-• 
-
-3.2  Referentiekader onderzoekswerkzaamheden 
-
-Voor het assurance-onderzoek dat leidt tot het assurance-rapport behorend bij de opgave ten 
-behoeve van het aanvraagformulier ten behoeve van de subsidievaststelling gelden de volgende 
-onderzoekspunten: 
-
-•  Periode: de periode waarin de prestaties zijn gerealiseerd. De subsidie wordt voor een 
-
-periode van twee of drie jaar verstrekt (artikel 6). 
-
-•  Het aantal gerealiseerde afgeronde MDT-trajecten (artikel 4 eerste lid onder a) en of 
-
-dit overzicht betrouwbaar is, onderverdeeld naar  
-
-o  MDT-basis-trajecten; 
-o  MDT-plus-trajecten; en 
-o  MDT-extra-trajecten; en 
-o  MDT-intensief(alleen mogelijk bij aanvraagtijdvak 2024).  
-
-•  Het aantal gerealiseerde niet afgeronde MDT-trajecten en of dit overzicht 
-
-betrouwbaar is, onderverdeeld naar  
-o  MDT-basis-trajecten;  
-o  MDT-plus-trajecten; en 
-o  MDT-extra-trajecten; en 
-o  MDT-intensief(alleen mogelijk bij aanvraagtijdvak 2024). 
-
-NB: De gerealiseerde aantallen zijn mogelijk niet gebaseerd op een reeds in het kader van de 
-jaarrekeningcontrole en/of andere controles gecontroleerd systeem van de penvoerder waarin al 
-deze trajecten worden vastgelegd. Derhalve dient nader onderzoek uitgevoerd te worden naar de 
-betrouwbaarheid van de MDT-registratie en de onderliggende documentatie. 
-
-De penvoerder is verplicht een (MDT-)registratie bij te houden (artikel 9 lid k) met:  
-
-- 
-- 
-- 
-- 
-- 
-- 
-
-de naam, adres, woonplaats, leeftijd, geslacht, telefoonnummer en emailadres van de jongere 
-de naam en postcode van de organisatie waar de jongere het MDT-traject doorloopt,  
-soort MDT-traject,  
-start- en einddatum van het MDT-traject,  
-aantal uren dat is besteed aan het MDT-traject en, indien van toepassing,  
-de reden van vroegtijdig stoppen met het MDT-traject. 
-
-4 Dit betreft de opgave van de penvoerder inclusief partners  
-
-10 
-
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-De MDT-registratie bij de penvoerder dient te beschikken over de volgende onderbouwing van de 
-MDT-traject uren die zijn gemaakt door deelnemers : onderbouwing door middel van urenregistratie 
-van deelnemers MDT (in beginsel getekend door deelnemer en geautoriseerd door leidinggevende) 
-met onderliggende documentatie van: 
-
-a)  Startdocument: bijvoorbeeld een intakedocument of trajectplan ondertekend door jongere, 
-
-waarbij startdatum en einddatum van het traject benoemd zijn  
-
-b)  Tussentijds document, bijvoorbeeld een tussentijdse evaluatie van het trajectplan of een 
-
-gespreks-verslag van de voortgang of presentielijsten van MDT-kandidaten getekend door 
-deelnemer en begeleider/leidinggevende van de desbetreffende organisatie van het MDT-traject 
-of een logboek; 
-
-c)  Bij een niet afgerond MDT-traject: de vastlegging van de reden van het vroegtijdig stoppen van 
-het MDT-traject (communicatie vanuit de samenwerkingspartner of penvoerder met bevestiging 
-aan de deelnemer dat het MDT-traject niet is afgerond)  
-
-d)  Bij een afgerond MDT-traject: een aan de deelnemer verstrekt MDT-certificaat/bewijs van 
-
-afronding. Betreft certificaat ondertekend door begeleider en jongere met vermelding van het 
-aan uren/weken dat het traject werd besteed en uit welke onderdelen het traject bestaat 
-(uitstroomdatum). 
-
-Andere opties ten behoeve van bewijs van contactmoment MDT-traject met vermelding naam 
-deelnemer en begeleider: 
-
-- 
-- 
-
-Presentielijst getekend door deelnemer 
-Logboek. 
-
-Bij de penvoerder is een autorisatiematrix aanwezig van de deelnemende organisaties en van de 
-penvoerder zelf inzake de MDT-urenregistratie die aansluit op de reguliere bevoegdheden binnen de 
-organisatie van de penvoerder en de deelnemende organisaties en die in lijn is met vergelijkbare 
-(MDT-)projecten of in lijn is met de gebruikelijke interne procedures. 
-
-3.3  Betrouwbaarheid en nauwkeurigheid assurance-rapport 
-
-Voor de kwantitatieve opgave van het aantal gerealiseerde afgeronde MDT-trajecten en het aantal 
-niet afgeronde MDT-trajecten geldt dat het onderzoek zodanig behoort te worden ingepland en 
-uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de opgave ter vaststelling van 
-de subsidie geen afwijkingen van materieel belang bevat. Indien dit begrip voor het gebruik van 
-statistische technieken gekwantificeerd moet worden, moet uitgegaan worden van een 
-betrouwbaarheid van 95%. 
-
-Een assurance-rapport met een goedkeurende strekking impliceert dat, gegeven eerdergenoemde 
-betrouwbaarheid, in de verantwoording geen afwijkingen (onjuistheden en onzekerheden) 
-voorkomen groter of gelijk aan de voorgeschreven toleranties. Als omvangsbasis geldt het totaal 
-aantal gerealiseerde afgeronde MDT-trajecten respectievelijk het totaal niet afgeronde MDT-
-trajecten over de verantwoordingsperiode. 
-
-Het referentiekader is opgenomen in paragraaf 3.2. 
-
-Voor de strekking van het oordeel in het assurance-rapport gelden de volgende toleranties (op 
-basis van de som van het totaal aantal gerealiseerde afgeronde MDT-trajecten respectievelijk 
-het totaal niet afgeronde MDT-trajecten over de verantwoordingsperiode): 
-
-Materialiteitstabel 
-
-Goedkeurend 
-oordeel 
-
-Oordeel met 
-beperking 
-
-Oordeelonthouding/ 
-Afkeurend oordeel 
-
-Fouten (afwijkingen) in de 
-verantwoording en 
-onzekerheden in het assurance 
-onderzoek 
-
-<2% 
-
->2%  -  <4% 
-
->4% 
-
-11 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Van fouten is sprake indien naar aanleiding van het uitgevoerde assurance-onderzoek is gebleken 
-dat de kwantitatieve opgave van het aantal de gerealiseerde prestatie-eenheden onjuistheden bevat 
-omdat deze niet voldoen aan de normen van het in paragraaf 3.2 bedoelde referentiekader. 
-
-Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en 
-onzekerheden zoveel mogelijk kwantificeert. Fouten worden in absolute zin opgevat.  
-
-Het voorgaande is van overeenkomstige toepassing op onzekerheden in het assurance onderzoek. 
-Van een onzekerheid in het assurance onderzoek is sprake als er onvoldoende (assurance-) 
-informatie beschikbaar is om de verantwoorde aantallen prestatie-eenheden als goed of fout aan te 
-merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de normen van het 
-referentiekader. 
-
-Indien de accountant zowel fouten in de kwantitatieve opgave als onzekerheden in het assurance 
-onderzoek aantreft, dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.  
-
-3.4  Accountantsproduct 
-
-De  accountant  legt  de  uitkomsten  van  de  werkzaamheden  vast  in  een  assurance-rapport,  zoals 
-beschreven in de NV COS 3000A. In bijlage B van dit protocol is het model voor het assurance-rapport 
-opgenomen aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van 
-het protocol. Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden. Om de samenhang 
-en herkenbaarheid van het accountantsproduct te bevorderen raadt de NBA het gebruik van de meest 
-recente NBA-voorbeeldteksten aan. Wel blijft de accountant zelf verantwoordelijk voor het gebruik van 
-de juiste tekst. De accountant zal deze nog moeten afstemmen op de specifieke situatie. 
-
-12 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-4  Onderzoeksaanpak opdracht inzake overeengekomen 
-
-specifieke werkzaamheden 
-
-4.1  Onderzoeksaanpak 
-
-De accountant voert zijn werkzaamheden uit volgens Standaard 4400 ‘Opdrachten tot het verrichten 
-van overeengekomen specifieke werkzaamheden’, de Verordening Gedrags- en Beroepsregels 
-Accountants (VGBA) en de ‘Verordening inzake de onafhankelijkheid van accountants bij assurance-
-opdrachten’ (ViO) na te leven of, indien van toepassing, andere wettelijke of professionele vereisten, 
-die ten minste gelijkwaardig zijn en dit protocol.  
-
-Er is geen sprake van het uitvoeren van een assurance-opdracht, de accountant verstrekt geen 
-zekerheid (assurance). De accountant rapporteert over de uitkomsten van zijn werkzaamheden door 
-middel van het rapport inzake overeengekomen specifieke werkzaamheden, zoals opgenomen in 
-bijlage C.  
-
-In dit rapport vermeldt hij welke werkzaamheden hij heeft uitgevoerd, wat de reikwijdte van zijn 
-werkzaamheden is geweest en tot welke bevindingen dit heeft geleid. Van de accountant wordt niet 
-verwacht dat hij een uitspraak doet over de toereikendheid en geschiktheid van de verrichte 
-werkzaamheden in relatie tot het doel waarvoor deze worden verricht, noch voor elk ander doel.  
-
-De accountant rapporteert zijn bevindingen zonder een oordeel hierover te vormen. Het ministerie 
-van Onderwijs, Cultuur en Wetenschappen (hierna OCW), vormt een oordeel over de bevindingen en 
-trekt op basis hiervan haar conclusies.  
-
-Gezien de specifieke voorwaarden in een Standaard 4400 opdracht is de verspreidingskring van het 
-rapport beperkt tot de penvoerder en OCW met wie de werkzaamheden zijn overeengekomen.  
-
-4.2  Onderzoekspunten accountant 
-
-Voor het onderzoek dat leidt tot het rapport inzake overeengekomen specifieke werkzaamheden 
-gelden de volgende overeengekomen specifieke werkzaamheden ten aanzien van naleving van de 
-aan de subsidie verbonden verplichtingen. 
-
-Per punt is vermeld wat OCW van de accountant verwacht om hieraan invulling te geven.  
-
-Penvoerder is verantwoordelijk voor de samenwerking binnen het partnerschap en de 
-uitvoering van het MDT-project volgens de voorwaarden en verplichtingen van de 
-subsidieregeling. 
-De penvoerder is onderdeel van het samenwerkingsverband en treedt op als aanvrager van de 
-subsidie. Het partnerschap bestaat uit instellingen die samenwerken bij het faciliteren van een MDT-
-project. Met instelling wordt bedoeld elke privaatrechtelijke rechtspersoon met volledige 
-rechtsbevoegdheid of een rechtspersoon die krachtens publiekrecht is ingesteld. De instellingen in 
-het partnerschap kunnen gemeenten, werkgeversorganisaties, vrijwilligerscentrales, scholen, 
-bedrijven of maatschappelijke organisaties zijn. In een partnerschap zit in ieder geval een MDT-
-aanbieder die MDT-trajecten voor jongeren faciliteert, toegang heeft tot een jongerennetwerk en 
-begeleiding aan jongeren kan bieden. De andere instellingen in een partnerschap ondersteunen de 
-MDT-aanbieder(s). De instellingen in het partnerschap kunnen indirect, namelijk via de penvoerder, 
-subsidie ontvangen. Voor de werkelijke kosten van de penvoerder geldt dat deze worden 
-gecontroleerd, zie werkzaamheden zoals beschreven in hoofdstuk 2. 
-
-13 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-De volgende overeengekomen specifieke werkzaamheden ten aanzien van de naleving aan de 
-subsidie verbonden verplichtingen dienen te worden uitgevoerd: 
-
-Co-financiering samenwerkingspartners 
-Vaststellen voor 2 samenwerkingspartners dat de verantwoorde ontvangen cofinanciering van 
-samenwerkingspartners, ‘in cash’ en/of ’in kind’ cofinanciering overeenkomt met de onderliggende 
-MDT aanvraagtijdvak 2023 of 2024 onderbouwing. 
-
-1)  In geval gerealiseerde cofinanciering ‘in cash’ is, dan stelt de accountant vast dat de 
-
-verantwoorde cofinanciering in cash aansluit op de cofinanciering volgens de overeenkomst 
-tussen de penvoerder en de samenwerkingspartner en de ontvangst van het co-
-financieringsbedrag aansluit op het bankafschrift. Eventuele afwijkingen dienen door de 
-penvoerder toegelicht te worden. 
-
-2)  In geval gerealiseerde cofinanciering ’in kind’ is, dan stelt de accountant vast dat de 
-
-verantwoorde cofinanciering in kind aansluit op de cofinanciering volgens de overeenkomst 
-tussen de samenwerkingspartner en de penvoerder (‘Verklaring cofinanciering MDT 
-aanvraagtijdvak 2023 of 2024) en de kostenonderbouwing verantwoording cofinanciering ‘ín 
-kind’ aansluit met de diensten/verzorgen MDT training (uren) of beschikbaar stellen van 
-ruimte of goederen en de daarbij horende onderbouwing (bv. facturen)5. Eventuele 
-afwijkingen dienen door de penvoerder toegelicht te worden.  
-
-Kosten samenwerkingspartners 
-
-1.  Vaststellen voor 10 kosten-items samenwerkingspartner(s) dat aan de hand van de 
-omschrijvingen op de betreffende documenten (zoals facturen, urenstaten, interne 
-doorbelasting, etc.) dat de kosten betrekking hebben op dan wel toegerekend zijn aan de in 
-de beschikking tot subsidieverlening vermelde subsidiabele activiteiten. 
-
-4.3  Rapporteren inzake overeengekomen specifieke werkzaamheden  
-
-De accountant legt de uitkomsten van zijn werkzaamheden vast in een rapport van feitelijke 
-bevindingen, zoals beschreven in de NV COS Standaard 4400 ‘Opdrachten tot het verrichten van 
-overeengekomen specifieke werkzaamheden’. In bijlage C is een voorbeeldmodel opgenomen van 
-een rapport van feitelijke bevindingen  
-
-In het rapport vermeldt de accountant welke specifieke werkzaamheden hij in dit kader heeft 
-verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn onderzoek 
-bevindingen heeft vastgesteld maakt hij daarvan melding in zijn rapport inzake overeengekomen 
-specifieke werkzaamheden. Deze bevindingen dienen onder verwijzing naar de relevante bepaling uit 
-subsidieregeling te worden gerapporteerd. 
-
-5 Voor deze regeling geldt voor de cofinanciering een maximumtarief van €130 per uur voor personele inzet inclusief overhead en 
-btw. U mag overhead en faciliteiten in principe alleen maar proportioneel doorberekenen in inzet. 
-
-14 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Bijlage A: Model Controleverklaring – Subsidieregeling 
-
-MDT6  
-
-CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT 
-
-Aan opdrachtgever 
-
-Ons oordeel 
-Wij hebben het bijgevoegde en door ons gewaarmerkte formulier subsidievaststelling voor wat 
-betreft het financieel verslag inclusief de toelichtingen van de projectsubsidie Subsidieregeling MDT 
-[en aanvraagtijdvak 2023 of 2024] (hierna: financieel verslag) van…… [naam entiteit] te 
-………[statutaire vestigingsplaats] over … 202X-202X gecontroleerd. 
-
-Naar ons oordeel is het financieel verslag van de projectsubsidie, aangevende het bedrag van € ….. 
-aan subsidiabele kosten, in alle van materieel belang zijnde aspecten opgesteld in overeenstemming 
-met de relevante bepalingen van de Subsidieregeling MDT [en aanvraagtijdvak 2023 of 2024], zoals 
-vastgelegd in het Accountantsprotocol behorend bij de Subsidieregeling MDT aanvraagtijdvak 2023 
-en 2024 d.d. 21 mei 2024 (hierna: het Accountantsprotocol) en met de subsidieverplichtingen, zoals 
-vastgelegd in de verleningsbeschikking(en). 
-
-De basis voor ons oordeel 
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse 
-controlestandaarden en het Accountantsprotocol vallen. Onze verantwoordelijkheden op grond 
-hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het financieel 
-verslag’. 
-
-Wij zijn onafhankelijk van ………[naam entiteit] zoals vereist in de Verordening inzake de 
-onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht 
-relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening 
-gedrags- en beroepsregels accountants (VGBA).  
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons 
-oordeel. 
-
-Andere informatie 
-Aan het financieel verslag en onze controleverklaring daarbij is andere informatie toegevoegd, die 
-bestaat uit: 
-• 
-
-activiteitenverslag. 
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het 
-financieel verslag verenigbaar is en geen materiële afwijkingen bevat. 
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, 
-verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen 
-bevat. Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 
-720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het 
-financieel verslag. 
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.  
-
-Beperking in het gebruik en verspreidingskring 
-Het financieel verslag is opgesteld voor het Ministerie van Onderwijs, Cultuur en Wetenschap met als 
-doel ………. [naam entiteit] in staat te stellen te voldoen aan de Subsidieregeling MDT. Hierdoor is het 
-
-6 aanvraagtijdvak 2023 en 2024 
-
-15 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-financieel verslag mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve 
-uitsluitend bestemd voor ….. [naam entiteit] en het Ministerie van Onderwijs, Cultuur en Wetenschap 
-en dient niet te worden verspreid aan of te worden gebruikt door anderen.  
-Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan7 voor het 
-financieel verslag 
-Het bestuur is verantwoordelijk voor het opstellen van het financieel verslag in overeenstemming 
-met de relevante bepalingen van de Subsidieregeling MDT, zoals vastgelegd in het 
-Accountantsprotocol en met de subsidieverplichtingen, zoals vastgelegd in de 
-verleningsbeschikking(en). 
-
-In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur 
-noodzakelijk acht om het opstellen van het financieel verslag mogelijk te maken zonder afwijkingen 
-van materieel belang als gevolg van fouten of fraude. 
-
-Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces van 
-financiële verslaggeving van de entiteit.  
-
-Onze verantwoordelijkheden voor de controle van het financieel verslag 
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij 
-daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven 
-oordeel. 
-
-Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor 
-het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken. 
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs 
-kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de 
-economische beslissingen die gebruikers op basis van het financieel verslag nemen. De materialiteit 
-beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het 
-effect van onderkende afwijkingen op ons oordeel. 
-
-Wij hebben deze accountantscontrole professioneel en kritisch uitgevoerd en hebben waar relevant 
-professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse 
-controlestandaarden, het Accountantsprotocol, ethische voorschriften en de onafhankelijkheidseisen. 
-
-Onze controle bestond onder andere uit: 
-•  het identificeren en inschatten van de risico’s dat het financieel verslag afwijkingen van materieel 
-belang bevat als gevolg van fouten of fraude, het in reactie op deze risico’s bepalen en uitvoeren 
-van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt 
-is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet 
-ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in 
-geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen 
-van zaken of het doorbreken van de interne beheersing; 
-
-•  het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel 
-
-controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze 
-werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de 
-interne beheersing van de organisatie; 
-
-•  het evalueren van de geschiktheid van de gebruikte grondslagen voor het financieel verslag en 
-het evalueren van de redelijkheid van schattingen door het bestuur en de toelichtingen die 
-daarover in het financieel verslag staan;  
-
-•  het evalueren van de presentatie, structuur en inhoud van het financieel verslag en de daarin 
-
-opgenomen toelichtingen; en 
-
-•  het evalueren of het financieel verslag de onderliggende transacties en gebeurtenissen zonder 
-
-materiële afwijkingen weergeeft.. 
-
-7 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt 
-
-16 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Wij communiceren met het toezichthoudend orgaan onder andere over de geplande reikwijdte en 
-timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn 
-gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing. 
-
-Plaats en datum 
-
-Naam accountantspraktijk 
-
-Naam accountant 
-
-17 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Bijlage B: Model Assurance-rapport – Subsidieregeling MDT 
-
-(aanvraagtijdvak 2023 en 2024)  
-
-ASSURANCE-RAPPORT VAN DE ONAFHANKELIJKE ACCOUNTANT 
-
-Aan opdrachtgever 
-
-Ons oordeel 
-Wij hebben (onderzoeksobject: het aanvraagformulier tot vaststelling met de opgenomen 
-gerealiseerde prestatie-eenheden (hierna: assurance onderdelen) van … (naam entiteit) te … 
-((statutaire) vestigingsplaats) over 202X t/m 202X onderzocht als bedoeld in artikel 13 van 
-Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024). 
-
-Naar ons oordeel zijn de opgenomen assurance onderdelen van ….. (naam entiteit) in alle van 
-materieel belang zijnde aspecten in overeenstemming met de van toepassing zijnde criteria zoals 
-vastgelegd in Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024).  
-
-De basis voor ons oordeel 
-Wij hebben ons onderzoek uitgevoerd volgens: 
-
-•  Nederlands recht, waaronder de Nederlandse Standaard 3000A Assurance-opdrachten anders 
-
-dan opdrachten tot controle of beoordeling van historische financiële informatie (attest-
-opdrachten)’; 
-
-•  Het Accountantsprotocol behorend bij de Subsidieregeling 5a- MDT Continueren en 
-
-opschalen.  
-
-Deze opdracht is gericht op het verkrijgen van een redelijke mate van zekerheid. Onze 
-verantwoordelijkheden op grond hiervan zijn beschreven in de sectie 'Onze verantwoordelijkheden 
-voor het onderzoek over de assurance onderdelen’. 
-
-Wij zijn onafhankelijk van …… (naam entiteit) zoals vereist in de ‘Verordening inzake de 
-onafhankelijkheid van accountants bij assurance-opdrachten’ (ViO). Daarnaast hebben wij voldaan 
-aan de Verordening gedrags- en beroepsregels accountants (VGBA). 
-
-Wij vinden dat de door ons verkregen assurance-informatie voldoende en geschikt is als basis voor 
-ons oordeel. 
-
-Van toepassing zijnde criteria 
-Voor deze opdracht gelden de volgende criteria: 
-• 
-
-relevante bepalingen zoals vastgelegd in het accountantsprotocol behorend bij 
-Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024) d.d. 21 mei 2024; 
-nader gestelde subsidieverplichtingen zoals vastgelegd in de (herziene) subsidiebeschikking; 
-
-      …….(zelf invullen op basis van Standaard 3000A.A164). 
-
-• 
-• 
-
-Beperking in het gebruik en verspreidingskring 
-De assurance onderdelen zijn opgesteld voor het Ministerie van Onderwijs, Cultuur en Wetenschap 
-met als doel ... (naam entiteit) in staat te stellen te voldoen aan de relevante bepalingen in de 
-Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024). Hierdoor zijn de assurance onderdelen 
-mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend 
-bestemd voor … (naam entiteit) en het Ministerie van Onderwijs, Cultuur en Wetenschap en dient 
-niet te worden verspreid aan of te worden gebruikt door anderen. 
-
-Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan8 voor de 
-assurance onderdelen 
-Het bestuur van …..(naam entiteit) is verantwoordelijk voor het opstellen van de assurance 
-onderdelen in overeenstemming met de van toepassing zijnde criteria. 
-
-Het bestuur is ook verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht 
-om het opstellen, meten of evalueren van de assurance onderdelen mogelijk te maken zonder 
-afwijkingen van materieel belang als gevolg van fraude of fouten. 
-
-8 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt. 
-
-18 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces 
-van het opstellen van de assurance onderdelen van de entiteit. 
-
-Onze verantwoordelijkheden voor het onderzoek over de assurance onderdelen 
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van ons onderzoek dat wij daarmee 
-voldoende en geschikte assurance-informatie verkrijgen voor het door ons af te geven oordeel. 
-
-Ons onderzoek is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor 
-het mogelijk is dat wij tijdens ons onderzoek niet alle materiële fouten en fraude ontdekken. 
-
-Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken 
-wij over een samenhangend stelsel van kwaliteitsbeheersing inclusief vastgelegde richtlijnen en 
-procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere 
-relevante wet- en regelgeving. 
-
-Ons onderzoek bestond onder andere uit: 
-•  het identificeren en inschatten van de risico’s dat de assurance onderdelen afwijkingen van 
-
-materieel belang bevatten als gevolg van fouten of fraude, het in reactie op deze risico’s bepalen 
-en uitvoeren van assurance-werkzaamheden en het verkrijgen van assurance-informatie die 
-voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van 
-materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van 
-samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het 
-opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing; 
-•  het verkrijgen van inzicht in de interne beheersing die relevant is voor het onderzoek met als 
-doel assurance-werkzaamheden te selecteren die passend zijn in de omstandigheden. Deze 
-werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de 
-interne beheersing van de entiteit. 
-
-•  Het uitvoeren van de opgenomen werkzaamheden in het Accountantsprotocol behorend bij de 
-
-Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024). 
-
-Plaats en datum 
-
-Naam accountantspraktijk 
-
-Naam accountant  
-
-19 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-Bijlage C: Model Rapport overeengekomen specifieke 
-
-werkzaamheden – Subsidieregeling MDT met betrekking 
-
-tot... (onderzoeksobject(en)) 
-
-Afgegeven ten behoeve van het Ministerie van Onderwijs, Cultuur en Wetenschap 
-
-Aan: Opdrachtgever  
-
-Doel van dit rapport inzake overeengekomen specifieke werkzaamheden 
-Ons rapport is uitsluitend bedoeld om te rapporteren over enkele onderdelen van de naleving van de 
-aan de MDT [tijdvak van aanvraag: 2023 of 2024] subsidie verbonden verplichtingen en is mogelijk 
-niet geschikt voor een ander doel. 
-
-Dit rapport is uitsluitend bedoeld voor [Opdrachtgever] en het Ministerie van Onderwijs, Cultuur en 
-Wetenschap (hierna aan te duiden met: “de beoogde gebruikers” en dient niet te worden verspreid 
-aan of te worden gebruikt door anderen. 
-
-Samenvatting [bevindingen] 
-[De samenvatting van de bevindingen dient te worden beschreven op een wijze die objectief is, in 
-bewoordingen die duidelijk, niet misleidend en niet voor verschillende interpretaties vatbaar zijn] 
-
-Verantwoordelijkheden van [Opdrachtgever] en de beoogde gebruikers  
-[Opdrachtgever] en de beoogde gebruiker(s) hebben) erkend dat de overeengekomen specifieke 
-werkzaamheden geschikt zijn voor het doel van de opdracht. 
-
-[Opdrachtgever] is verantwoordelijk voor … (onderzoeksobject(en)) waarop de overeengekomen 
-specifieke werkzaamheden zijn uitgevoerd.  
-
-Van [Opdrachtgever] en de beoogde gebruiker(s) wordt verwacht dat zij een eigen afweging maken 
-van de overeengekomen specifieke werkzaamheden en bevindingen die door ons zijn gerapporteerd 
-en hun eigen conclusies trekken uit de door ons uitgevoerde werkzaamheden. 
-
-Onze verantwoordelijkheden  
-Een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden houdt in dat wij de 
-specifieke werkzaamheden uitvoeren die zijn overeengekomen met [Opdrachtgever] [Indien van 
-toepassing: en met andere beoogde gebruiker(s)] en de bevindingen rapporteren, die de feitelijke 
-uitkomsten zijn van de uitgevoerde overeengekomen specifieke werkzaamheden. 
-
-Wij doen geen uitspraken over de geschiktheid van de overeengekomen specifieke werkzaamheden.  
-
-Wij hebben de overeengekomen specifieke werkzaamheden uitgevoerd volgens het Nederlands recht, 
-waaronder de Nederlandse Standaard 4400, ‘Opdrachten tot het verrichten van overeengekomen 
-specifieke werkzaamheden’.  
-
-Deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is geen 
-assurance-opdracht. Derhalve brengen wij geen oordeel of assurance-conclusie tot uitdrukking. 
-
-Indien wij aanvullende werkzaamheden hadden verricht, zouden mogelijk andere aangelegenheden 
-onder onze aandacht zijn gekomen die gerapporteerd zouden zijn. 
-
-Beroepsethiek en kwaliteitsmanagement 
-Wij hebben de voor ons geldende relevante ethische voorschriften in de Verordening gedrags- en 
-beroepsregels accountants (VGBA) nageleefd. 
-
-Wij hebben de onafhankelijkheidsregels van de Verordening inzake de onafhankelijkheid van 
-accountants bij assurance-opdrachten (ViO) nageleefd 
-
-Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken 
-wij over een samenhangend stelsel van kwaliteitsmanagement inclusief vastgelegde richtlijnen en 
-
-20 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-COPRO 23032 B 
-
-procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere 
-relevante wet- en regelgeving. 
-
-Specifieke werkzaamheden en bevindingen  
-
-Wij hebben de hieronder beschreven specifieke werkzaamheden, die wij met [opdrachtgever] [indien 
-van toepassing: en de beoogde gebruiker(s)] zijn overeengekomen in de opdrachtvoorwaarden van 
-.. (datum), uitgevoerd op .. (onderzoeksobject(en). Verder zijn hieronder onze bevindingen vermeld 
-inclusief details over eventuele uitzonderingen. 
-
-Specifieke werkzaamheden:  
-Co-financiering samenwerkingspartners 
-
-Bevindingen: 
-
-Vaststellen voor 2 samenwerkingspartners dat de verantwoorde 
-ontvangen cofinanciering van samenwerkingspartners, ‘in cash’ en/of 
-’in kind’ cofinanciering overeenkomt met de onderliggende MDT 
-aanvraagtijdvak 2023 of 2024 onderbouwing. 
-
-In geval gerealiseerde cofinanciering ‘in cash’ is.  
-
-1) 
-De accountant stelt vast dat de verantwoorde cofinanciering in cash 
-aansluit op de cofinanciering volgens de overeenkomst tussen de 
-penvoerder en de samenwerkingspartner en de ontvangst van het co-
-financieringsbedrag aansluit op het bankafschrift.  
-
-Eventuele afwijkingen dienen door de penvoerder toegelicht te 
-worden. 
-
-In geval gerealiseerde cofinanciering ’in kind’ is. 
-
-2) 
-De accountant stelt vast dat de verantwoorde cofinanciering in kind 
-aansluit op de cofinanciering volgens de overeenkomst tussen de 
-samenwerkingspartner en de penvoerder (‘Verklaring cofinanciering 
-MDT aanvraagtijdvak 2023 of 2024) en de kostenonderbouwing 
-verantwoording cofinanciering ‘ín kind’ aansluit met de 
-diensten/verzorgen MDT training (uren) of beschikbaar stellen van 
-ruimte of goederen en de daarbij horende onderbouwing (bv. 
-facturen).  
-
-Eventuele afwijkingen dienen door de penvoerder toegelicht te 
-worden. 
-
-Kosten samenwerkingspartners 
-
-Vaststellen voor 10 kosten-items samenwerkingspartner(s) dat aan de 
-hand van de omschrijvingen op de betreffende documenten (zoals 
-facturen, urenstaten, interne doorbelasting, etc.) dat de kosten 
-betrekking hebben op dan wel toegerekend zijn aan de in de 
-beschikking tot subsidieverlening vermelde subsidiabele activiteiten. 
-
-Beperking in het gebruik en verspreidingskring  
-Bij het overeenkomen van de specifieke werkzaamheden is rekening gehouden met de 
-verwachtingen van de beoogde gebruikers Daarom is deze rapportage alleen bestemd voor u, de 
-penvoerder en de Minister van Onderwijs, Cultuur en Wetenschappen. Op deze rapportage kan niet 
-door derden worden gesteund aangezien derden niet op de hoogte zijn van het doel van de 
-werkzaamheden en de resultaten onjuist kunnen interpreteren. U kunt deze rapportage niet aan 
-anderen afgeven zonder onze voorafgaande schriftelijke toestemming, tenzij wettelijke voorschriften 
-anders bepalen. Tevens mag u geen passages uit dit rapport citeren of laten citeren, al dan niet met 
-bronvermelding 
-
-Plaats en datum  
-
-Naam accountantspraktijk  
-
-Naam accountant 
-
-21 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+### Accountantsprotocol
+### 
+### COPRO 23032 B
+### 
+### behorend bij
+### 
+### de Subsidieregeling Maatschappelijk
+### 
+### Diensttijd (MDT)
+### 
+### - Aanvraagtijdvak 2023 en
+### 
+### - Aanvraagtijdvak 2024
+### 
+### Dit Accountantsprotocol is op maat gemaakt voor de subsidieregeling MDT (aanvraagtijdvak 2023
+### en aanvraagtijdvak 2024), waarbij rekening is gehouden met de Schrijfwijzer
+### Accountantsprotocollen van de NBA. MDT is een ‘werkelijke kostenregeling’.
+### 
+### Het betreft het volgende accountantsproducten voor subsidies vanaf € 125.000, genoemd in
+### subsidieregeling MDT:
+### 
+### −
+### 
+### −
+### 
+### artikel 13: controleverklaring bij het financieel verslag
+### 
+### artikel 13: in aanvulling op artikel 7.8 van de Kaderregeling, verstrekt de penvoerder tevens
+### een prestatiebewijs, voorzien van een assurance rapport en een rapport van feitelijke
+### bevindingen, met betrekking tot het aantal afgeronde MDT-trajecten, en het aantal niet-
+### afgeronde MDT-trajecten.
+### 
+### Status: versie d.d. 21 mei 2024
+### 
+### 1
+### 
+### 
+### COPRO 23032 B
+### 
+### 2
+### 
+### Uitgangspunten ................................................................................................................. 3
+### 1
+### 1.1
+### Inleiding ............................................................................................................................. 3
+### Inhoud
+### 1.2  Doelstelling en definities.................................................................................................. 3
+### Subsidie aanvraag en verplichtingen penvoerder ........................................................ 3
+### 1.3
+### Verantwoordelijkheden penvoerder/hoofdaanvrager .................................................... 5
+### 1.5
+### Procedures en termijnen aanvraag tot vaststelling ....................................................... 5
+### 1.6
+### Reviewbeleid ...................................................................................................................... 6
+### 1.7
+### Contactgegevens ............................................................................................................... 6
+### 1.8
+### Controleaanpak bij het financieel verslag van de kosten van de penvoerder ......... 7
+### Relevante wet- en regelgeving ........................................................................................ 7
+### 2.1
+### Financiële Verantwoording Subsidievaststelling Penvoerder......................................... 7
+### 2.2
+### 2.3  Object en reikwijdte onderzoek ....................................................................................... 7
+### Referentiekader voor de controlewerkzaamheden ......................................................... 7
+### 2.4
+### Andere informatie .............................................................................................................. 8
+### 2.5
+### Betrouwbaarheid en materialiteit controleverklaring ..................................................... 8
+### 2.6
+### Accountantsproduct............................................................................................................... 9
+### 2.7
+### Onderzoeksaanpak bij een kwantitatieve opgave van het gerealiseerde aantal
+### 
+### 3
+### afgeronde MDT-trajecten en niet-afgeronde MDT-trajecten ................................................... 10
+### 3.1  Onderzoeksobject en onderzoeksaanpak ...................................................................... 10
+### Referentiekader onderzoekswerkzaamheden ............................................................... 10
+### 3.2
+### Betrouwbaarheid en nauwkeurigheid assurance-rapport ............................................ 11
+### 3.3
+### Accountantsproduct ......................................................................................................... 12
+### 3.4
+### Onderzoeksaanpak opdracht inzake overeengekomen specifieke
+### 
+### 4
+### werkzaamheden ............................................................................................................................. 13
+### 4.1  Onderzoeksaanpak .......................................................................................................... 13
+### 4.2  Onderzoekspunten accountant....................................................................................... 13
+### Rapporteren inzake overeengekomen specifieke werkzaamheden ............................ 14
+### 4.3
+### Bijlage A: Model Controleverklaring – Subsidieregeling MDT ..................................................... 15
+### Bijlage B: Model Assurance-rapport – Subsidieregeling MDT (aanvraagtijdvak 2023 en
+### 2024) ............................................................................................................................................... 18
+### Bijlage C: Model Rapport overeengekomen specifieke werkzaamheden – Subsidieregeling
+### MDT met betrekking tot... (onderzoeksobject(en)) ..................................................................... 20
+### 
+### 2
+### 
+### 
+### COPRO 23032 B
+### 
+### 1  Uitgangspunten
+### 
+### 1.1  Inleiding
+### 
+### Dit accountantsprotocol heeft betrekking op de Subsidieregeling Maatschappelijke Diensttijd
+### (hierna genoemd: Subsidieregeling MDT) en geldt voor aanvraag tijdvak 2023 en het tijdvak
+### 2024.
+### 
+### Dit protocol bestaat uit 4 delen:
+### 
+### •
+### •
+### 
+### Hoofdstuk 1: Uitgangspunten
+### Hoofdstuk  2:  Controle  aanpak  bij  het  financieel  verslag  bij  de  werkelijke  kosten  en
+### gerealiseerde co-financiering van de penvoerder
+### 
+### •  Hoofdstuk  3:  Onderzoeksaanpak  bij een  kwantitatieve  opgave van  het gerealiseerde  aantal
+### 
+### •
+### 
+### afgeronde MDT-trajecten en niet-afgeronde MDT-trajecten1
+### Hoofdstuk 4: Onderzoeksaanpak rapport inzake overeengekomen specifieke werkzaamheden
+### omtrent  de  naleving  van  de  aan  de  subsidie  verbonden  verplichtingen  door  de
+### subsidieontvanger.
+### 
+### In de bijlagen zijn de modellen voor de rapportages voor de accountant opgenomen.
+### 
+### 1.2  Doelstelling en definities
+### 
+### De subsidieregelingen inclusief beoordelingskader zijn gepubliceerd in de Staatscourant:
+### 
+### •
+### •
+### 
+### Aanvraag tijdvak 2023 Staatcourant 1 mei 2023, nr. 12901
+### Aanvraag tijdvak 2024 Staatscourant 5 december 2023 nr. 33054
+### 
+### De subsidie voor MDT ondersteunt maatschappelijke organisaties, bekostigde
+### onderwijsinstellingen en gemeenten om projecten te realiseren die bijdragen aan de
+### doorontwikkeling van het MDT-programma. Op deze regeling is de Kaderregeling subsidies
+### OCW, SZW en VWS van toepassing, met uitzondering van artikel 4.1, eerste lid. Er is sprake
+### van subsidie als bedoeld in artikel 1.5, onderdeel d, van de Kaderregeling.
+### 
+### De relevante definities staan in artikel 1 van de Subsidieregeling MDT.
+### 
+### 1.3  Subsidie aanvraag en verplichtingen penvoerder
+### 
+### Subsidie kan worden aangevraagd voor subsidieronde 2023 en over 2024 door een penvoerder
+### (hoofdaanvrager) namens een samenwerkingsverband. Voorwaarden zijn dat de penvoerder:
+### 
+### •
+### 
+### •
+### •
+### 
+### voldoet aan de beoordelingscriteria die zijn uitgewerkt in bijlage 1 behorend bij deze
+### subsidieregeling (artikel 8 lid 5);
+### zorg draagt dat een MDT-traject niet leidt tot stage- of werkverdringing (artikel 8 lid 7); en
+### zorg draagt dat deelname aan MDT-trajecten vrijwillig is (artikel 8 lid 8).
+### 
+### De penvoerder heeft onder meer de volgende verplichtingen (artikel 9):
+### 
+### •
+### 
+### •
+### 
+### •
+### 
+### realiseert cofinanciering zoals bedoeld in artikel 6, derde lid, van ten minste 25% van de
+### totale kosten (artikel 9 lid b);
+### voert per variant tenminste 85% van het aantal bij de aanvraag voorgenomen MDT-trajecten
+### volledig uit (artikel 9 lid d); en
+### heeft de verplichting om het MDT-proof label aan te vragen binnen 12 maanden na
+### startdatum van het project (artikel 9 lid f).
+### 
+### 1 Dit betreft de opgave van de penvoerder inclusief partners
+### 
+### 3
+### 
+### 
+### COPRO 23032 B
+### 
+### De MDT-varianten voor aanvraag in tijdvak 2023 en 2024 betreffen:
+### 
+### 1) MDT-basis-traject: MDT-traject van ten minste 80 uur gedurende een periode van ten
+### 
+### hoogste 6 maanden;
+### 
+### 2) MDT-plus-traject: MDT-traject van ten minste 200 uur gedurende een periode van ten
+### 
+### minste 3 en ten hoogste 6 maanden;
+### 
+### 3) MDT-extra-traject: MDT-traject van ten minste 80 uur gedurende een periode van ten
+### 
+### hoogste 6 maanden, waarbij het MDT-traject de intensieve begeleiding van een jongere
+### vergt.
+### 
+### Uitsluitend voor aanvraag in tijdvak 2024 geldt de volgende variant:
+### 
+### 4) MDT-intensief-traject: MDT-traject van ten minste 320 uur gedurende een periode van ten
+### 
+### hoogste 6 maanden.
+### 
+### 1.4  Relevante wet- en regelgeving
+### 
+### Voor de accountantswerkzaamheden betreffende de aanvraag tot subsidievaststelling zijn de
+### volgende wet- en regelgeving van toepassing:
+### 
+### • De ‘Subsidieregeling MDT ‘ inclusief toelichting;
+### •
+### 
+### Kaderregeling subsidies OCW, SZW en VWS van toepassing, met uitzondering
+### van artikel 4.1, eerste lid. Er is sprake van subsidie als bedoeld in artikel 1.5, onderdeel d,
+### van de Kaderregeling;
+### Standaard 805;
+### Standaard 3000A; en
+### Standaard 4400.
+### 
+### •
+### •
+### •
+### 
+### De accountant voert het onderzoek uit inzake de aanvraag tot subsidievaststelling over 2023
+### respectievelijk over 2024 met inachtneming van dit protocol. Dit onderzoek bestaat uit drie
+### opdrachten:
+### 
+### 1. Uitgangspunt voor het accountantsonderzoek gericht op de verantwoordingsdocumenten bij de
+### 
+### werkelijke kosten en gerealiseerde co-financiering van de penvoerder is Standaard 805
+### 'Bijzondere overwegingen - Controles van een enkel financieel overzicht en controles van
+### specifieke elementen, rekeningen of posten van een financieel overzicht'.
+### Voor de uitwerking van deze werkzaamheden zie hoofdstuk 2 van dit protocol.
+### 
+### 2. Uitgangspunt voor het assurance-onderzoek gericht op de kwantitatieve opgave van de
+### 
+### afgeronde MDT-trajecten en voor niet-afgeronde MDT-trajecten is Standaard 3000A ‘Assurance-
+### opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële
+### informatie (attest-opdrachten)’.
+### Voor de uitwerking van deze werkzaamheden zie hoofdstuk 3 van dit protocol.
+### 
+### 3. De opdracht inzake overeengekomen specifieke werkzaamheden omtrent de naleving van de aan
+### de subsidie verbonden verplichtingen door de subsidieontvanger valt onder de Standaard 4400
+### 'Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden', die ook van
+### toepassing is bij andere dan financiële informatie.
+### Voor de uitwerking van deze werkzaamheden zie hoofdstuk 4 van dit protocol.
+### 
+### De accountant dient de ‘Verordening gedrags- en beroepsregels accountants’ (VGBA) en de
+### ‘Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten’ (ViO) na te
+### leven of, indien van toepassing, andere wettelijke of professionele vereisten, die ten minste
+### gelijkwaardig zijn.
+### 
+### 4
+### 
+### 
+### COPRO 23032 B
+### 
+### 1.5  Verantwoordelijkheden penvoerder/hoofdaanvrager
+### 
+### De penvoerder c.q. hoofdaanvrager dient zorg te vragen voor de controleverklaring over de
+### werkelijke kosten en gerealiseerde co-financiering van de penvoerder.
+### Samenwerkingspartners die van de hoofdaanvrager een subsidie hebben ontvangen en/of
+### samenwerkingspartners die co-financiering hebben gerealiseerd dienen na beëindiging van hun deel
+### van het project een financiële verantwoording in te dienen bij de penvoeder c.q. hoofdaanvrager.
+### Deze financiële verantwoording moet vergezeld gaan van een compleet ingevulde en ondertekende
+### bestuursverklaring (ook wel directieverklaring genoemd). De penvoerder controleert de aangeleverde
+### documenten en is verantwoordelijk voor de aanlevering van financiële verantwoording voor de
+### subsidievaststelling.
+### 
+### 1.6  Procedures en termijnen aanvraag tot vaststelling
+### 
+### De penvoerder heeft de verplichting om uiterlijk binnen 6 maanden na verlening van de subsidie te
+### starten met de projectactiviteiten. De penvoerder dient binnen 22 weken na de datum waarop de
+### activiteiten waarvoor de subsidie is verleend, uiterlijk moeten zijn verricht, een aanvraag om
+### vaststelling in (artikel 13 lid 1) over 2023 respectievelijk over 2024.
+### 
+### Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister vastgesteld
+### modelformulier gebruikt.
+### 
+### Voor subsidievaststelling als bedoeld in artikel 13 legt de penvoerder in zijn aanvraag om vaststelling
+### rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag.
+### Voor subsidies vanaf € 125.000 wordt een controleverklaring bij het financieel verslag gevraagd,
+### verstrekt door een accountant: een registeraccountant of Accountant Administratieconsulent als
+### bedoeld in artikel 1 van de Wet op het accountantsberoep.
+### 
+### Voor de controleverklaring dient gebruik te worden gemaakt van het model controleverklaring zoals
+### opgenomen in bijlage A van dit protocol.
+### 
+### Bij de aanvraag tot vaststelling wordt tevens een assurance rapport bijgevoegd, betreffende de
+### aantallen gerealiseerde prestatie-eenheden, waarbij de penvoerder tevens een prestatiebewijs
+### verantwoord voor afgeronde MDT-trajecten en voor niet-afgeronde MDT-trajecten per variant,
+### verstrekt door een accountant: een registeraccountant of Accountant Administratieconsulent als
+### bedoeld in artikel 1 van de Wet op het accountantsberoep. Voor het assurance-rapport dient gebruik
+### te worden gemaakt van het model assurance-rapport zoals opgenomen in bijlage B van dit protocol.
+### 
+### In aanvulling op artikel 7.8 van de Kaderregeling, dient de subsidieontvanger de controleverklaring
+### vergezeld te doen gaan van een rapport inzake overeengekomen specifieke werkzaamheden,
+### verstrekt door een accountant (een registeraccountant of Accountant Administratieconsulent als
+### bedoeld in artikel 1 van de Wet op het accountantsberoep), omtrent de naleving van de aan de
+### subsidie verbonden verplichtingen door de subsidieontvanger. Voor het rapport inzake
+### overeengekomen specifieke werkzaamheden dient gebruik te worden gemaakt van het model rapport
+### zoals opgenomen in bijlage C van dit protocol.
+### 
+### Indien de penvoerder een onderwijsinstelling (artikel 13 lid 4) is als bedoeld in artikel 1, onderdeel
+### a, van de Regeling jaarverslaggeving onderwijs dan:
+### 
+### •
+### 
+### •
+### 
+### •
+### 
+### levert de penvoerder een activiteitenverslag aan, inclusief het aantal afgeronde MDT-
+### trajecten per variant, en het aantal niet-afgeronde MDT-trajecten per variant en inclusief
+### de verwerving van cofinanciering;
+### geschiedt de verantwoording in de jaarverslaggeving overeenkomstig de Regeling
+### jaarverslaggeving onderwijs met model G, onderdeel 2, zoals bedoeld in richtlijn 660 van
+### de Raad voor de Jaarverslaggeving;
+### geldt dat de subsidie uitsluitend kan worden besteed aan de activiteiten waarvoor deze
+### wordt verleend, en dat niet bestede subsidie worden teruggevorderd; en
+### 
+### 5
+### 
+### 
+### COPRO 23032 B
+### 
+### •
+### 
+### vermeldt de penvoerder in het bestuursverslag het aantal afgeronde MDT-trajecten per
+### variant, en het aantal niet-afgeronde MDT-trajecten per variant.
+### 
+### Voor de werkzaamheden van de accountants van de onderwijsinstellingen verwijzen wij naar het
+### Onderwijsaccountantsprotocol 2024 waarin deze werkzaamheden zullen worden opgenomen.
+### 
+### 1.7  Reviewbeleid
+### 
+### OCW (en DUS-I die de ‘Subsidieregeling MDT uitvoert) heeft als subsidieverstrekker te allen tijde de
+### mogelijkheid een review uit te voeren of te laten uitvoeren bij de accountant belast met het
+### onderzoek naar de informatie opgenomen in de aanvraag teneinde na te gaan of het onderzoek met
+### inachtneming van de relevante regelgeving van de NBA en dit protocol is uitgevoerd. Deze reviews
+### komen niet in de plaats van andere controles dan wel reviews uitgevoerd door de Algemene
+### Rekenkamer.
+### 
+### De accountant belast met het onderzoek en verantwoordelijk voor het verstrekken van het
+### accountantsproduct bij de aanvraag stemt er mee in dat de onderzoeksdossiers ten behoeve van
+### bovengenoemde reviews integraal aan de reviewers ter inzage worden gegeven. Voorts zal de
+### accountant, schriftelijk dan wel mondeling, alle gevraagde gegevens verstrekken die in het kader van
+### voornoemde reviews worden opgevraagd. In dit kader wordt verwezen naar de bepalingen in
+### hoofdstuk 6, paragraaf 1, van de Comptabiliteitswet 2016.
+### 
+### 1.8  Contactgegevens
+### 
+### Voor vragen over deze Subsidieregeling kan door aanvragers contact worden opgenomen met de
+### Dienst Uitvoering Subsidies aan Instellingen (DUS-I) via MDTsubsidies@minocw.nl.
+### 
+### 6
+### 
+### 
+### COPRO 23032 B
+### 
+### 2  Controleaanpak bij het financieel verslag van de kosten
+### 
+### van de penvoerder
+### 
+### 2.1  Relevante wet- en regelgeving
+### 
+### De subsidieregeling MDT betreft een werkelijke kosten regeling met prestatiecomponent:
+### 
+### •
+### 
+### •
+### 
+### 1: werkelijke kosten (subsidie mag maximaal 75% van het totaal aan werkelijk gemaakte
+### kosten zijn); en
+### 2: prestatiecomponent (gerealiseerd aantal trajecten moet per variant tenminste 85% zijn).
+### 
+### Ter vaststelling van de betrouwbaarheid van de verstrekte informatie wordt een controleverklaring
+### bij het door de penvoerder ingediende financieel verslag als bedoeld in artikel 13 verstrekt.
+### 
+### 2.2  Financiële Verantwoording Subsidievaststelling Penvoerder
+### 
+### De penvoerder c.q. hoofdaanvrager dient zorg te vragen voor de controleverklaring over de
+### werkelijke kosten en gerealiseerde co-financiering van de penvoerder.
+### Samenwerkingspartners die van de hoofdaanvrager een subsidie hebben ontvangen en/of
+### samenwerkingspartners die co-financiering hebben gerealiseerd dienen na beëindiging van hun deel
+### van het project een financiële verantwoording in te dienen bij de penvoeder c.q. hoofdaanvrager.
+### Deze financiële verantwoording moet vergezeld gaan van een compleet ingevulde en ondertekende
+### bestuursverklaring (ook wel directieverklaring genoemd). De penvoerder controleert de aangeleverde
+### documenten en is verantwoordelijk voor de aanlevering van financiële verantwoording voor de
+### subsidievaststelling.
+### 
+### 2.3  Object en reikwijdte onderzoek
+### 
+### De accountantswerkzaamheden worden uitgevoerd volgens de Standaard 805 en zijn gericht op het
+### verkrijgen van een  redelijke mate van  zekerheid  dat  het aanvraagformulier  tot vaststelling met de
+### opgenomen gerealiseerde prestatie-eenheden in alle van materieel belang zijnde aspecten tot stand is
+### gekomen in overeenstemming met de relevante wet- en regelgeving, zoals vastgelegd in 1.4 van dit
+### protocol. Het controleobject betreft de financiële verantwoording over uitsluitend de werkelijke kosten
+### en gerealiseerde co-financiering van de penvoerder.
+### 
+### 2.4  Referentiekader voor de controlewerkzaamheden
+### 
+### Voor de controlewerkzaamheden die leiden tot de controleverklaring behorend bij het financieel
+### verslag van uitsluitend de kosten van de penvoerder gelden de volgende toetspunten:
+### 
+### A) Kosten: de in het financieel verslag verantwoorde kosten dienen betrekking te hebben op de
+### 
+### in de verleningsbeschikking opgenomen activiteiten (artikel 4)2.
+### 
+### B) Periode: de in het financieel verslag verantwoorde kosten en gerealiseerde bijdragen van
+### 
+### derden hebben betrekking op de in de verleningsbeschikking genoemde periode waarvoor de
+### subsidie is verleend (artikel 6 lid 1);
+### 
+### C) Kostenberekening: de werkelijke kosten worden berekend op basis van een controleerbare
+### 
+### methode die is gebaseerd op bedrijfseconomische grondslagen en normen die in het
+### maatschappelijk verkeer als aanvaardbaar worden beschouwd en die door de
+### subsidieontvanger stelselmatig worden toegepast (artikel 1.7 lid 1 Kaderregeling en
+### toelichting).
+### 
+### 2 Handreiking 2023: Penvoerders zijn verplicht een projectadministratie bij te houden voor een MDT project. Indien meerdere
+### MDT-projecten tegelijkertijd lopen, dan dient de projectadministraties (een financiële- en deelnemersadministratie) duidelijk van
+### elkaar gescheiden zijn. Er mag namelijk geen dubbelfinanciering plaatsvinden. Werkelijk gemaakt kosten mogen niet in meerdere
+### projecten worden verantwoord. Gemaakte kosten dienen duidelijk aan een project te zijn toegekend door een factuur aan slechts
+### één project toe te kennen of de factuur door middel van een correcte en transparante verdeelsleutel gedeeltelijk aan de
+### verschillende projecten toe te kennen.
+### 
+### 7
+### 
+### 
+### COPRO 23032 B
+### 
+### D) Voorzieningen en reserveringen: toevoegingen aan voorzieningen en reserveringen
+### komen niet in aanmerking voor subsidie, tenzij de minister met deze toevoegingen
+### schriftelijk heeft ingestemd (artikel 1.7 lid 3 Kaderregeling).
+### 
+### Aan de niet hierboven genoemde artikelen van de Kaderregeling hoeft bij de uitvoering van de
+### controle geen aandacht te worden besteed, met dien verstande dat teneinde de controle op de
+### hierboven genoemde artikelen goed te kunnen verrichten kennisneming van de Wet overige OCW-
+### subsidies, de Kaderwet SZW-subsidies en de Kaderwet VWS-subsidies en de niet genoemde artikelen
+### van de Kaderregeling (inclusief de toelichting) noodzakelijk is. Voor uitgebreidere informatie over de
+### regeling en subsidiabele kosten wordt verwezen naar de MDT-website3.
+### 
+### 2.5  Andere informatie
+### 
+### Het financieel verslag betreffende de verantwoording van de bestedingen in het kader van de MDT-
+### regeling omvat naast verantwoordingsinformatie ook andere informatie, die bestaat uit:
+### •
+### 
+### het activiteitenverslag.
+### 
+### De accountant dient overeenkomstig Standaard 720 ’De verantwoordelijkheden van de accountant
+### met betrekking tot andere informatie’ vast te stellen dat de andere informatie verenigbaar is met het
+### financieel verslag en geen materiële afwijkingen bevat. Indien blijkt dat de andere informatie niet
+### verenigbaar is met het financieel verslag dan vermeldt de accountant dit in de controleverklaring.
+### 
+### 2.6  Betrouwbaarheid en materialiteit controleverklaring
+### 
+### De controle behoort zodanig te worden ingepland en uitgevoerd dat een redelijke mate van
+### zekerheid wordt verkregen dat het financieel verslag geen afwijkingen (fouten) van materieel belang
+### bevat. Indien laatstgenoemd begrip voor het gebruik van statistische technieken gekwantificeerd
+### moet worden, moet uitgegaan worden van een betrouwbaarheid van 95%.
+### 
+### Een goedgekeurde controleverklaring impliceert dat, gegeven de eerdergenoemde betrouwbaarheid,
+### in het financieel verslag geen afwijkingen (onjuistheden) en in de controle geen onzekerheden
+### voorkomen met een belang dat groter is dan de voorgeschreven toleranties. Het referentiekader is
+### opgenomen in paragraaf 2.3 onder a tot en met d van dit accountantsprotocol.
+### 
+### Het totaalbedrag van de subsidiabele kosten van de penvoerder vormt de basis waarop de
+### toleranties van onderstaande tabel moeten worden toegepast. Voor de strekking van de
+### controleverklaring gelden de volgende toleranties:
+### 
+### Materialiteitstabel
+### 
+### Goedkeurend
+### oordeel
+### 
+### Oordeel met
+### beperking
+### 
+### Oordeelonthouding/
+### Afkeurend oordeel
+### 
+### Fouten (afwijkingen) in het
+### financieel verslag en
+### onzekerheden in de controle
+### 
+### <2%
+### 
+### >2%  -  <4%
+### 
+### >4%
+### 
+### Indien de accountant zowel fouten in het financieel verslag als onzekerheden in de controle aantreft,
+### dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.
+### 
+### 3 Maatschappelijke diensttijd 2023 | Subsidie | Dienst Uitvoering Subsidies aan Instellingen (dus-i.nl)
+### 
+### Hier wordt bijvoorbeeld beschreven dat reguliere overheadkosten niet apart mag worden opgevoerd ten laste van de subsidie.
+### Deze kosten moeten worden verrekend in het maximale uurtarief van €130 per uur. Alleen in bijzondere omstandigheden mag
+### hiervan worden afgeweken. Bijvoorbeeld voor specifieke MDT-activiteiten zoals de huur van een bijzondere locatie of inhuur van
+### een spreker op een evenement.
+### 
+### 8
+### 
+### 
+### COPRO 23032 B
+### 
+### Van fouten in de verantwoording is sprake indien naar aanleiding van de uitgevoerde controle is
+### gebleken dat het financieel verslag onjuistheden bevat omdat deze niet voldoen aan de normen van
+### het in paragraaf 2.3 van dit accountantsprotocol bedoelde referentiekader. Fouten worden in
+### absolute zin opgevat. Salderen van fouten is daarom niet toegestaan.
+### 
+### Van een onzekerheid in de controle is sprake indien geen voldoende en geschikte (controle-)
+### informatie beschikbaar is om posten in het financieel verslag als goed of fout aan te merken.
+### Kortom, als onzekerheid bestaat over het wel of niet voldoen aan de normen van het
+### referentiekader.
+### 
+### 2.7  Accountantsproduct
+### 
+### Voor de controleverklaring dient gebruik te worden gemaakt van het model controleverklaring zoals
+### opgenomen in bijlage A van dit protocol aangepast aan de meest recente NBA-voorbeeldteksten ten
+### tijde  van  het  opstellen  van  het  protocol.  Deze  voorbeeldteksten  zijn  gebaseerd  op  de  geldende
+### Standaarden. Om de samenhang en herkenbaarheid van het accountantsproduct te bevorderen raadt
+### de  NBA  het gebruik van de  meest  recente  NBA-voorbeeldteksten  aan. Wel blijft de  accountant zelf
+### verantwoordelijk voor het gebruik van de juiste tekst. De accountant zal deze nog moeten afstemmen
+### op de specifieke situatie.
+### 
+### 9
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### 3  Onderzoeksaanpak bij een kwantitatieve opgave van
+### het gerealiseerde aantal afgeronde MDT-trajecten en
+### niet-afgeronde MDT-trajecten4
+### 
+### 3.1  Onderzoeksobject en onderzoeksaanpak
+### 
+### De accountantswerkzaamheden worden uitgevoerd volgens de Standaard 3000A en zijn gericht
+### op het verkrijgen van een redelijke mate van zekerheid.
+### Met het oog op de vaststelling van de betrouwbaarheid van de verstrekte informatie wordt een
+### assurance-rapport verstrekt bij het aanvraagformulier ten behoeve van de subsidievaststelling.
+### Dit assurance-rapport betreft uitsluitend de volgende twee onderdelen van het
+### aanvraagformulier, te weten:
+### •
+### 
+### de kwantitatieve opgave met het aantal gerealiseerde afgeronde MDT-trajecten,
+### onderverdeeld naar MDT-basis-trajecten, MDT-plus-trajecten, MDT-extra-trajecten en/of MDT
+### intensief (alleen mogelijk bij aanvraagtijdvak 2024);
+### de kwantitatieve opgave met het aantal niet afgeronde MDT-basis-trajecten, MDT-plus-
+### trajecten, MDT extra-trajecten en/of MDT intensief (alleen mogelijk bij aanvraagtijdvak
+### 2024).
+### 
+### •
+### 
+### 3.2  Referentiekader onderzoekswerkzaamheden
+### 
+### Voor het assurance-onderzoek dat leidt tot het assurance-rapport behorend bij de opgave ten
+### behoeve van het aanvraagformulier ten behoeve van de subsidievaststelling gelden de volgende
+### onderzoekspunten:
+### 
+### •  Periode: de periode waarin de prestaties zijn gerealiseerd. De subsidie wordt voor een
+### 
+### periode van twee of drie jaar verstrekt (artikel 6).
+### 
+### •  Het aantal gerealiseerde afgeronde MDT-trajecten (artikel 4 eerste lid onder a) en of
+### 
+### dit overzicht betrouwbaar is, onderverdeeld naar
+### 
+### o  MDT-basis-trajecten;
+### o  MDT-plus-trajecten; en
+### o  MDT-extra-trajecten; en
+### o  MDT-intensief(alleen mogelijk bij aanvraagtijdvak 2024).
+### 
+### •  Het aantal gerealiseerde niet afgeronde MDT-trajecten en of dit overzicht
+### 
+### betrouwbaar is, onderverdeeld naar
+### o  MDT-basis-trajecten;
+### o  MDT-plus-trajecten; en
+### o  MDT-extra-trajecten; en
+### o  MDT-intensief(alleen mogelijk bij aanvraagtijdvak 2024).
+### 
+### NB: De gerealiseerde aantallen zijn mogelijk niet gebaseerd op een reeds in het kader van de
+### jaarrekeningcontrole en/of andere controles gecontroleerd systeem van de penvoerder waarin al
+### deze trajecten worden vastgelegd. Derhalve dient nader onderzoek uitgevoerd te worden naar de
+### betrouwbaarheid van de MDT-registratie en de onderliggende documentatie.
+### 
+### De penvoerder is verplicht een (MDT-)registratie bij te houden (artikel 9 lid k) met:
+### 
+### -
+### -
+### -
+### -
+### -
+### -
+### 
+### de naam, adres, woonplaats, leeftijd, geslacht, telefoonnummer en emailadres van de jongere
+### de naam en postcode van de organisatie waar de jongere het MDT-traject doorloopt,
+### soort MDT-traject,
+### start- en einddatum van het MDT-traject,
+### aantal uren dat is besteed aan het MDT-traject en, indien van toepassing,
+### de reden van vroegtijdig stoppen met het MDT-traject.
+### 
+### 4 Dit betreft de opgave van de penvoerder inclusief partners
+### 
+### 10
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### De MDT-registratie bij de penvoerder dient te beschikken over de volgende onderbouwing van de
+### MDT-traject uren die zijn gemaakt door deelnemers : onderbouwing door middel van urenregistratie
+### van deelnemers MDT (in beginsel getekend door deelnemer en geautoriseerd door leidinggevende)
+### met onderliggende documentatie van:
+### 
+### a)  Startdocument: bijvoorbeeld een intakedocument of trajectplan ondertekend door jongere,
+### 
+### waarbij startdatum en einddatum van het traject benoemd zijn
+### 
+### b)  Tussentijds document, bijvoorbeeld een tussentijdse evaluatie van het trajectplan of een
+### 
+### gespreks-verslag van de voortgang of presentielijsten van MDT-kandidaten getekend door
+### deelnemer en begeleider/leidinggevende van de desbetreffende organisatie van het MDT-traject
+### of een logboek;
+### 
+### c)  Bij een niet afgerond MDT-traject: de vastlegging van de reden van het vroegtijdig stoppen van
+### het MDT-traject (communicatie vanuit de samenwerkingspartner of penvoerder met bevestiging
+### aan de deelnemer dat het MDT-traject niet is afgerond)
+### 
+### d)  Bij een afgerond MDT-traject: een aan de deelnemer verstrekt MDT-certificaat/bewijs van
+### 
+### afronding. Betreft certificaat ondertekend door begeleider en jongere met vermelding van het
+### aan uren/weken dat het traject werd besteed en uit welke onderdelen het traject bestaat
+### (uitstroomdatum).
+### 
+### Andere opties ten behoeve van bewijs van contactmoment MDT-traject met vermelding naam
+### deelnemer en begeleider:
+### 
+### -
+### -
+### 
+### Presentielijst getekend door deelnemer
+### Logboek.
+### 
+### Bij de penvoerder is een autorisatiematrix aanwezig van de deelnemende organisaties en van de
+### penvoerder zelf inzake de MDT-urenregistratie die aansluit op de reguliere bevoegdheden binnen de
+### organisatie van de penvoerder en de deelnemende organisaties en die in lijn is met vergelijkbare
+### (MDT-)projecten of in lijn is met de gebruikelijke interne procedures.
+### 
+### 3.3  Betrouwbaarheid en nauwkeurigheid assurance-rapport
+### 
+### Voor de kwantitatieve opgave van het aantal gerealiseerde afgeronde MDT-trajecten en het aantal
+### niet afgeronde MDT-trajecten geldt dat het onderzoek zodanig behoort te worden ingepland en
+### uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de opgave ter vaststelling van
+### de subsidie geen afwijkingen van materieel belang bevat. Indien dit begrip voor het gebruik van
+### statistische technieken gekwantificeerd moet worden, moet uitgegaan worden van een
+### betrouwbaarheid van 95%.
+### 
+### Een assurance-rapport met een goedkeurende strekking impliceert dat, gegeven eerdergenoemde
+### betrouwbaarheid, in de verantwoording geen afwijkingen (onjuistheden en onzekerheden)
+### voorkomen groter of gelijk aan de voorgeschreven toleranties. Als omvangsbasis geldt het totaal
+### aantal gerealiseerde afgeronde MDT-trajecten respectievelijk het totaal niet afgeronde MDT-
+### trajecten over de verantwoordingsperiode.
+### 
+### Het referentiekader is opgenomen in paragraaf 3.2.
+### 
+### Voor de strekking van het oordeel in het assurance-rapport gelden de volgende toleranties (op
+### basis van de som van het totaal aantal gerealiseerde afgeronde MDT-trajecten respectievelijk
+### het totaal niet afgeronde MDT-trajecten over de verantwoordingsperiode):
+### 
+### Materialiteitstabel
+### 
+### Goedkeurend
+### oordeel
+### 
+### Oordeel met
+### beperking
+### 
+### Oordeelonthouding/
+### Afkeurend oordeel
+### 
+### Fouten (afwijkingen) in de
+### verantwoording en
+### onzekerheden in het assurance
+### onderzoek
+### 
+### <2%
+### 
+### >2%  -  <4%
+### 
+### >4%
+### 
+### 11
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Van fouten is sprake indien naar aanleiding van het uitgevoerde assurance-onderzoek is gebleken
+### dat de kwantitatieve opgave van het aantal de gerealiseerde prestatie-eenheden onjuistheden bevat
+### omdat deze niet voldoen aan de normen van het in paragraaf 3.2 bedoelde referentiekader.
+### 
+### Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en
+### onzekerheden zoveel mogelijk kwantificeert. Fouten worden in absolute zin opgevat.
+### 
+### Het voorgaande is van overeenkomstige toepassing op onzekerheden in het assurance onderzoek.
+### Van een onzekerheid in het assurance onderzoek is sprake als er onvoldoende (assurance-)
+### informatie beschikbaar is om de verantwoorde aantallen prestatie-eenheden als goed of fout aan te
+### merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de normen van het
+### referentiekader.
+### 
+### Indien de accountant zowel fouten in de kwantitatieve opgave als onzekerheden in het assurance
+### onderzoek aantreft, dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.
+### 
+### 3.4  Accountantsproduct
+### 
+### De  accountant  legt  de  uitkomsten  van  de  werkzaamheden  vast  in  een  assurance-rapport,  zoals
+### beschreven in de NV COS 3000A. In bijlage B van dit protocol is het model voor het assurance-rapport
+### opgenomen aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van
+### het protocol. Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden. Om de samenhang
+### en herkenbaarheid van het accountantsproduct te bevorderen raadt de NBA het gebruik van de meest
+### recente NBA-voorbeeldteksten aan. Wel blijft de accountant zelf verantwoordelijk voor het gebruik van
+### de juiste tekst. De accountant zal deze nog moeten afstemmen op de specifieke situatie.
+### 
+### 12
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### 4  Onderzoeksaanpak opdracht inzake overeengekomen
+### 
+### specifieke werkzaamheden
+### 
+### 4.1  Onderzoeksaanpak
+### 
+### De accountant voert zijn werkzaamheden uit volgens Standaard 4400 ‘Opdrachten tot het verrichten
+### van overeengekomen specifieke werkzaamheden’, de Verordening Gedrags- en Beroepsregels
+### Accountants (VGBA) en de ‘Verordening inzake de onafhankelijkheid van accountants bij assurance-
+### opdrachten’ (ViO) na te leven of, indien van toepassing, andere wettelijke of professionele vereisten,
+### die ten minste gelijkwaardig zijn en dit protocol.
+### 
+### Er is geen sprake van het uitvoeren van een assurance-opdracht, de accountant verstrekt geen
+### zekerheid (assurance). De accountant rapporteert over de uitkomsten van zijn werkzaamheden door
+### middel van het rapport inzake overeengekomen specifieke werkzaamheden, zoals opgenomen in
+### bijlage C.
+### 
+### In dit rapport vermeldt hij welke werkzaamheden hij heeft uitgevoerd, wat de reikwijdte van zijn
+### werkzaamheden is geweest en tot welke bevindingen dit heeft geleid. Van de accountant wordt niet
+### verwacht dat hij een uitspraak doet over de toereikendheid en geschiktheid van de verrichte
+### werkzaamheden in relatie tot het doel waarvoor deze worden verricht, noch voor elk ander doel.
+### 
+### De accountant rapporteert zijn bevindingen zonder een oordeel hierover te vormen. Het ministerie
+### van Onderwijs, Cultuur en Wetenschappen (hierna OCW), vormt een oordeel over de bevindingen en
+### trekt op basis hiervan haar conclusies.
+### 
+### Gezien de specifieke voorwaarden in een Standaard 4400 opdracht is de verspreidingskring van het
+### rapport beperkt tot de penvoerder en OCW met wie de werkzaamheden zijn overeengekomen.
+### 
+### 4.2  Onderzoekspunten accountant
+### 
+### Voor het onderzoek dat leidt tot het rapport inzake overeengekomen specifieke werkzaamheden
+### gelden de volgende overeengekomen specifieke werkzaamheden ten aanzien van naleving van de
+### aan de subsidie verbonden verplichtingen.
+### 
+### Per punt is vermeld wat OCW van de accountant verwacht om hieraan invulling te geven.
+### 
+### Penvoerder is verantwoordelijk voor de samenwerking binnen het partnerschap en de
+### uitvoering van het MDT-project volgens de voorwaarden en verplichtingen van de
+### subsidieregeling.
+### De penvoerder is onderdeel van het samenwerkingsverband en treedt op als aanvrager van de
+### subsidie. Het partnerschap bestaat uit instellingen die samenwerken bij het faciliteren van een MDT-
+### project. Met instelling wordt bedoeld elke privaatrechtelijke rechtspersoon met volledige
+### rechtsbevoegdheid of een rechtspersoon die krachtens publiekrecht is ingesteld. De instellingen in
+### het partnerschap kunnen gemeenten, werkgeversorganisaties, vrijwilligerscentrales, scholen,
+### bedrijven of maatschappelijke organisaties zijn. In een partnerschap zit in ieder geval een MDT-
+### aanbieder die MDT-trajecten voor jongeren faciliteert, toegang heeft tot een jongerennetwerk en
+### begeleiding aan jongeren kan bieden. De andere instellingen in een partnerschap ondersteunen de
+### MDT-aanbieder(s). De instellingen in het partnerschap kunnen indirect, namelijk via de penvoerder,
+### subsidie ontvangen. Voor de werkelijke kosten van de penvoerder geldt dat deze worden
+### gecontroleerd, zie werkzaamheden zoals beschreven in hoofdstuk 2.
+### 
+### 13
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### De volgende overeengekomen specifieke werkzaamheden ten aanzien van de naleving aan de
+### subsidie verbonden verplichtingen dienen te worden uitgevoerd:
+### 
+### Co-financiering samenwerkingspartners
+### Vaststellen voor 2 samenwerkingspartners dat de verantwoorde ontvangen cofinanciering van
+### samenwerkingspartners, ‘in cash’ en/of ’in kind’ cofinanciering overeenkomt met de onderliggende
+### MDT aanvraagtijdvak 2023 of 2024 onderbouwing.
+### 
+### 1)  In geval gerealiseerde cofinanciering ‘in cash’ is, dan stelt de accountant vast dat de
+### 
+### verantwoorde cofinanciering in cash aansluit op de cofinanciering volgens de overeenkomst
+### tussen de penvoerder en de samenwerkingspartner en de ontvangst van het co-
+### financieringsbedrag aansluit op het bankafschrift. Eventuele afwijkingen dienen door de
+### penvoerder toegelicht te worden.
+### 
+### 2)  In geval gerealiseerde cofinanciering ’in kind’ is, dan stelt de accountant vast dat de
+### 
+### verantwoorde cofinanciering in kind aansluit op de cofinanciering volgens de overeenkomst
+### tussen de samenwerkingspartner en de penvoerder (‘Verklaring cofinanciering MDT
+### aanvraagtijdvak 2023 of 2024) en de kostenonderbouwing verantwoording cofinanciering ‘ín
+### kind’ aansluit met de diensten/verzorgen MDT training (uren) of beschikbaar stellen van
+### ruimte of goederen en de daarbij horende onderbouwing (bv. facturen)5. Eventuele
+### afwijkingen dienen door de penvoerder toegelicht te worden.
+### 
+### Kosten samenwerkingspartners
+### 
+### 1.  Vaststellen voor 10 kosten-items samenwerkingspartner(s) dat aan de hand van de
+### omschrijvingen op de betreffende documenten (zoals facturen, urenstaten, interne
+### doorbelasting, etc.) dat de kosten betrekking hebben op dan wel toegerekend zijn aan de in
+### de beschikking tot subsidieverlening vermelde subsidiabele activiteiten.
+### 
+### 4.3  Rapporteren inzake overeengekomen specifieke werkzaamheden
+### 
+### De accountant legt de uitkomsten van zijn werkzaamheden vast in een rapport van feitelijke
+### bevindingen, zoals beschreven in de NV COS Standaard 4400 ‘Opdrachten tot het verrichten van
+### overeengekomen specifieke werkzaamheden’. In bijlage C is een voorbeeldmodel opgenomen van
+### een rapport van feitelijke bevindingen
+### 
+### In het rapport vermeldt de accountant welke specifieke werkzaamheden hij in dit kader heeft
+### verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn onderzoek
+### bevindingen heeft vastgesteld maakt hij daarvan melding in zijn rapport inzake overeengekomen
+### specifieke werkzaamheden. Deze bevindingen dienen onder verwijzing naar de relevante bepaling uit
+### subsidieregeling te worden gerapporteerd.
+### 
+### 5 Voor deze regeling geldt voor de cofinanciering een maximumtarief van €130 per uur voor personele inzet inclusief overhead en
+### btw. U mag overhead en faciliteiten in principe alleen maar proportioneel doorberekenen in inzet.
+### 
+### 14
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Bijlage A: Model Controleverklaring – Subsidieregeling
+### 
+### MDT6
+### 
+### CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+### 
+### Aan opdrachtgever
+### 
+### Ons oordeel
+### Wij hebben het bijgevoegde en door ons gewaarmerkte formulier subsidievaststelling voor wat
+### betreft het financieel verslag inclusief de toelichtingen van de projectsubsidie Subsidieregeling MDT
+### [en aanvraagtijdvak 2023 of 2024] (hierna: financieel verslag) van…… [naam entiteit] te
+### ………[statutaire vestigingsplaats] over … 202X-202X gecontroleerd.
+### 
+### Naar ons oordeel is het financieel verslag van de projectsubsidie, aangevende het bedrag van € …..
+### aan subsidiabele kosten, in alle van materieel belang zijnde aspecten opgesteld in overeenstemming
+### met de relevante bepalingen van de Subsidieregeling MDT [en aanvraagtijdvak 2023 of 2024], zoals
+### vastgelegd in het Accountantsprotocol behorend bij de Subsidieregeling MDT aanvraagtijdvak 2023
+### en 2024 d.d. 21 mei 2024 (hierna: het Accountantsprotocol) en met de subsidieverplichtingen, zoals
+### vastgelegd in de verleningsbeschikking(en).
+### 
+### De basis voor ons oordeel
+### Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse
+### controlestandaarden en het Accountantsprotocol vallen. Onze verantwoordelijkheden op grond
+### hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het financieel
+### verslag’.
+### 
+### Wij zijn onafhankelijk van ………[naam entiteit] zoals vereist in de Verordening inzake de
+### onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht
+### relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening
+### gedrags- en beroepsregels accountants (VGBA).
+### 
+### Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons
+### oordeel.
+### 
+### Andere informatie
+### Aan het financieel verslag en onze controleverklaring daarbij is andere informatie toegevoegd, die
+### bestaat uit:
+### •
+### 
+### activiteitenverslag.
+### 
+### Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het
+### financieel verslag verenigbaar is en geen materiële afwijkingen bevat.
+### 
+### Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip,
+### verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen
+### bevat. Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard
+### 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het
+### financieel verslag.
+### 
+### Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.
+### 
+### Beperking in het gebruik en verspreidingskring
+### Het financieel verslag is opgesteld voor het Ministerie van Onderwijs, Cultuur en Wetenschap met als
+### doel ………. [naam entiteit] in staat te stellen te voldoen aan de Subsidieregeling MDT. Hierdoor is het
+### 
+### 6 aanvraagtijdvak 2023 en 2024
+### 
+### 15
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### financieel verslag mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve
+### uitsluitend bestemd voor ….. [naam entiteit] en het Ministerie van Onderwijs, Cultuur en Wetenschap
+### en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+### Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan7 voor het
+### financieel verslag
+### Het bestuur is verantwoordelijk voor het opstellen van het financieel verslag in overeenstemming
+### met de relevante bepalingen van de Subsidieregeling MDT, zoals vastgelegd in het
+### Accountantsprotocol en met de subsidieverplichtingen, zoals vastgelegd in de
+### verleningsbeschikking(en).
+### 
+### In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur
+### noodzakelijk acht om het opstellen van het financieel verslag mogelijk te maken zonder afwijkingen
+### van materieel belang als gevolg van fouten of fraude.
+### 
+### Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces van
+### financiële verslaggeving van de entiteit.
+### 
+### Onze verantwoordelijkheden voor de controle van het financieel verslag
+### Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij
+### daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven
+### oordeel.
+### 
+### Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor
+### het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
+### 
+### Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs
+### kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de
+### economische beslissingen die gebruikers op basis van het financieel verslag nemen. De materialiteit
+### beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het
+### effect van onderkende afwijkingen op ons oordeel.
+### 
+### Wij hebben deze accountantscontrole professioneel en kritisch uitgevoerd en hebben waar relevant
+### professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse
+### controlestandaarden, het Accountantsprotocol, ethische voorschriften en de onafhankelijkheidseisen.
+### 
+### Onze controle bestond onder andere uit:
+### •  het identificeren en inschatten van de risico’s dat het financieel verslag afwijkingen van materieel
+### belang bevat als gevolg van fouten of fraude, het in reactie op deze risico’s bepalen en uitvoeren
+### van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt
+### is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet
+### ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in
+### geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen
+### van zaken of het doorbreken van de interne beheersing;
+### 
+### •  het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel
+### 
+### controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze
+### werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de
+### interne beheersing van de organisatie;
+### 
+### •  het evalueren van de geschiktheid van de gebruikte grondslagen voor het financieel verslag en
+### het evalueren van de redelijkheid van schattingen door het bestuur en de toelichtingen die
+### daarover in het financieel verslag staan;
+### 
+### •  het evalueren van de presentatie, structuur en inhoud van het financieel verslag en de daarin
+### 
+### opgenomen toelichtingen; en
+### 
+### •  het evalueren of het financieel verslag de onderliggende transacties en gebeurtenissen zonder
+### 
+### materiële afwijkingen weergeeft..
+### 
+### 7 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt
+### 
+### 16
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Wij communiceren met het toezichthoudend orgaan onder andere over de geplande reikwijdte en
+### timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn
+### gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.
+### 
+### Plaats en datum
+### 
+### Naam accountantspraktijk
+### 
+### Naam accountant
+### 
+### 17
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Bijlage B: Model Assurance-rapport – Subsidieregeling MDT
+### 
+### (aanvraagtijdvak 2023 en 2024)
+### 
+### ASSURANCE-RAPPORT VAN DE ONAFHANKELIJKE ACCOUNTANT
+### 
+### Aan opdrachtgever
+### 
+### Ons oordeel
+### Wij hebben (onderzoeksobject: het aanvraagformulier tot vaststelling met de opgenomen
+### gerealiseerde prestatie-eenheden (hierna: assurance onderdelen) van … (naam entiteit) te …
+### ((statutaire) vestigingsplaats) over 202X t/m 202X onderzocht als bedoeld in artikel 13 van
+### Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024).
+### 
+### Naar ons oordeel zijn de opgenomen assurance onderdelen van ….. (naam entiteit) in alle van
+### materieel belang zijnde aspecten in overeenstemming met de van toepassing zijnde criteria zoals
+### vastgelegd in Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024).
+### 
+### De basis voor ons oordeel
+### Wij hebben ons onderzoek uitgevoerd volgens:
+### 
+### •  Nederlands recht, waaronder de Nederlandse Standaard 3000A Assurance-opdrachten anders
+### 
+### dan opdrachten tot controle of beoordeling van historische financiële informatie (attest-
+### opdrachten)’;
+### 
+### •  Het Accountantsprotocol behorend bij de Subsidieregeling 5a- MDT Continueren en
+### 
+### opschalen.
+### 
+### Deze opdracht is gericht op het verkrijgen van een redelijke mate van zekerheid. Onze
+### verantwoordelijkheden op grond hiervan zijn beschreven in de sectie 'Onze verantwoordelijkheden
+### voor het onderzoek over de assurance onderdelen’.
+### 
+### Wij zijn onafhankelijk van …… (naam entiteit) zoals vereist in de ‘Verordening inzake de
+### onafhankelijkheid van accountants bij assurance-opdrachten’ (ViO). Daarnaast hebben wij voldaan
+### aan de Verordening gedrags- en beroepsregels accountants (VGBA).
+### 
+### Wij vinden dat de door ons verkregen assurance-informatie voldoende en geschikt is als basis voor
+### ons oordeel.
+### 
+### Van toepassing zijnde criteria
+### Voor deze opdracht gelden de volgende criteria:
+### •
+### 
+### relevante bepalingen zoals vastgelegd in het accountantsprotocol behorend bij
+### Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024) d.d. 21 mei 2024;
+### nader gestelde subsidieverplichtingen zoals vastgelegd in de (herziene) subsidiebeschikking;
+### 
+### …….(zelf invullen op basis van Standaard 3000A.A164).
+### 
+### •
+### •
+### 
+### Beperking in het gebruik en verspreidingskring
+### De assurance onderdelen zijn opgesteld voor het Ministerie van Onderwijs, Cultuur en Wetenschap
+### met als doel ... (naam entiteit) in staat te stellen te voldoen aan de relevante bepalingen in de
+### Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024). Hierdoor zijn de assurance onderdelen
+### mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend
+### bestemd voor … (naam entiteit) en het Ministerie van Onderwijs, Cultuur en Wetenschap en dient
+### niet te worden verspreid aan of te worden gebruikt door anderen.
+### 
+### Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan8 voor de
+### assurance onderdelen
+### Het bestuur van …..(naam entiteit) is verantwoordelijk voor het opstellen van de assurance
+### onderdelen in overeenstemming met de van toepassing zijnde criteria.
+### 
+### Het bestuur is ook verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht
+### om het opstellen, meten of evalueren van de assurance onderdelen mogelijk te maken zonder
+### afwijkingen van materieel belang als gevolg van fraude of fouten.
+### 
+### 8 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt.
+### 
+### 18
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces
+### van het opstellen van de assurance onderdelen van de entiteit.
+### 
+### Onze verantwoordelijkheden voor het onderzoek over de assurance onderdelen
+### Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van ons onderzoek dat wij daarmee
+### voldoende en geschikte assurance-informatie verkrijgen voor het door ons af te geven oordeel.
+### 
+### Ons onderzoek is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor
+### het mogelijk is dat wij tijdens ons onderzoek niet alle materiële fouten en fraude ontdekken.
+### 
+### Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken
+### wij over een samenhangend stelsel van kwaliteitsbeheersing inclusief vastgelegde richtlijnen en
+### procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere
+### relevante wet- en regelgeving.
+### 
+### Ons onderzoek bestond onder andere uit:
+### •  het identificeren en inschatten van de risico’s dat de assurance onderdelen afwijkingen van
+### 
+### materieel belang bevatten als gevolg van fouten of fraude, het in reactie op deze risico’s bepalen
+### en uitvoeren van assurance-werkzaamheden en het verkrijgen van assurance-informatie die
+### voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van
+### materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van
+### samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het
+### opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing;
+### •  het verkrijgen van inzicht in de interne beheersing die relevant is voor het onderzoek met als
+### doel assurance-werkzaamheden te selecteren die passend zijn in de omstandigheden. Deze
+### werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de
+### interne beheersing van de entiteit.
+### 
+### •  Het uitvoeren van de opgenomen werkzaamheden in het Accountantsprotocol behorend bij de
+### 
+### Subsidieregeling MDT (aanvraagtijdvak 2023 en 2024).
+### 
+### Plaats en datum
+### 
+### Naam accountantspraktijk
+### 
+### Naam accountant
+### 
+### 19
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### Bijlage C: Model Rapport overeengekomen specifieke
+### 
+### werkzaamheden – Subsidieregeling MDT met betrekking
+### 
+### tot... (onderzoeksobject(en))
+### 
+### Afgegeven ten behoeve van het Ministerie van Onderwijs, Cultuur en Wetenschap
+### 
+### Aan: Opdrachtgever
+### 
+### Doel van dit rapport inzake overeengekomen specifieke werkzaamheden
+### Ons rapport is uitsluitend bedoeld om te rapporteren over enkele onderdelen van de naleving van de
+### aan de MDT [tijdvak van aanvraag: 2023 of 2024] subsidie verbonden verplichtingen en is mogelijk
+### niet geschikt voor een ander doel.
+### 
+### Dit rapport is uitsluitend bedoeld voor [Opdrachtgever] en het Ministerie van Onderwijs, Cultuur en
+### Wetenschap (hierna aan te duiden met: “de beoogde gebruikers” en dient niet te worden verspreid
+### aan of te worden gebruikt door anderen.
+### 
+### Samenvatting [bevindingen]
+### [De samenvatting van de bevindingen dient te worden beschreven op een wijze die objectief is, in
+### bewoordingen die duidelijk, niet misleidend en niet voor verschillende interpretaties vatbaar zijn]
+### 
+### Verantwoordelijkheden van [Opdrachtgever] en de beoogde gebruikers
+### [Opdrachtgever] en de beoogde gebruiker(s) hebben) erkend dat de overeengekomen specifieke
+### werkzaamheden geschikt zijn voor het doel van de opdracht.
+### 
+### [Opdrachtgever] is verantwoordelijk voor … (onderzoeksobject(en)) waarop de overeengekomen
+### specifieke werkzaamheden zijn uitgevoerd.
+### 
+### Van [Opdrachtgever] en de beoogde gebruiker(s) wordt verwacht dat zij een eigen afweging maken
+### van de overeengekomen specifieke werkzaamheden en bevindingen die door ons zijn gerapporteerd
+### en hun eigen conclusies trekken uit de door ons uitgevoerde werkzaamheden.
+### 
+### Onze verantwoordelijkheden
+### Een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden houdt in dat wij de
+### specifieke werkzaamheden uitvoeren die zijn overeengekomen met [Opdrachtgever] [Indien van
+### toepassing: en met andere beoogde gebruiker(s)] en de bevindingen rapporteren, die de feitelijke
+### uitkomsten zijn van de uitgevoerde overeengekomen specifieke werkzaamheden.
+### 
+### Wij doen geen uitspraken over de geschiktheid van de overeengekomen specifieke werkzaamheden.
+### 
+### Wij hebben de overeengekomen specifieke werkzaamheden uitgevoerd volgens het Nederlands recht,
+### waaronder de Nederlandse Standaard 4400, ‘Opdrachten tot het verrichten van overeengekomen
+### specifieke werkzaamheden’.
+### 
+### Deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is geen
+### assurance-opdracht. Derhalve brengen wij geen oordeel of assurance-conclusie tot uitdrukking.
+### 
+### Indien wij aanvullende werkzaamheden hadden verricht, zouden mogelijk andere aangelegenheden
+### onder onze aandacht zijn gekomen die gerapporteerd zouden zijn.
+### 
+### Beroepsethiek en kwaliteitsmanagement
+### Wij hebben de voor ons geldende relevante ethische voorschriften in de Verordening gedrags- en
+### beroepsregels accountants (VGBA) nageleefd.
+### 
+### Wij hebben de onafhankelijkheidsregels van de Verordening inzake de onafhankelijkheid van
+### accountants bij assurance-opdrachten (ViO) nageleefd
+### 
+### Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken
+### wij over een samenhangend stelsel van kwaliteitsmanagement inclusief vastgelegde richtlijnen en
+### 
+### 20
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### COPRO 23032 B
+### 
+### procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere
+### relevante wet- en regelgeving.
+### 
+### Specifieke werkzaamheden en bevindingen
+### 
+### Wij hebben de hieronder beschreven specifieke werkzaamheden, die wij met [opdrachtgever] [indien
+### van toepassing: en de beoogde gebruiker(s)] zijn overeengekomen in de opdrachtvoorwaarden van
+### .. (datum), uitgevoerd op .. (onderzoeksobject(en). Verder zijn hieronder onze bevindingen vermeld
+### inclusief details over eventuele uitzonderingen.
+### 
+### Specifieke werkzaamheden:
+### Co-financiering samenwerkingspartners
+### 
+### Bevindingen:
+### 
+### Vaststellen voor 2 samenwerkingspartners dat de verantwoorde
+### ontvangen cofinanciering van samenwerkingspartners, ‘in cash’ en/of
+### ’in kind’ cofinanciering overeenkomt met de onderliggende MDT
+### aanvraagtijdvak 2023 of 2024 onderbouwing.
+### 
+### In geval gerealiseerde cofinanciering ‘in cash’ is.
+### 
+### 1)
+### De accountant stelt vast dat de verantwoorde cofinanciering in cash
+### aansluit op de cofinanciering volgens de overeenkomst tussen de
+### penvoerder en de samenwerkingspartner en de ontvangst van het co-
+### financieringsbedrag aansluit op het bankafschrift.
+### 
+### Eventuele afwijkingen dienen door de penvoerder toegelicht te
+### worden.
+### 
+### In geval gerealiseerde cofinanciering ’in kind’ is.
+### 
+### 2)
+### De accountant stelt vast dat de verantwoorde cofinanciering in kind
+### aansluit op de cofinanciering volgens de overeenkomst tussen de
+### samenwerkingspartner en de penvoerder (‘Verklaring cofinanciering
+### MDT aanvraagtijdvak 2023 of 2024) en de kostenonderbouwing
+### verantwoording cofinanciering ‘ín kind’ aansluit met de
+### diensten/verzorgen MDT training (uren) of beschikbaar stellen van
+### ruimte of goederen en de daarbij horende onderbouwing (bv.
+### facturen).
+### 
+### Eventuele afwijkingen dienen door de penvoerder toegelicht te
+### worden.
+### 
+### Kosten samenwerkingspartners
+### 
+### Vaststellen voor 10 kosten-items samenwerkingspartner(s) dat aan de
+### hand van de omschrijvingen op de betreffende documenten (zoals
+### facturen, urenstaten, interne doorbelasting, etc.) dat de kosten
+### betrekking hebben op dan wel toegerekend zijn aan de in de
+### beschikking tot subsidieverlening vermelde subsidiabele activiteiten.
+### 
+### Beperking in het gebruik en verspreidingskring
+### Bij het overeenkomen van de specifieke werkzaamheden is rekening gehouden met de
+### verwachtingen van de beoogde gebruikers Daarom is deze rapportage alleen bestemd voor u, de
+### penvoerder en de Minister van Onderwijs, Cultuur en Wetenschappen. Op deze rapportage kan niet
+### door derden worden gesteund aangezien derden niet op de hoogte zijn van het doel van de
+### werkzaamheden en de resultaten onjuist kunnen interpreteren. U kunt deze rapportage niet aan
+### anderen afgeven zonder onze voorafgaande schriftelijke toestemming, tenzij wettelijke voorschriften
+### anders bepalen. Tevens mag u geen passages uit dit rapport citeren of laten citeren, al dan niet met
+### bronvermelding
+### 
+### Plaats en datum
+### 
+### Naam accountantspraktijk
+### 
+### Naam accountant
+### 
+### 21
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 

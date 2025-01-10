@@ -1,203 +1,203 @@
-RO_VWS_DUSI_Logo_2_RGB_pos_nl.png
-
-
-
-
-
-
-
-
-
-
-
-
-Format samenwerkingsovereenkomst
-Sterk techniekonderwijs2025-2028
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Gebruik dit format om de afspraken tussen alle regionale partners in het samenwerkingsverband vast te leggen.
-De samenwerkingsovereenkomst bevat in ieder geval:
-Een lijst van de partners die deelnemen aan de regio.
-De taken en verantwoordelijkheden per partner in het project.
-Een omschrijving van hoe de samenwerking en borging wordt georganiseerd binnen de regio.
-Een verwijzing naar het bij de aanvraag behorende regiovisie,activiteitenplan op hoofdlijnenen begrotingop hoofdlijnen.
-Een intentieverklaring tot duurzame samenwerking gedurende de projectperiode.
-
-De samenwerkingsovereenkomst moet geldig zijn voor de duur van de subsidieperiode.Hetmoetondertekendzijndoor alle partijen in de regio, uitgezonderd de bedrijvenvoor wietekenen optioneel is. Een tekenbevoegde is een lid van het College van Bestuur en moet gemachtigd zijn om namens het bevoegd gezag te mogen tekenen. Voordelokale overheid is een tekenbevoegdedegene die indeKamer van Koophandelstaat aangemeld als tekenbevoegde.
-Per partner is een blok opgenomen. U kunt deze blokken kopiëren als er meer partners deelnemen.
-Naam vmbo-school
-
-BRIN en vestigingsnummer
-
-Bevoegd gezag
-
-Bevoegd gezag nummer
-
-
-Naam vmbo-school
-
-BRIN en vestigingsnummer
-
-Bevoegd gezag
-
-Bevoegd gezag nummer
-
-
-Naam mbo instelling
-
-BRIN en vestigingsnummer
-
-Bevoegd gezag
-
-Bevoegd gezag nummer
-
-
-V(s)o-, basis- of pro-scholen en hbo- of wo-instellingen
-Naam onderwijsinstelling
-
-BRIN en vestigingsnummer
-
-Bevoegd gezag
-
-Bevoegd gezag nummer
-
-
-bijvoorbeeld provincie, stadsgewest en (deel-) gemeente
-Naam organisatie
-
-Adres vestiging
-
-Postcode en plaats
-
-KvK-nummer
-
-Beschrijfglobaalhoe de samenwerking in de regio wordt georganiseerd. Omschrijf ookhoe de betrokken partners zich inzetten om de benodigde expertise voor de uitvoering van de activiteiten op scholen op te bouwen en te borgen.Verwijs hierbij naar de verdere uitwerking in de regiovisie.
-Beschrijf de partners, demeerwaarde van deze partner voor de samenwerking, en deverantwoordelijkhedenvan de partner. Neem, indien van toepassing, op hoe partners gebruikmaken van elkaars voorzieningen.
-Partner
-Meerwaarde
-Verantwoordelijkheden
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Deze samenwerkingsovereenkomst treedt in werking op de datum van ondertekening door alle partijen en geldt voor de gehele duur van het project. De samenwerkingsovereenkomst eindigt op:DATUM(minstens tot december 2028).
-Verlenging van de overeenkomst is mogelijk in overleg tussen de partners. De partners hebben de intentie om ook na de duur van het project te blijven samenwerken aan het versterken van het technisch vmbo-onderwijs.
-Bijvoorbeeld verdeling van gelden,out-of-pocket-kosten, scheidingsakte of afspraken rondom de overdracht van penvoerderschap.
-De partijen verklaren akkoord te gaan met:
-De inhoud en voorwaarden van de subsidieregelingSterk techniekonderwijs 2025-2028.
-De uitvoering van het ingediende activiteitenplanop hoofdlijnen(datlater zal worden vervangen door het uitgewerkte activiteitenplanmet de daarbij behorende regiovisie)endebegrotingop hoofdlijnen(dielater zal worden vervangen door de uitgewerkte begroting).
-De afspraken die zijn opgenomen in deze samenwerkingsovereenkomst.
-Per partner is een blok opgenomen. U kunt deze blokken kopiëren als er meer partners deelnemen. Alle deelnemende partners moeten deze overeenkomst ondertekenen.
-Naam
-
-Functie
-Directeur vmbo-school
-Handtekening
-
-
-
-
-Naam
-
-Functie
-Lid College van Bestuur bevoegd gezag vmbo-school
-Handtekening
-
-
-
-
-
-Naam vestiging
-
-Naam
-
-Functie
-Directeur vmbo-school
-Handtekening
-
-
-
-
-Naam
-
-Functie
-Lid College van Bestuur bevoegd gezag vmbo-school
-Handtekening
-
-
-
-
-
-
-Naam mbo instelling
-
-Naam
-
-Functie
-Lid College van Bestuur bevoegd gezag mbo-instelling
-Handtekening
-
-
-
-
-
-Naam onderwijsinstelling
-
-Naam
-
-Functie
-Lid College van Bestuur bevoegd gezag onderwijsinstelling
-Handtekening
-
-
-
-
-
-Naam lokale overheid
-
-Naam
-
-Functie
-
-Handtekening
-
-
-
-
-
+### RO_VWS_DUSI_Logo_2_RGB_pos_nl.png
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Format samenwerkingsovereenkomst
+### Sterk techniekonderwijs2025-2028
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Gebruik dit format om de afspraken tussen alle regionale partners in het samenwerkingsverband vast te leggen.
+### De samenwerkingsovereenkomst bevat in ieder geval:
+### Een lijst van de partners die deelnemen aan de regio.
+### De taken en verantwoordelijkheden per partner in het project.
+### Een omschrijving van hoe de samenwerking en borging wordt georganiseerd binnen de regio.
+### Een verwijzing naar het bij de aanvraag behorende regiovisie,activiteitenplan op hoofdlijnenen begrotingop hoofdlijnen.
+### Een intentieverklaring tot duurzame samenwerking gedurende de projectperiode.
+### 
+### De samenwerkingsovereenkomst moet geldig zijn voor de duur van de subsidieperiode.Hetmoetondertekendzijndoor alle partijen in de regio, uitgezonderd de bedrijvenvoor wietekenen optioneel is. Een tekenbevoegde is een lid van het College van Bestuur en moet gemachtigd zijn om namens het bevoegd gezag te mogen tekenen. Voordelokale overheid is een tekenbevoegdedegene die indeKamer van Koophandelstaat aangemeld als tekenbevoegde.
+### Per partner is een blok opgenomen. U kunt deze blokken kopiëren als er meer partners deelnemen.
+### Naam vmbo-school
+### 
+### BRIN en vestigingsnummer
+### 
+### Bevoegd gezag
+### 
+### Bevoegd gezag nummer
+### 
+### 
+### Naam vmbo-school
+### 
+### BRIN en vestigingsnummer
+### 
+### Bevoegd gezag
+### 
+### Bevoegd gezag nummer
+### 
+### 
+### Naam mbo instelling
+### 
+### BRIN en vestigingsnummer
+### 
+### Bevoegd gezag
+### 
+### Bevoegd gezag nummer
+### 
+### 
+### V(s)o-, basis- of pro-scholen en hbo- of wo-instellingen
+### Naam onderwijsinstelling
+### 
+### BRIN en vestigingsnummer
+### 
+### Bevoegd gezag
+### 
+### Bevoegd gezag nummer
+### 
+### 
+### bijvoorbeeld provincie, stadsgewest en (deel-) gemeente
+### Naam organisatie
+### 
+### Adres vestiging
+### 
+### Postcode en plaats
+### 
+### KvK-nummer
+### 
+### Beschrijfglobaalhoe de samenwerking in de regio wordt georganiseerd. Omschrijf ookhoe de betrokken partners zich inzetten om de benodigde expertise voor de uitvoering van de activiteiten op scholen op te bouwen en te borgen.Verwijs hierbij naar de verdere uitwerking in de regiovisie.
+### Beschrijf de partners, demeerwaarde van deze partner voor de samenwerking, en deverantwoordelijkhedenvan de partner. Neem, indien van toepassing, op hoe partners gebruikmaken van elkaars voorzieningen.
+### Partner
+### Meerwaarde
+### Verantwoordelijkheden
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Deze samenwerkingsovereenkomst treedt in werking op de datum van ondertekening door alle partijen en geldt voor de gehele duur van het project. De samenwerkingsovereenkomst eindigt op:DATUM(minstens tot december 2028).
+### Verlenging van de overeenkomst is mogelijk in overleg tussen de partners. De partners hebben de intentie om ook na de duur van het project te blijven samenwerken aan het versterken van het technisch vmbo-onderwijs.
+### Bijvoorbeeld verdeling van gelden,out-of-pocket-kosten, scheidingsakte of afspraken rondom de overdracht van penvoerderschap.
+### De partijen verklaren akkoord te gaan met:
+### De inhoud en voorwaarden van de subsidieregelingSterk techniekonderwijs 2025-2028.
+### De uitvoering van het ingediende activiteitenplanop hoofdlijnen(datlater zal worden vervangen door het uitgewerkte activiteitenplanmet de daarbij behorende regiovisie)endebegrotingop hoofdlijnen(dielater zal worden vervangen door de uitgewerkte begroting).
+### De afspraken die zijn opgenomen in deze samenwerkingsovereenkomst.
+### Per partner is een blok opgenomen. U kunt deze blokken kopiëren als er meer partners deelnemen. Alle deelnemende partners moeten deze overeenkomst ondertekenen.
+### Naam
+### 
+### Functie
+### Directeur vmbo-school
+### Handtekening
+### 
+### 
+### 
+### 
+### Naam
+### 
+### Functie
+### Lid College van Bestuur bevoegd gezag vmbo-school
+### Handtekening
+### 
+### 
+### 
+### 
+### 
+### Naam vestiging
+### 
+### Naam
+### 
+### Functie
+### Directeur vmbo-school
+### Handtekening
+### 
+### 
+### 
+### 
+### Naam
+### 
+### Functie
+### Lid College van Bestuur bevoegd gezag vmbo-school
+### Handtekening
+### 
+### 
+### 
+### 
+### 
+### 
+### Naam mbo instelling
+### 
+### Naam
+### 
+### Functie
+### Lid College van Bestuur bevoegd gezag mbo-instelling
+### Handtekening
+### 
+### 
+### 
+### 
+### 
+### Naam onderwijsinstelling
+### 
+### Naam
+### 
+### Functie
+### Lid College van Bestuur bevoegd gezag onderwijsinstelling
+### Handtekening
+### 
+### 
+### 
+### 
+### 
+### Naam lokale overheid
+### 
+### Naam
+### 
+### Functie
+### 
+### Handtekening
+### 
+### 
+### 
+### 
+### 

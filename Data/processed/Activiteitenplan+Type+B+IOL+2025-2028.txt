@@ -1,110 +1,110 @@
-RO_VWS_DUSI_Logo_2_RGB_pos_nl.pngVul dit format in om tot een activiteitenplan te komen.
-Vul dit format in om tot een activiteitenplan te komen.
-
-
-Activiteitenplan type B
-Programma Impuls Open Leermateriaal 2025-2028
-
-
-Naam:
-
-Telefoonnummer:
-
-E-mailadres:
-
-
-Activiteit B - activiteiten in het kader van innovatie en implementatietrajecten met betrekking tot open leermateriaal in beleid en praktijk. Kies één vande volgende richtingen:
-
-Visie en kiezen
-Vanuit een visie op het gebied van leren en onderwijs komen tot leermiddelenbeleid zodat er een onderbouwde goed gewogen keuze voor leermiddelen wordt gemaakt.
-Arrangeren, bewerken (en maken)
-Vanuit denken inleerdoelen (curriculumbewustzijn), zoeken naar geschikte leermiddelen, arrangeren tot een leermiddelenmix van kwalitatief goed open (en gesloten) materiaal en eventueel op maat gemaakt materiaal.
-Doen en evaluerenHet toepassen van de leermaterialen in deonderwijspraktijk om te ervaren of het werkt zoals beoogd en te monitoren of het zorgt voor een verbetering van de kwaliteit van het onderwijs en vergroting van aantrekkelijkheid van het beroep van de leraar.  
-
-Binnen het project wordt met name gewerkt vanuit gebruik en hergebruik van open leermateriaal. Dat kan ook betekenen dat bestaand materiaal aangepast wordt, dat leermateriaal open ontsloten wordt of dat op kleinschalige wijze aanvullend materiaal (door)ontwikkeld wordt.
- 
-
-
-
-
-
-
-
-
-
-
-Activiteit
-Periode
-Betrokken partij(en)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.6 Hoe wordt de kwaliteit van het leermateriaal dat wordt ontwikkeld en/of geïmplementeerd geborgd, aan de hand van het kwaliteitsmodel en cyclisch ontwerpmodel die door Impuls Open Leermateriaal zijn opgesteld?Maximaal 250 woorden
-
-(Gebruik hiervoor het kwaliteitsmodel:Kwaliteitskader-IOL.pdfen voeg hetcyclisch ontwerpmodeltoe)
-
-
-
-
-
-
-
-
-2.3 Welke actieve community van leraren in het funderend onderwijs zijn betrokken en in welke mate?Maximaal 150 woorden
-
-
-
-2.4Beschrijf met welke en hoeveel scholen en andere organisaties wordt samengewerkt. Maximaal 250woorden
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Specificeer per activiteit en per schooljaar debegroting. Laat ook in de begroting zien en/of licht toe hoe het project aan het eind vande projectperiode niet meer afhankelijk is van deze subsidie.
-
-Zorg hierbij dat de omschrijving herleidbaar is naar de activiteiten die zijn beschreven in het projectplan. Kosten die je kan vergoeden via deze regeling zijn bijvoorbeeld: 
-Uren van leraren en ander onderwijspersoneel bij de uitvoering van het project  
-Uren voor begeleiding, projectleiding en coördinatie 
-(Deelname van) bijeenkomsten die georganiseerd worden binnen het kader van het project 
-Inhuur van expertise of begeleiding 
-Ontwikkelkosten bij extern bureau  
-Het doen van onderzoek  
- 
-Maak daarnaast inzichtelijk hoe de middelen verdeeld worden over de betrokken partijen en de omvang van de kosten voor de overhead. Verder wordt de begroting beoordeeld op het zo economisch mogelijk inzetten van middelen om tot maximale resultaten te komen.
-
-Let op: De begroting is per onderdeel van de regeling gescheiden. Indien een kostenpost voor beide onderdelen wordt gebruikt (bijvoorbeeld voor projectleiding), laat deze kostenpost dan in beide tabellen terugkomen met een splitsing van uren/kosten per onderdeel.   
-
+### RO_VWS_DUSI_Logo_2_RGB_pos_nl.pngVul dit format in om tot een activiteitenplan te komen.
+### Vul dit format in om tot een activiteitenplan te komen.
+### 
+### 
+### Activiteitenplan type B
+### Programma Impuls Open Leermateriaal 2025-2028
+### 
+### 
+### Naam:
+### 
+### Telefoonnummer:
+### 
+### E-mailadres:
+### 
+### 
+### Activiteit B - activiteiten in het kader van innovatie en implementatietrajecten met betrekking tot open leermateriaal in beleid en praktijk. Kies één vande volgende richtingen:
+### 
+### Visie en kiezen
+### Vanuit een visie op het gebied van leren en onderwijs komen tot leermiddelenbeleid zodat er een onderbouwde goed gewogen keuze voor leermiddelen wordt gemaakt.
+### Arrangeren, bewerken (en maken)
+### Vanuit denken inleerdoelen (curriculumbewustzijn), zoeken naar geschikte leermiddelen, arrangeren tot een leermiddelenmix van kwalitatief goed open (en gesloten) materiaal en eventueel op maat gemaakt materiaal.
+### Doen en evaluerenHet toepassen van de leermaterialen in deonderwijspraktijk om te ervaren of het werkt zoals beoogd en te monitoren of het zorgt voor een verbetering van de kwaliteit van het onderwijs en vergroting van aantrekkelijkheid van het beroep van de leraar.
+### 
+### Binnen het project wordt met name gewerkt vanuit gebruik en hergebruik van open leermateriaal. Dat kan ook betekenen dat bestaand materiaal aangepast wordt, dat leermateriaal open ontsloten wordt of dat op kleinschalige wijze aanvullend materiaal (door)ontwikkeld wordt.
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Activiteit
+### Periode
+### Betrokken partij(en)
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 1.6 Hoe wordt de kwaliteit van het leermateriaal dat wordt ontwikkeld en/of geïmplementeerd geborgd, aan de hand van het kwaliteitsmodel en cyclisch ontwerpmodel die door Impuls Open Leermateriaal zijn opgesteld?Maximaal 250 woorden
+### 
+### (Gebruik hiervoor het kwaliteitsmodel:Kwaliteitskader-IOL.pdfen voeg hetcyclisch ontwerpmodeltoe)
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 2.3 Welke actieve community van leraren in het funderend onderwijs zijn betrokken en in welke mate?Maximaal 150 woorden
+### 
+### 
+### 
+### 2.4Beschrijf met welke en hoeveel scholen en andere organisaties wordt samengewerkt. Maximaal 250woorden
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Specificeer per activiteit en per schooljaar debegroting. Laat ook in de begroting zien en/of licht toe hoe het project aan het eind vande projectperiode niet meer afhankelijk is van deze subsidie.
+### 
+### Zorg hierbij dat de omschrijving herleidbaar is naar de activiteiten die zijn beschreven in het projectplan. Kosten die je kan vergoeden via deze regeling zijn bijvoorbeeld:
+### Uren van leraren en ander onderwijspersoneel bij de uitvoering van het project
+### Uren voor begeleiding, projectleiding en coördinatie
+### (Deelname van) bijeenkomsten die georganiseerd worden binnen het kader van het project
+### Inhuur van expertise of begeleiding
+### Ontwikkelkosten bij extern bureau
+### Het doen van onderzoek
+### 
+### Maak daarnaast inzichtelijk hoe de middelen verdeeld worden over de betrokken partijen en de omvang van de kosten voor de overhead. Verder wordt de begroting beoordeeld op het zo economisch mogelijk inzetten van middelen om tot maximale resultaten te komen.
+### 
+### Let op: De begroting is per onderdeel van de regeling gescheiden. Indien een kostenpost voor beide onderdelen wordt gebruikt (bijvoorbeeld voor projectleiding), laat deze kostenpost dan in beide tabellen terugkomen met een splitsing van uren/kosten per onderdeel.
+### 

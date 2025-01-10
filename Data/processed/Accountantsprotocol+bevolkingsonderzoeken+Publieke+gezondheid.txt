@@ -1,918 +1,930 @@
-Accountantsprotocol    
-
-behorend bij  
-
-de Subsidieregeling publieke gezondheid 
-
-Dit accountantsprotocol is op maat gemaakt voor de Subsidieregeling publieke gezondheid, 
-waarbij rekening is gehouden met de Schrijfwijzer Accountantsprotocollen van de NBA. 
-
-Het betreft de volgende producten, genoemd in de Subsidieregeling publieke gezondheid artikel 
-35 : 
-−  artikel 35 lid 1: controleverklaring over de subsidievaststelling van de instellingssubsidie 2023 
-
-bij jaarrekening (zie hoofdstuk 2 in dit protocol van toepassing voor Stichting 
-Bevolkingsonderzoek Nederland (BVO); 
-
-−  Tevens een rapport van feitelijke bevindingen op de bij de jaarrekening opgenomen bijlage 
-met aantallen bevolkingsonderzoeken (zie hoofdstuk 3 in dit protocol van toepassing voor 
-BVO).    
-
-NB: Dit accountantsprotocol geldt nog uitsluitend voor BVO.  
-
-Versie: 28 maart 2024 
-
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Inhoudsopgave 
-
-Hoofdstuk 1: Uitgangspunten ........................................................ 3 
-
-1.1. Doelstelling ................................................................................................................... 3 
-1.2. Definities ....................................................................................................................... 3 
-1.3. Procedures .................................................................................................................... 3 
-
-Hoofdstuk 2: Controleaanpak bij financieel verslag ....................... 4 
-
-2.1. Controleaanpak ........................................................................................................... 4 
-2.3. Gevolgen van doelgebonden en niet-doelgebonden 
-subsidieverplichtingen ....................................................................................................... 5 
-2.5. Betrouwbaarheid en nauwkeurigheid controleverklaring ........................... 5 
-
-Hoofdstuk 3 Onderzoeksaanpak rapport van feitelijke bevindingen7 
-
-3.1  Aanpak .......................................................................................................................... 7 
-3.2  Referentiekader voor het rapport van feitelijke bevindingen ................. 7 
-3.3  Rapporteren inzake overeengekomen specifieke werkzaamheden ...... 8 
-Bijlage 1: Model Controleverklaring over de subsidievaststelling van 
-de instellingssubsidie 2023 ............................................................ 9 
-Bijlage 2: Model Rapport inzake overeengekomen specifieke 
-werkzaamheden – Subsidieregeling publieke gezondheid met 
-betrekken tot … (onderzoeksobject(en)) ..................................... 12 
-
- 
- 
-  
- 
-Hoofdstuk 1: Uitgangspunten 
-
-1.1. Doelstelling 
-
-Het accountantsprotocol heeft betrekking op de Subsidieregeling publieke gezondheid voor uitsluitend 
-
-BVO (Staatscourant d.d. 28-9-2023 nr. 26497).  
-
-Deze subsidieregeling bevat alle algemene subsidieregels die in acht genomen worden bij 
-
-subsidieverlening op grond van de Subsidieregeling publieke gezondheid.  
-
-In de subsidieregeling is vastgelegd dat voor de subsidievaststelling een accountantsproduct wordt 
-
-gevraagd indien de subsidie € 125.000 of meer bedraagt. Het betreft de volgende producten, 
-
-genoemd in de Subsidieregeling publieke gezondheid artikel 35 : 
-
-• 
-
-• 
-
-artikel 35 lid 1: controleverklaring over de subsidievaststelling van de instellingssubsidie 
-
-2023 bij jaarrekening (zie hoofdstuk 2 in dit protocol). Afrekening van de subsidie vindt 
-
-plaats op basis van werkelijke kosten, waarbij een aanvulling van de reserve aanvaardbare 
-
-kosten tot 10% van het verleende subsidiebedrag mogelijk is.  
-
-Tevens een rapport van feitelijke bevindingen betreffende de bij de jaarrekening opgenomen 
-
-bijlage met aantallen bevolkingsonderzoeken (zie hoofdstuk 3 in dit protocol).  
-
-1.2. Definities 
-
-De relevante definities zijn opgenomen in artikel 1 van de regeling. Hiernaast bestaan specifieke 
-
-voorschriften voor registeraccountants en accountants-administratieconsulenten, met name de 
-
-Nadere Voorschriften Controle en Overige Standaarden (NV COS): 
-
-•  Uitgangspunt voor het accountantsonderzoek gericht op de subsidievaststelling van de 
-
-instellingssubsidie 2023 zoals verantwoord in de jaarrekening is Standaard 700 ‘Het vormen 
-
-van een oordeel en het rapporteren over financiële overzichten’. 
-
-•  Uitgangspunt voor het rapport van feitelijke bevindingen is Standaard 4400N 'Opdrachten tot 
-het verrichten van overeengekomen specifieke werkzaamheden', die ook van toepassing is bij 
-
-andere dan financiële informatie. 
-
-1.3. Procedures 
-
-De aanvraag tot vaststelling van een instellingssubsidie (artikel 32 lid 1) dient binnen tweeëntwintig 
-
-weken na afloop van het boekjaar waarvoor de instellingssubsidie wordt aangevraagd te worden 
-
-ingediend.  
-
-Bij instellingssubsidies dient gebruik te worden gemaakt van een door de minister vastgesteld 
-
-formulier. Bij dit formulier dienen accountantsproducten van een accountant (RA of AA) als bedoeld 
-
-in artikel 1 van de Wet op het accountantsberoep te worden gevoegd indien de subsidie € 125.000 of 
-
-meer bedraagt (artikel 35 lid 4).  
-
-In de bijlagen van dit protocol zijn de modellen voor de accountantsproducten opgenomen, 
-
-aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van het protocol. 
-
-Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden. Om de samenhang en 
-
-herkenbaarheid van het accountantsproduct te bevorderen raadt de NBA het gebruik van de meest 
-
-recente NBA-voorbeeldteksten aan. Wel blijft de accountant zelf verantwoordelijk voor het gebruik 
-
-van de juiste tekst. De accountant zal deze nog moeten afstemmen op de specifieke situatie. 
-
-De accountant mag ervoor kiezen om ten behoeve van VWS een zogenaamde "WG-verklaring" af te 
-
-geven, waarbij uitsluitend de naam van de instellingsaccountant met de aanduiding w.g. (was 
-
-getekend) wordt vermeld. De origineel ondertekende verklaring/rapport met de persoonlijke 
-
-handtekening van de accountant moet in het archief van de instelling worden opgenomen.  
-
- 
- 
-  
- 
- 
- 
- 
- 
-Hoofdstuk 2: Controleaanpak bij financieel verslag 
-
-2.1. Controleaanpak 
-
-Met het oog op de vaststelling van de betrouwbaarheid van de verstrekte informatie over de 
-
-subsidievaststelling van de instellingssubsidie 2023 van Stichting BVO wordt een controleverklaring 
-
-(als bedoeld in artikel 35 lid 1) bij de door de instelling ingediende jaarrekening (als bedoeld in artikel 
-32 lid 2.c) verstrekt. De ingediende jaarrekening betreft het financieel verslag met 
-subsidievaststelling van de instellingssubsidie betreffende artikel 46, 51 en 57) voorzien van een 
-bijlage met de aantallen bevolkingsonderzoeken betreffende artikel 46, 51 en 57.  
-Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan 
-
-de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het 
-
-bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding 
-
-van de maximaal toegestane reservering, bedoeld in artikel 23. 
-
-NB: Een aparte subsidiedeclaratie voor de instellingssubsidie kan achterwege blijven 
-
-indien de daarmee te verstrekken (subsidie-) informatie reeds in de in te zenden 
-
-jaarrekening is opgenomen (artikel 32 lid 3). De informatie over subsidieregeling Publieke 
-
-Gezondheid in het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan 
-
-worden gevormd omtrent de aanwending en de besteding van de subsidie door de instelling en geeft 
-
-de benodigde informatie om de subsidie vast te stellen.  
-
-2.2. Referentiekader voor de controleverklaring  
-Voor de controlewerkzaamheden die leiden tot de controleverklaring behorend bij het financieel 
-
-verslag met de subsidievaststelling van de instellingssubsidie 2023 gelden de volgende 
-
-aandachtspunten: 
-
-a)  Kosten: de verantwoorde kosten dienen samen te hangen met de in de verleningsbeschikking 
-
-opgenomen activiteiten voor instellingssubsidies (artikel 1 c) nader omschreven in het 
-
-activiteitenplan (artikel 9 lid 2) en de begroting (artikel 9 lid 3);  
-
-b)  Egalisatiereserve: voor de egalisatiereserve bij instellingssubsidies: 
-
-- 
-
-- 
-
-- 
-
-de stand van de egalisatiereserve en de toevoeging aan of onttrekking uit de 
-
-egalisatiereserve is juist berekend (artikel 23); 
-
-er is rekening gehouden met het maximum van 10% of het in de verlening genoemde lagere 
-
-maximum (artikel 23 lid 6);  
-
-een onttrekking uit de egalisatiereserve is besteed aan de activiteiten waarvoor de 
-
-instellingssubsidie van het desbetreffende boekjaar is verleend (artikel 23 lid 5 ). Besteding 
-
-aan extra activiteiten of andere activiteiten is niet toegestaan. De aanwending van de 
-
-egalisatiereserve wordt in de jaarrekening /subsidiedeclaratie toegelicht (artikel 24); 
-
-c)  Vergoedingen: de subsidieontvanger die aan derden goederen ter beschikking stelt of voor 
-
-derden diensten verricht, brengt daarvoor een vergoeding in rekening die ten minste 
-
-kostendekkend is, tenzij het derden betreft voor wie de gesubsidieerde activiteiten bestemd zijn 
-
-(artikel 29); 
-
-d)  Kostenberekening: de baten en lasten die door middel van interne doorberekeningen worden 
-
-toegerekend worden bepaald op bedrijfseconomische en maatschappelijk aanvaardbare 
-
-grondslagen. Voorzover hierin lasten zijn begrepen van materiële vaste activa, dan worden deze 
-
-lasten op basis van aanschaffingsprijzen van die activa berekend; 
-
-e)  Voorzieningen: toevoegingen aan voorzieningen die samenhangen met de gesubsidieerde 
-
-activiteiten zijn subsidiabele kosten, tenzij de minister anders bepaalt (artikel 23 lid 3).  
-
-f)  Verzekeringsplicht: Het voldoen aan de in artikel 21 genoemde verzekeringsplicht, tenzij 
-
-ontheffing is verleend (artikel 21 lid 3). De accountant onderzoekt hierbij, of aan deze plicht is 
-
-voldaan volgens de interne registraties en of eventueel ontheffing is verleend. De accountant 
-
- 
- 
-  
- 
- 
- 
-onderzoekt of er een registratie bestaat voor de daarvoor in aanmerking komende te verzekeren 
-
-en verzekerde objecten. De accountant controleert niet de toereikendheid van de verzekering. 
-
-Aan de niet genoemde artikelen van de Subsidieregeling publieke gezondheid hoeft bij de uitvoering 
-
-van de controle geen aandacht te worden besteed, met dien verstande dat om de controle op de 
-
-hierboven genoemde artikelen goed te kunnen verrichten kennisneming van de Wet op de 
-
-bevolkingsonderzoeken en de niet genoemde artikelen van de Subsidieregeling publieke gezondheid 
-
-(inclusief de toelichting) noodzakelijk is. 
-
-2.3. Gevolgen van doelgebonden en niet-doelgebonden 
-subsidieverplichtingen 
-
-In de verleningsbeschikking, kunnen doelgebonden en niet-doelgebonden verplichtingen zijn 
-
-opgenomen (artikelen 4:37 t/m 4:39 Algemene wet bestuursrecht en artikel 26 en 27 van de 
-
-Subsidieregeling publieke gezondheid). De accountant neemt van de inhoud van deze beschikking 
-
-kennis en betrekt de naleving van de eventueel opgenomen doelgebonden en niet-doelgebonden 
-
-subsidieverplichtingen in de werkzaamheden indien dit in de beschikking expliciet is vermeld. 
-
-Expliciet vermelden houdt in dat terzake van die verplichtingen in de beschikking is uitgewerkt wat 
-
-het te hanteren normenkader is, welke foutdefinities hierbij gelden en welke werkzaamheden van de 
-
-accountant worden verwacht. Afwijkingen van doelgebonden en niet-doelgebonden 
-
-subsidieverplichtingen, die indien dit is aangegeven in de verleningsbeschikking van belang zijn voor 
-
-de te verstrekken Assurance, weegt de accountant mee bij het af te geven accountantsoordeel in de 
-
-controleverklaring. 
-
-2.4 Andere informatie 
-Het financieel verslag  omvat naast verantwoordingsinformatie ook andere informatie, die bestaat 
-
-uit:  
-
-• 
-
-bijlage met aantallen bevolkingsonderzoeken. 
-
-De accountant dient overeenkomstig Standaard 720 ’De verantwoordelijkheden van de accountant 
-
-met betrekking tot andere informatie’ vast te stellen dat de andere informatie verenigbaar is met het 
-
-financieel verslag en geen materiële afwijkingen bevat. Indien blijkt dat de andere informatie niet 
-
-verenigbaar is met het financieel verslag dan vermeldt de accountant dit in de controleverklaring. 
-
-2.5. Betrouwbaarheid en nauwkeurigheid controleverklaring 
-
-De controle behoort zodanig te worden ingepland en uitgevoerd dat een redelijke mate van zekerheid 
-
-wordt verkregen dat het financieel verslag (de jaarrekening) geen afwijkingen van materieel belang 
-
-bevat. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, 
-
-moet uitgegaan worden van een betrouwbaarheid van 95%. 
-
-Een goedkeurende controleverklaring impliceert dat, gegeven de eerdergenoemde betrouwbaarheid, 
-
-in het financieel verslag geen afwijkingen (onjuistheden en onzekerheden) voorkomen met een 
-
-belang dat groter is dan de voorgeschreven toleranties. Het referentiekader is opgenomen in 
-
-paragraaf 2.2 onder a tot en met f. Bij aanvullende subsidiebepalingen geldt ook paragraaf 2.3.  
-
-Het totaalbedrag van de subsidiabele kosten vormt een afzonderlijke massa waarop de toleranties 
-
-van onderstaande tabel moeten worden toegepast. Voor de strekking van de controleverklaring 
-
-gelden de volgende toleranties (op basis van het totaalbedrag van de subsidiabele kosten). 
-
-Materialiteitstabel 
-
-Goedkeurend 
-oordeel 
-
-Oordeel met 
-beperking 
-
-Oordeelonthouding/ 
-Afkeurende oordeel 
-
- 
- 
-  
- 
- 
- 
- 
- 
-Fouten (afwijkingen) in financieel 
-verslag 
-en onzekerheden in de controle 
-
-<2% 
-
->2%  -  <4% 
-
->4% 
-
-Indien de accountant zowel fouten in het financieel verslag als onzekerheden in de controle aantreft, 
-
-dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.  
-
-Van fouten in de verantwoording is sprake indien naar aanleiding van de uitgevoerde controle is 
-
-gebleken dat het financieel verslag onjuistheden bevat omdat deze niet voldoen aan de normen van 
-
-het in paragraaf 2.2 bedoelde referentiekader. Fouten worden in absolute zin opgevat. 
-
-Salderen van fouten is daarom niet toegestaan. 
-
-Van een onzekerheid in de controle is sprake als er onvoldoende (controle-) informatie beschikbaar is 
-
-om posten in het financieel verslag als goed of fout aan te merken. Kortom als onzekerheid bestaat 
-
-over het wel of niet voldoen aan de normen van dit protocol.
-
- 
- 
-  
- 
- 
- 
- 
- 
-Hoofdstuk 3 Onderzoeksaanpak rapport van feitelijke bevindingen 
-
-3.1  Aanpak 
-De accountant voert zijn werkzaamheden uit volgens Standaard 4400 ‘Opdrachten tot het 
-
-verrichten van overeengekomen specifieke werkzaamheden’, de Verordening Gedrags- en 
-
-Beroepsregels Accountants (VGBA) en dit protocol. Er is geen sprake van het uitvoeren van een 
-
-assurance-opdracht, de accountant verstrekt geen zekerheid (assurance). De accountant 
-
-rapporteert over de uitkomsten van zijn werkzaamheden via het rapport van feitelijke bevindingen, 
-
-zoals opgenomen in bijlage B. In dit rapport vermeldt hij welke werkzaamheden hij heeft 
-
-uitgevoerd, wat de reikwijdte van zijn werkzaamheden is geweest en tot welke bevindingen dit 
-
-heeft geleid. Van de accountant wordt niet verwacht dat hij een uitspraak doet over de 
-
-toereikendheid en geschiktheid van de verrichte werkzaamheden in relatie tot het doel waarvoor 
-
-deze worden verricht, noch voor elk ander doel. De accountant rapporteert zijn bevindingen zonder 
-
-een oordeel hierover te vormen. Het ministerie van Volksgezondheid, Welzijn en Sport, hierna 
-
-VWS, vormt een oordeel over de bevindingen en trekt op basis hiervan haar conclusies.  
-
-Gezien de specifieke voorwaarden in een Standaard 4400 opdracht is de verspreidingskring van het 
-
-rapport beperkt tot de zorgaanbieder en VWS met wie de werkzaamheden zijn afgesproken.  
-
-3.2  Referentiekader voor het rapport van feitelijke bevindingen  
-
-De specifieke overeengekomen werkzaamheden worden verricht op de bijlage van het financieel 
-
-verslag. De bijlage bevat het aantallen bevolkingsonderzoeken betreffende artikel 46, 51 en 57. 
-
-Voor het onderzoek dat leidt tot het rapport van feitelijke bevindingen gelden de volgende 
-
-specifieke overeengekomen werkzaamheden ten aanzien van: 
-
-Betrouwbaarheid  Screen IT bevolkingsonderzoeken registratie-systeem 
-
-1)  Verkrijg de ISAE 3402 Type II rapportage voor 2023 (periode 1 januari t/m 31 december 
-
-2023) aan BVO inzake Screen IT. 
-
-2)  Verkrijg de LoR namens BVO aan de controlerend accountant van de ISAE 3402 Type II 
-
-rapportage voor 2023.  
-
-3)  Vaststellen dat BVO, op basis van eventuele bevindingen vanuit het ISAE3402 op Screen 
-
-IT, vervolgwerkzaamheden heeft gedaan. 
-
-Baarmoederhalskanker 
-Hoofdstuk II - Paragraaf 2: Bevolkingsonderzoek naar baarmoederhalskanker 
-
-4)  De accountant stelt de totstandkoming lijst uit primaire registratie van de 
-
-bevolkingsonderzoeken naar baarmoederhalskanker vast. 
-
-5)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken als 
-
-bedoeld in artikel 42 lid 2 voor wat betreft primaire uitstrijkjes (als bedoeld in artikel 41.c), 
-
-cytologische beoordeling (als bedoeld in art 41 f), zelfafnameset (ZAS) (als bedoeld in 
-
-artikel 41 g), controle-uitstrijkje (als bedoeld in artikel 41 h), uitstrijkje na hrHPV-positieve 
-
-ZAS (als bedoeld in artikel 41 i) aansluiten met de lijst uit primaire registratie (het aantal 
-
-onderzoeken zoals opgenomen in de centrale database). 
-
-Borstkanker 
-Hoofdstuk II - Paragraaf 3: Bevolkingsonderzoek naar borstkanker 
-
-6)  De accountant stelt de totstandkoming lijst uit primaire registratie van de 
-
-bevolkingsonderzoeken naar borstkanker vast. 
-
-7 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken (als 
-
-bedoeld in artikel 50 en artikel 48 lid b) aansluiten met de lijst uit primaire registratie (het 
-aantal onderzoeken zoals opgenomen in de centrale database). 
-
-Darmkanker 
-
-Hoofdstuk II - Paragraaf 4: Bevolkingsonderzoek naar darmkanker 
-
-8)  De accountant stelt de totstandkoming lijst uit primaire registratie van de 
-
-bevolkingsonderzoeken naar darmkanker vast. 
-
-9)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken als 
-
-bedoeld in artikel 55 aansluiten met de lijst uit primaire registratie (het aantal onderzoeken 
-
-zoals opgenomen in de centrale database). 
-
-3.3  Rapporteren inzake overeengekomen specifieke werkzaamheden  
-
-Voor de rapportage inzake overeengekomen specifieke werkzaamheden maakt de accountant 
-gebruik van het model in bijlage 2. 
-
-In het rapport vermeldt de accountant welke overeengekomen specifieke werkzaamheden hij in dit 
-kader heeft verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn 
-onderzoek bevindingen heeft vastgesteld maakt hij daarvan melding in zijn rapport van feitelijke 
-bevindingen. Deze bevindingen dienen onder verwijzing naar de relevante bepaling uit 
-subsidieregeling te worden gerapporteerd.  
-
-NB: VWS maakt op basis van de gerapporteerde bevindingen een eigen afweging over de betekenis 
-van de uitkomsten van de werkzaamheden in relatie tot de subsidie-vaststelling.  
-
-8 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Bijlage 1: Model Controleverklaring over de subsidievaststelling 
-van de instellingssubsidie 2023 
-
-CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT  
-
-Aan: Opdrachtgever   
-
-Ons oordeel  
-Wij hebben het bijgevoegde en door ons gewaarmerkte financieel verslag met subsidievaststelling  
-van de instellingssubsidie als bedoeld in artikel... [afhankelijk van de soort subsidie: 46, 51 en 57] 
-(hierna: financieel verslag 2023) van ... (naam entiteit) te ... ((statutaire) vestigingsplaats) over 
-de periode 2023 gecontroleerd.  
-
-Naar ons oordeel is het financieel verslag 2023 van ... (naam entiteit) aangevende het bedrag van 
-€ ….. aan subsidiabele kosten en opbrengsten, in alle van materieel belang zijnde aspecten 
-opgesteld in overeenstemming met de relevante bepalingen van de Subsidieregeling publieke 
-gezondheid, zoals vastgelegd in het Accountantsprotocol behorend bij de Subsidieregeling publieke 
-gezondheid en met de doelgebonden en niet doelgebonden subsidieverplichtingen, zoals vastgelegd 
-in de verleningsbeschikking1. 
-
-De basis voor ons oordeel  
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse 
-controlestandaarden en de relevante bepalingen uit het Accountantsprotocol behorend bij de 
-Subsidieregeling publieke gezondheid. Onze verantwoordelijkheden op grond hiervan zijn 
-beschreven in de sectie 'Onze verantwoordelijkheden voor de controle van het financieel verslag 
-2023.   
-
-Wij zijn onafhankelijk van ... (naam entiteit) zoals vereist in de Verordening inzake de 
-onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht 
-relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening 
-gedrags- en beroepsregels accountants (VGBA).  
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor 
-ons oordeel.  
-
-Andere informatie 
-Aan het financieel verslag en onze controleverklaring daarbij is andere informatie toegevoegd, die 
-bestaat uit: 
-
--  Bijlage met aantallen bevolkingsonderzoeken. 
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het 
-financieel verslag verenigbaar is en geen materiële afwijkingen bevat. 
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, 
-verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële 
-afwijkingen bevat.  
-Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 720. 
-Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het 
-financieel verslag. 
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie. 
-
-Benadrukking van de basis voor financiële verslaggeving en beperking in het gebruik en 
-verspreidingskring 
-Wij vestigen de aandacht op punt ... in de toelichting van de jaarrekening waarin de basis voor 
-financiële verslaggeving uiteen is gezet. Het financieel verslag 2023 is opgesteld voor het Ministerie 
-van Volksgezondheid, Welzijn en Sport met als doel 
-[naam entiteit] in staat te stellen te voldoen 
-aan de Subsidieregeling publieke gezondheid. Hierdoor is het financieel verslag 2023 mogelijk niet 
-geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor … 
-[naam entiteit] en het Ministerie van Volksgezondheid, Welzijn en Sport en dient niet te worden 
-
-1 Voorzover er in de verleningsbeschikking aanvullende subsidieverplichtingen zijn gesteld. 
-
-9 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-verspreid aan of te worden gebruikt door anderen. Ons oordeel is niet aangepast als gevolg van 
-deze aangelegenheid. 
-
-Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan1 voor het 
-financieel verslag 2023  
-Het bestuur is verantwoordelijk voor het opstellen van het financieel verslag in overeenstemming 
-met de bepalingen van de Subsidieregeling publieke gezondheid, met de doelgebonden en niet 
-doelgebonden subsidieverplichtingen, zoals vastgelegd in de verleningsbeschikking2 en met de 
-door de entiteit gekozen en beschreven grondslagen, zoals uiteengezet in punt ... in de toelichting 
-van de jaarrekening en voor het bepalen dat de gebruikte grondslagen voor financiële 
-verslaggeving aanvaardbaar zijn in de gegeven omstandigheden.   
-
-In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur 
-noodzakelijk acht om het opstellen van het financieel verslag 2023 mogelijk te maken zonder 
-afwijkingen van materieel belang als gevolg van fouten of fraude.  
-
-Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces van 
-financiële verslaggeving van de entiteit.  
-
-Onze verantwoordelijkheden voor de controle van financieel verslag 2023 
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij 
-daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven 
-oordeel.  
-
-Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor 
-het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.  
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs 
-kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de 
-economische beslissingen die gebruikers op basis van deze de aanvraag tot subsidievaststelling 
-nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden 
-en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.  
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant 
-professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse 
-controlestandaarden, het Accountantsprotocol behorend bij de Subsidieregeling publieke 
-gezondheid, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder 
-andere uit: 
-
-• 
-
-• 
-
-• 
-
-• 
-
-• 
-
-het identificeren en inschatten van de risico’s dat het financieel verslag afwijkingen van 
-materieel belang bevat als gevolg van fouten of fraude, het in reactie op deze risico’s 
-bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-
-informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico 
-dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude 
-kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten 
-transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken 
-van de interne beheersing; 
-het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als 
-doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze 
-werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit 
-van de interne beheersing van de organisatie; 
-het evalueren van de geschiktheid van de gebruikte grondslagen voor het opstellen van de 
-financieel verslag 2023 en het evalueren van de redelijkheid van schattingen door het 
-bestuur en de toelichtingen die daarover in het financieel verslag 2023 staan; 
-het evalueren van de presentatie, structuur en inhoud van het financieel verslag 2023 en 
-de daarin opgenomen toelichtingen; en 
-het evalueren of het financieel verslag 2023 de onderliggende transacties en 
-gebeurtenissen zonder materiële afwijkingen weergeeft. 
-
-1 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt 
-2 Voorzover er in de verleningsbeschikking aanvullende subsidieverplichtingen zijn gesteld 
-
-10 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Wij communiceren met het toezichthoudend orgaan onder andere over de geplande reikwijdte en 
-timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn 
-gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.  
-
-Plaats en datum  
-
-Naam accountantspraktijk  
-
-Naam accountant  
-
-11 
-
- 
- 
- 
- 
- 
- 
- 
-Bijlage 2: Model Rapport inzake overeengekomen specifieke 
-werkzaamheden – Subsidieregeling publieke gezondheid met 
-betrekken tot … (onderzoeksobject(en)) 
-
-Afgegeven ten behoeve van het Ministerie van Volksgezondheid, Welzijn en Sport. 
-
-Aan: Opdrachtgever  
-
-Doel van dit rapport inzake overeengekomen specifieke werkzaamheden 
-Ons rapport is uitsluitend bedoeld om te rapporteren over enkele onderdelen van de naleving van 
-de aan de subsidieregeling publieke gezondheid verbonden verplichtingen en is mogelijk niet 
-geschikt voor een ander doel. 
-
-Dit rapport is uitsluitend bedoeld voor [Opdrachtgever] en het Ministerie van Volksgezondheid, 
-Welzijn en Sport(hierna aan te duiden met: “de beoogde gebruikers” en dient niet te worden 
-verspreid aan of te worden gebruikt door anderen. 
-
-Samenvatting [bevindingen] 
-[De samenvatting van de bevindingen dient te worden beschreven op een wijze die objectief is, in 
-bewoordingen die duidelijk, niet misleidend en niet voor verschillende interpretaties vatbaar zijn] 
-
-Verantwoordelijkheden van [Opdrachtgever] en de beoogde gebruikers  
-[Opdrachtgever] en de beoogde gebruiker(s) hebben) erkend dat de overeengekomen specifieke 
-werkzaamheden geschikt zijn voor het doel van de opdracht. 
-
-[Opdrachtgever] is verantwoordelijk voor … (onderzoeksobject(en)) waarop de overeengekomen 
-specifieke werkzaamheden zijn uitgevoerd.  
-
-Van [Opdrachtgever] en de beoogde gebruiker(s) wordt verwacht dat zij een eigen afweging 
-maken van de overeengekomen specifieke werkzaamheden en bevindingen die door ons zijn 
-gerapporteerd en hun eigen conclusies trekken uit de door ons uitgevoerde werkzaamheden. 
-
-Onze verantwoordelijkheden  
-Een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden houdt in dat wij 
-de specifieke werkzaamheden uitvoeren die zijn overeengekomen met [Opdrachtgever] [Indien van 
-toepassing: en met andere beoogde gebruiker(s)] en de bevindingen rapporteren, die de feitelijke 
-uitkomsten zijn van de uitgevoerde overeengekomen specifieke werkzaamheden. 
-
-Wij doen geen uitspraken over de geschiktheid van de overeengekomen specifieke 
-werkzaamheden.  
-
-Wij hebben de overeengekomen specifieke werkzaamheden uitgevoerd volgens het Nederlands 
-recht, waaronder de Nederlandse Standaard 4400, ‘Opdrachten tot het verrichten van 
-overeengekomen specifieke werkzaamheden’.  
-
-Deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is geen 
-assurance-opdracht. Derhalve brengen wij geen oordeel of assurance-conclusie tot uitdrukking. 
-
-Indien wij aanvullende werkzaamheden hadden verricht, zouden mogelijk andere aangelegenheden 
-onder onze aandacht zijn gekomen die gerapporteerd zouden zijn. 
-
-Beroepsethiek en kwaliteitsmanagement 
-Wij hebben de voor ons geldende relevante ethische voorschriften in de Verordening gedrags- en 
-beroepsregels accountants (VGBA) nageleefd. 
-
-Wij hebben de onafhankelijkheidsregels van de Verordening inzake de onafhankelijkheid van 
-accountants bij assurance-opdrachten (ViO) nageleefd 
-
-Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken 
-wij over een samenhangend stelsel van kwaliteitsmanagement inclusief vastgelegde richtlijnen en 
-
-12 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere 
-relevante wet- en regelgeving. 
-
-Specifieke werkzaamheden en bevindingen  
-
-Wij hebben de hieronder beschreven specifieke werkzaamheden, die wij met [opdrachtgever] 
-[indien van toepassing: en de beoogde gebruiker(s)] zijn overeengekomen in de 
-opdrachtvoorwaarden van .. (datum), uitgevoerd op .. (onderzoeksobject(en). Verder zijn 
-hieronder onze bevindingen vermeld inclusief details over eventuele uitzonderingen. 
-
-Specifieke werkzaamheden:  
-
-Bevindingen: 
-
-Verkrijg de ISAE 3402 Type II rapportage voor 2023 (periode 1 januari 
-
-Betrouwbaarheid  Screen IT bevolkingsonderzoeken registratie-systeem 
-1) 
-t/m 31 december 2023) aan BVO inzake Screen IT. 
-2) 
-3402 Type II rapportage voor 2023.  
-3) 
-ISAE3402 op Screen IT, vervolgwerkzaamheden heeft gedaan. 
-
-Stel vast dat BVO, op basis van eventuele bevindingen vanuit het 
-
-Verkrijg de LoR namens BVO aan de controlerend accountant van de ISAE 
-
-Stel de totstandkoming lijst uit primaire registratie van de 
-
-Baarmoederhalskanker 
-Hoofdstuk II - Paragraaf 2: Bevolkingsonderzoek naar 
-baarmoederhalskanker 
-4) 
-bevolkingsonderzoeken naar baarmoederhalskanker vast. 
-5) 
-bedoeld in artikel 42 lid 2 voor wat betreft primaire uitstrijkjes (als bedoeld in 
-artikel 41.c), cytologische beoordeling (als bedoeld in art 41 f), zelfafnameset 
-(ZAS) (als bedoeld in artikel 41 g), controle-uitstrijkje (als bedoeld in artikel 41 
-h), uitstrijkje na hrHPV-positieve ZAS (als bedoeld in artikel 41 i) aansluiten met 
-de lijst uit primaire registratie (het aantal onderzoeken zoals opgenomen in de 
-centrale database). 
-
-Stel dat de in de jaarrekening opgenomen aantal onderzoeken als 
-
-Borstkanker 
-Hoofdstuk II - Paragraaf 3: Bevolkingsonderzoek naar borstkanker 
-6) 
-Stel de totstandkoming lijst uit primaire registratie van de 
-bevolkingsonderzoeken naar borstkanker vast. 
-7) 
-bedoeld in artikel 50 en artikel 48 lid b) aansluiten met de lijst uit primaire 
-registratie (het aantal onderzoeken zoals opgenomen in de centrale database). 
-
-Stel vast dat de in de jaarrekening opgenomen aantal onderzoeken (als 
-
-Darmkanker 
-
-Hoofdstuk II – Paragraaf 4: Bevolkingsonderzoek naar darmkanker 
-8) 
-Stel de totstandkoming lijst uit primaire registratie van de 
-bevolkingsonderzoeken naar darmkanker vast. 
-9) 
-Stel vast dat de in de jaarrekening opgenomen aantal onderzoeken als 
-bedoeld in artikel 55 aansluiten met de lijst uit primaire registratie (het aantal 
-onderzoeken zoals opgenomen in de centrale database). 
-
-Plaats en datum  
-
-Naam accountantspraktijk  
-
-Naam accountant 
-
-13 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+### Accountantsprotocol
+### 
+### behorend bij
+### 
+### de Subsidieregeling publieke gezondheid
+### 
+### Dit accountantsprotocol is op maat gemaakt voor de Subsidieregeling publieke gezondheid,
+### waarbij rekening is gehouden met de Schrijfwijzer Accountantsprotocollen van de NBA.
+### 
+### Het betreft de volgende producten, genoemd in de Subsidieregeling publieke gezondheid artikel
+### 35 :
+### −  artikel 35 lid 1: controleverklaring over de subsidievaststelling van de instellingssubsidie 2023
+### 
+### bij jaarrekening (zie hoofdstuk 2 in dit protocol van toepassing voor Stichting
+### Bevolkingsonderzoek Nederland (BVO);
+### 
+### −  Tevens een rapport van feitelijke bevindingen op de bij de jaarrekening opgenomen bijlage
+### met aantallen bevolkingsonderzoeken (zie hoofdstuk 3 in dit protocol van toepassing voor
+### BVO).
+### 
+### NB: Dit accountantsprotocol geldt nog uitsluitend voor BVO.
+### 
+### Versie: 28 maart 2024
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Inhoudsopgave
+### 
+### Hoofdstuk 1: Uitgangspunten ........................................................ 3
+### 
+### 1.1. Doelstelling ................................................................................................................... 3
+### 1.2. Definities ....................................................................................................................... 3
+### 1.3. Procedures .................................................................................................................... 3
+### 
+### Hoofdstuk 2: Controleaanpak bij financieel verslag ....................... 4
+### 
+### 2.1. Controleaanpak ........................................................................................................... 4
+### 2.3. Gevolgen van doelgebonden en niet-doelgebonden
+### subsidieverplichtingen ....................................................................................................... 5
+### 2.5. Betrouwbaarheid en nauwkeurigheid controleverklaring ........................... 5
+### 
+### Hoofdstuk 3 Onderzoeksaanpak rapport van feitelijke bevindingen7
+### 
+### 3.1  Aanpak .......................................................................................................................... 7
+### 3.2  Referentiekader voor het rapport van feitelijke bevindingen ................. 7
+### 3.3  Rapporteren inzake overeengekomen specifieke werkzaamheden ...... 8
+### Bijlage 1: Model Controleverklaring over de subsidievaststelling van
+### de instellingssubsidie 2023 ............................................................ 9
+### Bijlage 2: Model Rapport inzake overeengekomen specifieke
+### werkzaamheden – Subsidieregeling publieke gezondheid met
+### betrekken tot … (onderzoeksobject(en)) ..................................... 12
+### 
+### 
+### 
+### 
+### 
+### 
+### Hoofdstuk 1: Uitgangspunten
+### 
+### 1.1. Doelstelling
+### 
+### Het accountantsprotocol heeft betrekking op de Subsidieregeling publieke gezondheid voor uitsluitend
+### 
+### BVO (Staatscourant d.d. 28-9-2023 nr. 26497).
+### 
+### Deze subsidieregeling bevat alle algemene subsidieregels die in acht genomen worden bij
+### 
+### subsidieverlening op grond van de Subsidieregeling publieke gezondheid.
+### 
+### In de subsidieregeling is vastgelegd dat voor de subsidievaststelling een accountantsproduct wordt
+### 
+### gevraagd indien de subsidie € 125.000 of meer bedraagt. Het betreft de volgende producten,
+### 
+### genoemd in de Subsidieregeling publieke gezondheid artikel 35 :
+### 
+### •
+### 
+### •
+### 
+### artikel 35 lid 1: controleverklaring over de subsidievaststelling van de instellingssubsidie
+### 
+### 2023 bij jaarrekening (zie hoofdstuk 2 in dit protocol). Afrekening van de subsidie vindt
+### 
+### plaats op basis van werkelijke kosten, waarbij een aanvulling van de reserve aanvaardbare
+### 
+### kosten tot 10% van het verleende subsidiebedrag mogelijk is.
+### 
+### Tevens een rapport van feitelijke bevindingen betreffende de bij de jaarrekening opgenomen
+### 
+### bijlage met aantallen bevolkingsonderzoeken (zie hoofdstuk 3 in dit protocol).
+### 
+### 1.2. Definities
+### 
+### De relevante definities zijn opgenomen in artikel 1 van de regeling. Hiernaast bestaan specifieke
+### 
+### voorschriften voor registeraccountants en accountants-administratieconsulenten, met name de
+### 
+### Nadere Voorschriften Controle en Overige Standaarden (NV COS):
+### 
+### •  Uitgangspunt voor het accountantsonderzoek gericht op de subsidievaststelling van de
+### 
+### instellingssubsidie 2023 zoals verantwoord in de jaarrekening is Standaard 700 ‘Het vormen
+### 
+### van een oordeel en het rapporteren over financiële overzichten’.
+### 
+### •  Uitgangspunt voor het rapport van feitelijke bevindingen is Standaard 4400N 'Opdrachten tot
+### het verrichten van overeengekomen specifieke werkzaamheden', die ook van toepassing is bij
+### 
+### andere dan financiële informatie.
+### 
+### 1.3. Procedures
+### 
+### De aanvraag tot vaststelling van een instellingssubsidie (artikel 32 lid 1) dient binnen tweeëntwintig
+### 
+### weken na afloop van het boekjaar waarvoor de instellingssubsidie wordt aangevraagd te worden
+### 
+### ingediend.
+### 
+### Bij instellingssubsidies dient gebruik te worden gemaakt van een door de minister vastgesteld
+### 
+### formulier. Bij dit formulier dienen accountantsproducten van een accountant (RA of AA) als bedoeld
+### 
+### in artikel 1 van de Wet op het accountantsberoep te worden gevoegd indien de subsidie € 125.000 of
+### 
+### meer bedraagt (artikel 35 lid 4).
+### 
+### In de bijlagen van dit protocol zijn de modellen voor de accountantsproducten opgenomen,
+### 
+### aangepast aan de meest recente NBA-voorbeeldteksten ten tijde van het opstellen van het protocol.
+### 
+### Deze voorbeeldteksten zijn gebaseerd op de geldende Standaarden. Om de samenhang en
+### 
+### herkenbaarheid van het accountantsproduct te bevorderen raadt de NBA het gebruik van de meest
+### 
+### recente NBA-voorbeeldteksten aan. Wel blijft de accountant zelf verantwoordelijk voor het gebruik
+### 
+### van de juiste tekst. De accountant zal deze nog moeten afstemmen op de specifieke situatie.
+### 
+### De accountant mag ervoor kiezen om ten behoeve van VWS een zogenaamde "WG-verklaring" af te
+### 
+### geven, waarbij uitsluitend de naam van de instellingsaccountant met de aanduiding w.g. (was
+### 
+### getekend) wordt vermeld. De origineel ondertekende verklaring/rapport met de persoonlijke
+### 
+### handtekening van de accountant moet in het archief van de instelling worden opgenomen.
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Hoofdstuk 2: Controleaanpak bij financieel verslag
+### 
+### 2.1. Controleaanpak
+### 
+### Met het oog op de vaststelling van de betrouwbaarheid van de verstrekte informatie over de
+### 
+### subsidievaststelling van de instellingssubsidie 2023 van Stichting BVO wordt een controleverklaring
+### 
+### (als bedoeld in artikel 35 lid 1) bij de door de instelling ingediende jaarrekening (als bedoeld in artikel
+### 32 lid 2.c) verstrekt. De ingediende jaarrekening betreft het financieel verslag met
+### subsidievaststelling van de instellingssubsidie betreffende artikel 46, 51 en 57) voorzien van een
+### bijlage met de aantallen bevolkingsonderzoeken betreffende artikel 46, 51 en 57.
+### Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan
+### 
+### de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het
+### 
+### bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding
+### 
+### van de maximaal toegestane reservering, bedoeld in artikel 23.
+### 
+### NB: Een aparte subsidiedeclaratie voor de instellingssubsidie kan achterwege blijven
+### 
+### indien de daarmee te verstrekken (subsidie-) informatie reeds in de in te zenden
+### 
+### jaarrekening is opgenomen (artikel 32 lid 3). De informatie over subsidieregeling Publieke
+### 
+### Gezondheid in het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan
+### 
+### worden gevormd omtrent de aanwending en de besteding van de subsidie door de instelling en geeft
+### 
+### de benodigde informatie om de subsidie vast te stellen.
+### 
+### 2.2. Referentiekader voor de controleverklaring
+### Voor de controlewerkzaamheden die leiden tot de controleverklaring behorend bij het financieel
+### 
+### verslag met de subsidievaststelling van de instellingssubsidie 2023 gelden de volgende
+### 
+### aandachtspunten:
+### 
+### a)  Kosten: de verantwoorde kosten dienen samen te hangen met de in de verleningsbeschikking
+### 
+### opgenomen activiteiten voor instellingssubsidies (artikel 1 c) nader omschreven in het
+### 
+### activiteitenplan (artikel 9 lid 2) en de begroting (artikel 9 lid 3);
+### 
+### b)  Egalisatiereserve: voor de egalisatiereserve bij instellingssubsidies:
+### 
+### -
+### 
+### -
+### 
+### -
+### 
+### de stand van de egalisatiereserve en de toevoeging aan of onttrekking uit de
+### 
+### egalisatiereserve is juist berekend (artikel 23);
+### 
+### er is rekening gehouden met het maximum van 10% of het in de verlening genoemde lagere
+### 
+### maximum (artikel 23 lid 6);
+### 
+### een onttrekking uit de egalisatiereserve is besteed aan de activiteiten waarvoor de
+### 
+### instellingssubsidie van het desbetreffende boekjaar is verleend (artikel 23 lid 5 ). Besteding
+### 
+### aan extra activiteiten of andere activiteiten is niet toegestaan. De aanwending van de
+### 
+### egalisatiereserve wordt in de jaarrekening /subsidiedeclaratie toegelicht (artikel 24);
+### 
+### c)  Vergoedingen: de subsidieontvanger die aan derden goederen ter beschikking stelt of voor
+### 
+### derden diensten verricht, brengt daarvoor een vergoeding in rekening die ten minste
+### 
+### kostendekkend is, tenzij het derden betreft voor wie de gesubsidieerde activiteiten bestemd zijn
+### 
+### (artikel 29);
+### 
+### d)  Kostenberekening: de baten en lasten die door middel van interne doorberekeningen worden
+### 
+### toegerekend worden bepaald op bedrijfseconomische en maatschappelijk aanvaardbare
+### 
+### grondslagen. Voorzover hierin lasten zijn begrepen van materiële vaste activa, dan worden deze
+### 
+### lasten op basis van aanschaffingsprijzen van die activa berekend;
+### 
+### e)  Voorzieningen: toevoegingen aan voorzieningen die samenhangen met de gesubsidieerde
+### 
+### activiteiten zijn subsidiabele kosten, tenzij de minister anders bepaalt (artikel 23 lid 3).
+### 
+### f)  Verzekeringsplicht: Het voldoen aan de in artikel 21 genoemde verzekeringsplicht, tenzij
+### 
+### ontheffing is verleend (artikel 21 lid 3). De accountant onderzoekt hierbij, of aan deze plicht is
+### 
+### voldaan volgens de interne registraties en of eventueel ontheffing is verleend. De accountant
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### onderzoekt of er een registratie bestaat voor de daarvoor in aanmerking komende te verzekeren
+### 
+### en verzekerde objecten. De accountant controleert niet de toereikendheid van de verzekering.
+### 
+### Aan de niet genoemde artikelen van de Subsidieregeling publieke gezondheid hoeft bij de uitvoering
+### 
+### van de controle geen aandacht te worden besteed, met dien verstande dat om de controle op de
+### 
+### hierboven genoemde artikelen goed te kunnen verrichten kennisneming van de Wet op de
+### 
+### bevolkingsonderzoeken en de niet genoemde artikelen van de Subsidieregeling publieke gezondheid
+### 
+### (inclusief de toelichting) noodzakelijk is.
+### 
+### 2.3. Gevolgen van doelgebonden en niet-doelgebonden
+### subsidieverplichtingen
+### 
+### In de verleningsbeschikking, kunnen doelgebonden en niet-doelgebonden verplichtingen zijn
+### 
+### opgenomen (artikelen 4:37 t/m 4:39 Algemene wet bestuursrecht en artikel 26 en 27 van de
+### 
+### Subsidieregeling publieke gezondheid). De accountant neemt van de inhoud van deze beschikking
+### 
+### kennis en betrekt de naleving van de eventueel opgenomen doelgebonden en niet-doelgebonden
+### 
+### subsidieverplichtingen in de werkzaamheden indien dit in de beschikking expliciet is vermeld.
+### 
+### Expliciet vermelden houdt in dat terzake van die verplichtingen in de beschikking is uitgewerkt wat
+### 
+### het te hanteren normenkader is, welke foutdefinities hierbij gelden en welke werkzaamheden van de
+### 
+### accountant worden verwacht. Afwijkingen van doelgebonden en niet-doelgebonden
+### 
+### subsidieverplichtingen, die indien dit is aangegeven in de verleningsbeschikking van belang zijn voor
+### 
+### de te verstrekken Assurance, weegt de accountant mee bij het af te geven accountantsoordeel in de
+### 
+### controleverklaring.
+### 
+### 2.4 Andere informatie
+### Het financieel verslag  omvat naast verantwoordingsinformatie ook andere informatie, die bestaat
+### 
+### uit:
+### 
+### •
+### 
+### bijlage met aantallen bevolkingsonderzoeken.
+### 
+### De accountant dient overeenkomstig Standaard 720 ’De verantwoordelijkheden van de accountant
+### 
+### met betrekking tot andere informatie’ vast te stellen dat de andere informatie verenigbaar is met het
+### 
+### financieel verslag en geen materiële afwijkingen bevat. Indien blijkt dat de andere informatie niet
+### 
+### verenigbaar is met het financieel verslag dan vermeldt de accountant dit in de controleverklaring.
+### 
+### 2.5. Betrouwbaarheid en nauwkeurigheid controleverklaring
+### 
+### De controle behoort zodanig te worden ingepland en uitgevoerd dat een redelijke mate van zekerheid
+### 
+### wordt verkregen dat het financieel verslag (de jaarrekening) geen afwijkingen van materieel belang
+### 
+### bevat. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden,
+### 
+### moet uitgegaan worden van een betrouwbaarheid van 95%.
+### 
+### Een goedkeurende controleverklaring impliceert dat, gegeven de eerdergenoemde betrouwbaarheid,
+### 
+### in het financieel verslag geen afwijkingen (onjuistheden en onzekerheden) voorkomen met een
+### 
+### belang dat groter is dan de voorgeschreven toleranties. Het referentiekader is opgenomen in
+### 
+### paragraaf 2.2 onder a tot en met f. Bij aanvullende subsidiebepalingen geldt ook paragraaf 2.3.
+### 
+### Het totaalbedrag van de subsidiabele kosten vormt een afzonderlijke massa waarop de toleranties
+### 
+### van onderstaande tabel moeten worden toegepast. Voor de strekking van de controleverklaring
+### 
+### gelden de volgende toleranties (op basis van het totaalbedrag van de subsidiabele kosten).
+### 
+### Materialiteitstabel
+### 
+### Goedkeurend
+### oordeel
+### 
+### Oordeel met
+### beperking
+### 
+### Oordeelonthouding/
+### Afkeurende oordeel
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Fouten (afwijkingen) in financieel
+### verslag
+### en onzekerheden in de controle
+### 
+### <2%
+### 
+### >2%  -  <4%
+### 
+### >4%
+### 
+### Indien de accountant zowel fouten in het financieel verslag als onzekerheden in de controle aantreft,
+### 
+### dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.
+### 
+### Van fouten in de verantwoording is sprake indien naar aanleiding van de uitgevoerde controle is
+### 
+### gebleken dat het financieel verslag onjuistheden bevat omdat deze niet voldoen aan de normen van
+### 
+### het in paragraaf 2.2 bedoelde referentiekader. Fouten worden in absolute zin opgevat.
+### 
+### Salderen van fouten is daarom niet toegestaan.
+### 
+### Van een onzekerheid in de controle is sprake als er onvoldoende (controle-) informatie beschikbaar is
+### 
+### om posten in het financieel verslag als goed of fout aan te merken. Kortom als onzekerheid bestaat
+### 
+### over het wel of niet voldoen aan de normen van dit protocol.
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Hoofdstuk 3 Onderzoeksaanpak rapport van feitelijke bevindingen
+### 
+### 3.1  Aanpak
+### De accountant voert zijn werkzaamheden uit volgens Standaard 4400 ‘Opdrachten tot het
+### 
+### verrichten van overeengekomen specifieke werkzaamheden’, de Verordening Gedrags- en
+### 
+### Beroepsregels Accountants (VGBA) en dit protocol. Er is geen sprake van het uitvoeren van een
+### 
+### assurance-opdracht, de accountant verstrekt geen zekerheid (assurance). De accountant
+### 
+### rapporteert over de uitkomsten van zijn werkzaamheden via het rapport van feitelijke bevindingen,
+### 
+### zoals opgenomen in bijlage B. In dit rapport vermeldt hij welke werkzaamheden hij heeft
+### 
+### uitgevoerd, wat de reikwijdte van zijn werkzaamheden is geweest en tot welke bevindingen dit
+### 
+### heeft geleid. Van de accountant wordt niet verwacht dat hij een uitspraak doet over de
+### 
+### toereikendheid en geschiktheid van de verrichte werkzaamheden in relatie tot het doel waarvoor
+### 
+### deze worden verricht, noch voor elk ander doel. De accountant rapporteert zijn bevindingen zonder
+### 
+### een oordeel hierover te vormen. Het ministerie van Volksgezondheid, Welzijn en Sport, hierna
+### 
+### VWS, vormt een oordeel over de bevindingen en trekt op basis hiervan haar conclusies.
+### 
+### Gezien de specifieke voorwaarden in een Standaard 4400 opdracht is de verspreidingskring van het
+### 
+### rapport beperkt tot de zorgaanbieder en VWS met wie de werkzaamheden zijn afgesproken.
+### 
+### 3.2  Referentiekader voor het rapport van feitelijke bevindingen
+### 
+### De specifieke overeengekomen werkzaamheden worden verricht op de bijlage van het financieel
+### 
+### verslag. De bijlage bevat het aantallen bevolkingsonderzoeken betreffende artikel 46, 51 en 57.
+### 
+### Voor het onderzoek dat leidt tot het rapport van feitelijke bevindingen gelden de volgende
+### 
+### specifieke overeengekomen werkzaamheden ten aanzien van:
+### 
+### Betrouwbaarheid  Screen IT bevolkingsonderzoeken registratie-systeem
+### 
+### 1)  Verkrijg de ISAE 3402 Type II rapportage voor 2023 (periode 1 januari t/m 31 december
+### 
+### 2023) aan BVO inzake Screen IT.
+### 
+### 2)  Verkrijg de LoR namens BVO aan de controlerend accountant van de ISAE 3402 Type II
+### 
+### rapportage voor 2023.
+### 
+### 3)  Vaststellen dat BVO, op basis van eventuele bevindingen vanuit het ISAE3402 op Screen
+### 
+### IT, vervolgwerkzaamheden heeft gedaan.
+### 
+### Baarmoederhalskanker
+### Hoofdstuk II - Paragraaf 2: Bevolkingsonderzoek naar baarmoederhalskanker
+### 
+### 4)  De accountant stelt de totstandkoming lijst uit primaire registratie van de
+### 
+### bevolkingsonderzoeken naar baarmoederhalskanker vast.
+### 
+### 5)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken als
+### 
+### bedoeld in artikel 42 lid 2 voor wat betreft primaire uitstrijkjes (als bedoeld in artikel 41.c),
+### 
+### cytologische beoordeling (als bedoeld in art 41 f), zelfafnameset (ZAS) (als bedoeld in
+### 
+### artikel 41 g), controle-uitstrijkje (als bedoeld in artikel 41 h), uitstrijkje na hrHPV-positieve
+### 
+### ZAS (als bedoeld in artikel 41 i) aansluiten met de lijst uit primaire registratie (het aantal
+### 
+### onderzoeken zoals opgenomen in de centrale database).
+### 
+### Borstkanker
+### Hoofdstuk II - Paragraaf 3: Bevolkingsonderzoek naar borstkanker
+### 
+### 6)  De accountant stelt de totstandkoming lijst uit primaire registratie van de
+### 
+### bevolkingsonderzoeken naar borstkanker vast.
+### 
+### 7
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 7)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken (als
+### 
+### bedoeld in artikel 50 en artikel 48 lid b) aansluiten met de lijst uit primaire registratie (het
+### aantal onderzoeken zoals opgenomen in de centrale database).
+### 
+### Darmkanker
+### 
+### Hoofdstuk II - Paragraaf 4: Bevolkingsonderzoek naar darmkanker
+### 
+### 8)  De accountant stelt de totstandkoming lijst uit primaire registratie van de
+### 
+### bevolkingsonderzoeken naar darmkanker vast.
+### 
+### 9)  De accountant stelt vast dat de in de jaarrekening opgenomen aantal onderzoeken als
+### 
+### bedoeld in artikel 55 aansluiten met de lijst uit primaire registratie (het aantal onderzoeken
+### 
+### zoals opgenomen in de centrale database).
+### 
+### 3.3  Rapporteren inzake overeengekomen specifieke werkzaamheden
+### 
+### Voor de rapportage inzake overeengekomen specifieke werkzaamheden maakt de accountant
+### gebruik van het model in bijlage 2.
+### 
+### In het rapport vermeldt de accountant welke overeengekomen specifieke werkzaamheden hij in dit
+### kader heeft verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn
+### onderzoek bevindingen heeft vastgesteld maakt hij daarvan melding in zijn rapport van feitelijke
+### bevindingen. Deze bevindingen dienen onder verwijzing naar de relevante bepaling uit
+### subsidieregeling te worden gerapporteerd.
+### 
+### NB: VWS maakt op basis van de gerapporteerde bevindingen een eigen afweging over de betekenis
+### van de uitkomsten van de werkzaamheden in relatie tot de subsidie-vaststelling.
+### 
+### 8
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Bijlage 1: Model Controleverklaring over de subsidievaststelling
+### van de instellingssubsidie 2023
+### 
+### CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+### 
+### Aan: Opdrachtgever
+### 
+### Ons oordeel
+### Wij hebben het bijgevoegde en door ons gewaarmerkte financieel verslag met subsidievaststelling
+### van de instellingssubsidie als bedoeld in artikel... [afhankelijk van de soort subsidie: 46, 51 en 57]
+### (hierna: financieel verslag 2023) van ... (naam entiteit) te ... ((statutaire) vestigingsplaats) over
+### de periode 2023 gecontroleerd.
+### 
+### Naar ons oordeel is het financieel verslag 2023 van ... (naam entiteit) aangevende het bedrag van
+### € ….. aan subsidiabele kosten en opbrengsten, in alle van materieel belang zijnde aspecten
+### opgesteld in overeenstemming met de relevante bepalingen van de Subsidieregeling publieke
+### gezondheid, zoals vastgelegd in het Accountantsprotocol behorend bij de Subsidieregeling publieke
+### gezondheid en met de doelgebonden en niet doelgebonden subsidieverplichtingen, zoals vastgelegd
+### in de verleningsbeschikking1.
+### 
+### De basis voor ons oordeel
+### Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse
+### controlestandaarden en de relevante bepalingen uit het Accountantsprotocol behorend bij de
+### Subsidieregeling publieke gezondheid. Onze verantwoordelijkheden op grond hiervan zijn
+### beschreven in de sectie 'Onze verantwoordelijkheden voor de controle van het financieel verslag
+### 2023.
+### 
+### Wij zijn onafhankelijk van ... (naam entiteit) zoals vereist in de Verordening inzake de
+### onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht
+### relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening
+### gedrags- en beroepsregels accountants (VGBA).
+### 
+### Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor
+### ons oordeel.
+### 
+### Andere informatie
+### Aan het financieel verslag en onze controleverklaring daarbij is andere informatie toegevoegd, die
+### bestaat uit:
+### 
+### -  Bijlage met aantallen bevolkingsonderzoeken.
+### 
+### Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het
+### financieel verslag verenigbaar is en geen materiële afwijkingen bevat.
+### Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip,
+### verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële
+### afwijkingen bevat.
+### Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 720.
+### Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het
+### financieel verslag.
+### Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.
+### 
+### Benadrukking van de basis voor financiële verslaggeving en beperking in het gebruik en
+### verspreidingskring
+### Wij vestigen de aandacht op punt ... in de toelichting van de jaarrekening waarin de basis voor
+### financiële verslaggeving uiteen is gezet. Het financieel verslag 2023 is opgesteld voor het Ministerie
+### van Volksgezondheid, Welzijn en Sport met als doel
+### [naam entiteit] in staat te stellen te voldoen
+### aan de Subsidieregeling publieke gezondheid. Hierdoor is het financieel verslag 2023 mogelijk niet
+### geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor …
+### [naam entiteit] en het Ministerie van Volksgezondheid, Welzijn en Sport en dient niet te worden
+### 
+### 1 Voorzover er in de verleningsbeschikking aanvullende subsidieverplichtingen zijn gesteld.
+### 
+### 9
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### verspreid aan of te worden gebruikt door anderen. Ons oordeel is niet aangepast als gevolg van
+### deze aangelegenheid.
+### 
+### Verantwoordelijkheden van het bestuur en het toezichthoudend orgaan1 voor het
+### financieel verslag 2023
+### Het bestuur is verantwoordelijk voor het opstellen van het financieel verslag in overeenstemming
+### met de bepalingen van de Subsidieregeling publieke gezondheid, met de doelgebonden en niet
+### doelgebonden subsidieverplichtingen, zoals vastgelegd in de verleningsbeschikking2 en met de
+### door de entiteit gekozen en beschreven grondslagen, zoals uiteengezet in punt ... in de toelichting
+### van de jaarrekening en voor het bepalen dat de gebruikte grondslagen voor financiële
+### verslaggeving aanvaardbaar zijn in de gegeven omstandigheden.
+### 
+### In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur
+### noodzakelijk acht om het opstellen van het financieel verslag 2023 mogelijk te maken zonder
+### afwijkingen van materieel belang als gevolg van fouten of fraude.
+### 
+### Het toezichthoudend orgaan is verantwoordelijk voor het uitoefenen van toezicht op het proces van
+### financiële verslaggeving van de entiteit.
+### 
+### Onze verantwoordelijkheden voor de controle van financieel verslag 2023
+### Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij
+### daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven
+### oordeel.
+### 
+### Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor
+### het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
+### 
+### Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs
+### kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de
+### economische beslissingen die gebruikers op basis van deze de aanvraag tot subsidievaststelling
+### nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden
+### en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
+### 
+### Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant
+### professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse
+### controlestandaarden, het Accountantsprotocol behorend bij de Subsidieregeling publieke
+### gezondheid, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder
+### andere uit:
+### 
+### •
+### 
+### •
+### 
+### •
+### 
+### •
+### 
+### •
+### 
+### het identificeren en inschatten van de risico’s dat het financieel verslag afwijkingen van
+### materieel belang bevat als gevolg van fouten of fraude, het in reactie op deze risico’s
+### bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-
+### informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico
+### dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude
+### kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten
+### transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken
+### van de interne beheersing;
+### het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als
+### doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze
+### werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit
+### van de interne beheersing van de organisatie;
+### het evalueren van de geschiktheid van de gebruikte grondslagen voor het opstellen van de
+### financieel verslag 2023 en het evalueren van de redelijkheid van schattingen door het
+### bestuur en de toelichtingen die daarover in het financieel verslag 2023 staan;
+### het evalueren van de presentatie, structuur en inhoud van het financieel verslag 2023 en
+### de daarin opgenomen toelichtingen; en
+### het evalueren of het financieel verslag 2023 de onderliggende transacties en
+### gebeurtenissen zonder materiële afwijkingen weergeeft.
+### 
+### 1 Zo nodig aanpassen als een toezichthoudend orgaan ontbreekt
+### 2 Voorzover er in de verleningsbeschikking aanvullende subsidieverplichtingen zijn gesteld
+### 
+### 10
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Wij communiceren met het toezichthoudend orgaan onder andere over de geplande reikwijdte en
+### timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn
+### gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.
+### 
+### Plaats en datum
+### 
+### Naam accountantspraktijk
+### 
+### Naam accountant
+### 
+### 11
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Bijlage 2: Model Rapport inzake overeengekomen specifieke
+### werkzaamheden – Subsidieregeling publieke gezondheid met
+### betrekken tot … (onderzoeksobject(en))
+### 
+### Afgegeven ten behoeve van het Ministerie van Volksgezondheid, Welzijn en Sport.
+### 
+### Aan: Opdrachtgever
+### 
+### Doel van dit rapport inzake overeengekomen specifieke werkzaamheden
+### Ons rapport is uitsluitend bedoeld om te rapporteren over enkele onderdelen van de naleving van
+### de aan de subsidieregeling publieke gezondheid verbonden verplichtingen en is mogelijk niet
+### geschikt voor een ander doel.
+### 
+### Dit rapport is uitsluitend bedoeld voor [Opdrachtgever] en het Ministerie van Volksgezondheid,
+### Welzijn en Sport(hierna aan te duiden met: “de beoogde gebruikers” en dient niet te worden
+### verspreid aan of te worden gebruikt door anderen.
+### 
+### Samenvatting [bevindingen]
+### [De samenvatting van de bevindingen dient te worden beschreven op een wijze die objectief is, in
+### bewoordingen die duidelijk, niet misleidend en niet voor verschillende interpretaties vatbaar zijn]
+### 
+### Verantwoordelijkheden van [Opdrachtgever] en de beoogde gebruikers
+### [Opdrachtgever] en de beoogde gebruiker(s) hebben) erkend dat de overeengekomen specifieke
+### werkzaamheden geschikt zijn voor het doel van de opdracht.
+### 
+### [Opdrachtgever] is verantwoordelijk voor … (onderzoeksobject(en)) waarop de overeengekomen
+### specifieke werkzaamheden zijn uitgevoerd.
+### 
+### Van [Opdrachtgever] en de beoogde gebruiker(s) wordt verwacht dat zij een eigen afweging
+### maken van de overeengekomen specifieke werkzaamheden en bevindingen die door ons zijn
+### gerapporteerd en hun eigen conclusies trekken uit de door ons uitgevoerde werkzaamheden.
+### 
+### Onze verantwoordelijkheden
+### Een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden houdt in dat wij
+### de specifieke werkzaamheden uitvoeren die zijn overeengekomen met [Opdrachtgever] [Indien van
+### toepassing: en met andere beoogde gebruiker(s)] en de bevindingen rapporteren, die de feitelijke
+### uitkomsten zijn van de uitgevoerde overeengekomen specifieke werkzaamheden.
+### 
+### Wij doen geen uitspraken over de geschiktheid van de overeengekomen specifieke
+### werkzaamheden.
+### 
+### Wij hebben de overeengekomen specifieke werkzaamheden uitgevoerd volgens het Nederlands
+### recht, waaronder de Nederlandse Standaard 4400, ‘Opdrachten tot het verrichten van
+### overeengekomen specifieke werkzaamheden’.
+### 
+### Deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is geen
+### assurance-opdracht. Derhalve brengen wij geen oordeel of assurance-conclusie tot uitdrukking.
+### 
+### Indien wij aanvullende werkzaamheden hadden verricht, zouden mogelijk andere aangelegenheden
+### onder onze aandacht zijn gekomen die gerapporteerd zouden zijn.
+### 
+### Beroepsethiek en kwaliteitsmanagement
+### Wij hebben de voor ons geldende relevante ethische voorschriften in de Verordening gedrags- en
+### beroepsregels accountants (VGBA) nageleefd.
+### 
+### Wij hebben de onafhankelijkheidsregels van de Verordening inzake de onafhankelijkheid van
+### accountants bij assurance-opdrachten (ViO) nageleefd
+### 
+### Wij passen de ‘Nadere voorschriften kwaliteitssystemen’ (NVKS) toe. Op grond daarvan beschikken
+### wij over een samenhangend stelsel van kwaliteitsmanagement inclusief vastgelegde richtlijnen en
+### 
+### 12
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### procedures inzake de naleving van ethische voorschriften, professionele standaarden en andere
+### relevante wet- en regelgeving.
+### 
+### Specifieke werkzaamheden en bevindingen
+### 
+### Wij hebben de hieronder beschreven specifieke werkzaamheden, die wij met [opdrachtgever]
+### [indien van toepassing: en de beoogde gebruiker(s)] zijn overeengekomen in de
+### opdrachtvoorwaarden van .. (datum), uitgevoerd op .. (onderzoeksobject(en). Verder zijn
+### hieronder onze bevindingen vermeld inclusief details over eventuele uitzonderingen.
+### 
+### Specifieke werkzaamheden:
+### 
+### Bevindingen:
+### 
+### Verkrijg de ISAE 3402 Type II rapportage voor 2023 (periode 1 januari
+### 
+### Betrouwbaarheid  Screen IT bevolkingsonderzoeken registratie-systeem
+### 1)
+### t/m 31 december 2023) aan BVO inzake Screen IT.
+### 2)
+### 3402 Type II rapportage voor 2023.
+### 3)
+### ISAE3402 op Screen IT, vervolgwerkzaamheden heeft gedaan.
+### 
+### Stel vast dat BVO, op basis van eventuele bevindingen vanuit het
+### 
+### Verkrijg de LoR namens BVO aan de controlerend accountant van de ISAE
+### 
+### Stel de totstandkoming lijst uit primaire registratie van de
+### 
+### Baarmoederhalskanker
+### Hoofdstuk II - Paragraaf 2: Bevolkingsonderzoek naar
+### baarmoederhalskanker
+### 4)
+### bevolkingsonderzoeken naar baarmoederhalskanker vast.
+### 5)
+### bedoeld in artikel 42 lid 2 voor wat betreft primaire uitstrijkjes (als bedoeld in
+### artikel 41.c), cytologische beoordeling (als bedoeld in art 41 f), zelfafnameset
+### (ZAS) (als bedoeld in artikel 41 g), controle-uitstrijkje (als bedoeld in artikel 41
+### h), uitstrijkje na hrHPV-positieve ZAS (als bedoeld in artikel 41 i) aansluiten met
+### de lijst uit primaire registratie (het aantal onderzoeken zoals opgenomen in de
+### centrale database).
+### 
+### Stel dat de in de jaarrekening opgenomen aantal onderzoeken als
+### 
+### Borstkanker
+### Hoofdstuk II - Paragraaf 3: Bevolkingsonderzoek naar borstkanker
+### 6)
+### Stel de totstandkoming lijst uit primaire registratie van de
+### bevolkingsonderzoeken naar borstkanker vast.
+### 7)
+### bedoeld in artikel 50 en artikel 48 lid b) aansluiten met de lijst uit primaire
+### registratie (het aantal onderzoeken zoals opgenomen in de centrale database).
+### 
+### Stel vast dat de in de jaarrekening opgenomen aantal onderzoeken (als
+### 
+### Darmkanker
+### 
+### Hoofdstuk II – Paragraaf 4: Bevolkingsonderzoek naar darmkanker
+### 8)
+### Stel de totstandkoming lijst uit primaire registratie van de
+### bevolkingsonderzoeken naar darmkanker vast.
+### 9)
+### Stel vast dat de in de jaarrekening opgenomen aantal onderzoeken als
+### bedoeld in artikel 55 aansluiten met de lijst uit primaire registratie (het aantal
+### onderzoeken zoals opgenomen in de centrale database).
+### 
+### Plaats en datum
+### 
+### Naam accountantspraktijk
+### 
+### Naam accountant
+### 
+### 13
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 

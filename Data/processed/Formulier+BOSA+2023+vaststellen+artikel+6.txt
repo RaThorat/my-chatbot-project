@@ -1,104 +1,104 @@
-
-RO_VWS_DUSI_Logo_2_RGB_pos_nl.png
-
-Formulier vaststelling artikel 6Stimulering bouw en onderhoud van sportaccommodaties 2023
-Formulier vaststelling artikel 6
-Stimulering bouw en onderhoud van sportaccommodaties 2023
-
-
-
-
-
-
-
-
-
-Als u een subsidie hoger dan € 125.000 verleend heeft gekregen (artikel 12) inclusief onderdelen die onder deaanvullende subsidie (artikel 6) vallen, dan heeft u dit ingevulde en ondertekende formulier nodig bij uw vaststellingsverzoek.
-Wij vragen u om bij de relevante maatregelen de hoogte van de subsidiabele kosten (incl. btw) in te vullen en het formulier te laten ondertekenen door de aannemer, installateur of leverancier.Gebruik 1 formulier per partij.
-
-Meer informatie over de vereisten van deze maatregelen staat in bijlage 1 van de regeling.
-Maatregel
-Subsidiabele kosten vaststelling incl. btw
-D 1.1Sportveldverlichting
- 
-D 1.2 Ledverlichting
- 
-D 2.1 Warmte/koude terugwinning voor bestaande sportaccommodaties
- 
-D 2.2 Warmtepomp
- 
-D 2.3 Warmteterugwinning uit douchewater
- 
-D 2.4 Zwembadafdekking
- 
-D. 2.5 Adiabatische koeling
- 
-D 2.6Infrarood verwarmingspaneel met bewegingssensor en thermostaat voor bestaande sportaccommodaties
- 
-D 3.1 HR-glas voor bestaande sportaccommodaties
-
-D 3.2 HR-glas voor nieuwe sportaccommodaties
-
-D 3.3 Isolatie wand, vloer, dak voor bestaande sportaccommodaties
-
-D 4.1 Zonnecollectorsysteem
- 
-D 4.2 Zonnepanelen of flexibele PV voor elektriciteitsopwekking
-
-
-D 4.3 Zonnewarmtecollector voor sportvelden
-
-D 5.1 Slimme meter met een energieverbruiks-manager/EBS voor elektriciteit, aardgas (a.e.) en/ofwarmte.
- 
-T 1. Automatische deur
- 
-T 2. Toegang sportrolstoelen
- 
-T 3. Lift
- 
-T 4. Integraal toegankelijk toilet
- 
-T 5.1 Tillift voor personen
- 
-T 5.2 Luie zwembadtrap
- 
-T 5.3 Akoestiek
- 
-T 5.4 Voorziening Slechthorenden
- 
-T 5.5 Klok
- 
-T 6Toegang sportrolstoelen voor buitensportvelden, -banen,-terreinen.
-
-C 1. Hergebruikt infillzand
- 
-C 2. Kunststof kantplanken
-
-C 3. Schoonloopvoorziening
-
-C 4. Gerecyclede sportvloer in sporthal (ten minste 80% gerecycled materiaal)
-
-C 5.Zout(water)batterij
-
-C 6. Gerecyclede Shockpads (ten minste 80% gerecycled materiaal) 
-
-K 1. Regenwateropslagsysteem
- 
-K 2. Vegetatiedak
- 
-K 3. Infiltratiesysteem
-
-
-Verklaring aannemer, installateur of leverancier
-Ik verklaar dat demaatregelen zijn uitgevoerd volgens de eisen die de BOSA-regeling hieraan stelt en dat ik dit formulier naar waarheid heb ingevuld.
- 
-Datum
- 
-Plaats
- 
-Handtekening
- 
-Naam
- 
-Functie
- 
+### 
+### RO_VWS_DUSI_Logo_2_RGB_pos_nl.png
+### 
+### Formulier vaststelling artikel 6Stimulering bouw en onderhoud van sportaccommodaties 2023
+### Formulier vaststelling artikel 6
+### Stimulering bouw en onderhoud van sportaccommodaties 2023
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### Als u een subsidie hoger dan € 125.000 verleend heeft gekregen (artikel 12) inclusief onderdelen die onder deaanvullende subsidie (artikel 6) vallen, dan heeft u dit ingevulde en ondertekende formulier nodig bij uw vaststellingsverzoek.
+### Wij vragen u om bij de relevante maatregelen de hoogte van de subsidiabele kosten (incl. btw) in te vullen en het formulier te laten ondertekenen door de aannemer, installateur of leverancier.Gebruik 1 formulier per partij.
+### 
+### Meer informatie over de vereisten van deze maatregelen staat in bijlage 1 van de regeling.
+### Maatregel
+### Subsidiabele kosten vaststelling incl. btw
+### D 1.1Sportveldverlichting
+### 
+### D 1.2 Ledverlichting
+### 
+### D 2.1 Warmte/koude terugwinning voor bestaande sportaccommodaties
+### 
+### D 2.2 Warmtepomp
+### 
+### D 2.3 Warmteterugwinning uit douchewater
+### 
+### D 2.4 Zwembadafdekking
+### 
+### D. 2.5 Adiabatische koeling
+### 
+### D 2.6Infrarood verwarmingspaneel met bewegingssensor en thermostaat voor bestaande sportaccommodaties
+### 
+### D 3.1 HR-glas voor bestaande sportaccommodaties
+### 
+### D 3.2 HR-glas voor nieuwe sportaccommodaties
+### 
+### D 3.3 Isolatie wand, vloer, dak voor bestaande sportaccommodaties
+### 
+### D 4.1 Zonnecollectorsysteem
+### 
+### D 4.2 Zonnepanelen of flexibele PV voor elektriciteitsopwekking
+### 
+### 
+### D 4.3 Zonnewarmtecollector voor sportvelden
+### 
+### D 5.1 Slimme meter met een energieverbruiks-manager/EBS voor elektriciteit, aardgas (a.e.) en/ofwarmte.
+### 
+### T 1. Automatische deur
+### 
+### T 2. Toegang sportrolstoelen
+### 
+### T 3. Lift
+### 
+### T 4. Integraal toegankelijk toilet
+### 
+### T 5.1 Tillift voor personen
+### 
+### T 5.2 Luie zwembadtrap
+### 
+### T 5.3 Akoestiek
+### 
+### T 5.4 Voorziening Slechthorenden
+### 
+### T 5.5 Klok
+### 
+### T 6Toegang sportrolstoelen voor buitensportvelden, -banen,-terreinen.
+### 
+### C 1. Hergebruikt infillzand
+### 
+### C 2. Kunststof kantplanken
+### 
+### C 3. Schoonloopvoorziening
+### 
+### C 4. Gerecyclede sportvloer in sporthal (ten minste 80% gerecycled materiaal)
+### 
+### C 5.Zout(water)batterij
+### 
+### C 6. Gerecyclede Shockpads (ten minste 80% gerecycled materiaal)
+### 
+### K 1. Regenwateropslagsysteem
+### 
+### K 2. Vegetatiedak
+### 
+### K 3. Infiltratiesysteem
+### 
+### 
+### Verklaring aannemer, installateur of leverancier
+### Ik verklaar dat demaatregelen zijn uitgevoerd volgens de eisen die de BOSA-regeling hieraan stelt en dat ik dit formulier naar waarheid heb ingevuld.
+### 
+### Datum
+### 
+### Plaats
+### 
+### Handtekening
+### 
+### Naam
+### 
+### Functie
+### 

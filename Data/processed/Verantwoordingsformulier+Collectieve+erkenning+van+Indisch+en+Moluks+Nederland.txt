@@ -1,338 +1,340 @@
-Subsidieregeling collectieve erkenning 
-van Indisch en Moluks Nederland
-
-Stuur het ingevulde en ondertekende formulier (inclusief eventuele 
-bijlagen) naar cewin@minvws.nl.
-
-1 
-
-Organisatie
-
-|
-
-|
-
-|
-
-Contactpersoon
-
-|
-
-|
-
-1.1  Naam organisatie
-
-1.2  Adres
-
-1.3  Postcode en plaats
-
-1.4  KvK-nummer
-
-1.5  Rekeningnummer (IBAN)
-
-1.6  Tenaamstelling
-
-1.7  Naam contactpersoon
-
-1.8  E-mailadres
-
-1.9  Telefoonnummer
-
-|
-
-2.1  Subsidie- of zaaknummer
-
-2.2  Verleende subsidie
-
-2 
-
-3 
-
-Kenmerken subsidieaanvraag
-
->  Vermeld hier gegevens die in de (laatste) verleningsbeschikking zijn vermeld
-
-|
-
-|
-
-Start- en einddatum subsidieperiode
-(dd/mm/jjjj)
-
-3.1  Startdatum activiteiten
-
-|
-
-3.2  Einddatum activiteiten
-
-(dd/mm/jjjj)
-
-|
-
-dus-i_63.01
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-2 van 3
-
-4 
-
-Is aan de verleende subsidie verbonden verplichtingen voldaan?
-
-> 
-
- Beschrijf in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen, genoemd in hoofdstuk 5 van de Kaderregeling 
-subsidies OCW, SZW en VWS en eventuele aanvullende verplichting(en) in de verleningsbeschikking.
-
-4.1  Toelichting
-
-|
-
-5 
-
-Geef een korte toelichting op de gerealiseerde activiteiten
-
-5.1  Toelichting
-
-|
-
-6 
-
-Begrote en gerealiseerde kosten en opbrengsten
-
-> 
-
- Zie de begroting op basis waarvan de subsidie is verleend.
-
-Begrote kosten
-
-Gerealiseerde kosten (1)
-
-6.1  Totale kosten
-
-| 
-
-|
-
-6.2  Totale opbrengsten
-
-| 
-
-|
-
-Begrote eigen bijdrage
-
-Gerealiseerde eigen bijdrage (2)
-
-Begrote bijdrage derden
-
-Gerealiseerde bijdrage derden (3)
-
-| 
-
-|
-
-7 
-
-Resultaatbepaling
-
-> 
-
- Is de gerealiseerde eigen bijdrage lager dan de begrote eigen bijdrage? Dan wordt de subsidie vastgesteld op basis van de begrote eigen 
-bijdrage.
-
-7.1  Verleende subsidie (4)
-
-7.2  Resultaatbepaling
-
->  Berekening: 1 - 2 - 3 - 4. Een negatief resultaat betekent een overschot. U moet het te veel ontvangen voorschot terugbetalen.
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-8 
-
-Ondertekening
-
-3 van 3
-
-Bent u gemachtigd? Stuur dan een machtiging mee.
-Ondergetekende verklaart:
- - bevoegd of gemachtigd te zijn om deze verantwoording te ondertekenen;
- -
-
-kennis te hebben genomen van de geldende wet- en regelgeving op basis waarvan de subsidie wordt verantwoord en 
-deze regelgeving te hebben nageleefd;
-
- - deze verantwoording (inclusief eventuele bijlagen) volledig, juist en naar waarheid te hebben ingevuld.
-
-8.1  Naam
-
-8.2  Functie
-
-Ondertekenaar 1
-
-|
-
-|
-
-8.3  Handtekening en datum
-
-Ondertekenaar 2 (bij gezamenlijke bevoegdheid)
-
-8.4  Naam
-
-8.5  Functie
-
-|
-
-|
-
-8.6  Handtekening en datum
-
-Dag 
-
-  maand   
-
-jaar
-
-Dag 
-
-  maand   
-
-jaar
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+### Subsidieregeling collectieve erkenning
+### van Indisch en Moluks Nederland
+### 
+### Stuur het ingevulde en ondertekende formulier (inclusief eventuele
+### bijlagen) naar cewin@minvws.nl.
+### 
+### 1
+### 
+### Organisatie
+### 
+### |
+### 
+### |
+### 
+### |
+### 
+### Contactpersoon
+### 
+### |
+### 
+### |
+### 
+### 1.1  Naam organisatie
+### 
+### 1.2  Adres
+### 
+### 1.3  Postcode en plaats
+### 
+### 1.4  KvK-nummer
+### 
+### 1.5  Rekeningnummer (IBAN)
+### 
+### 1.6  Tenaamstelling
+### 
+### 1.7  Naam contactpersoon
+### 
+### 1.8  E-mailadres
+### 
+### 1.9  Telefoonnummer
+### 
+### |
+### 
+### 2.1  Subsidie- of zaaknummer
+### 
+### 2.2  Verleende subsidie
+### 
+### 2
+### 
+### 3
+### 
+### Kenmerken subsidieaanvraag
+### 
+### >  Vermeld hier gegevens die in de (laatste) verleningsbeschikking zijn vermeld
+### 
+### |
+### 
+### |
+### 
+### Start- en einddatum subsidieperiode
+### (dd/mm/jjjj)
+### 
+### 3.1  Startdatum activiteiten
+### 
+### |
+### 
+### 3.2  Einddatum activiteiten
+### 
+### (dd/mm/jjjj)
+### 
+### |
+### 
+### dus-i_63.01
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 2 van 3
+### 
+### 4
+### 
+### Is aan de verleende subsidie verbonden verplichtingen voldaan?
+### 
+### >
+### 
+### Beschrijf in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen, genoemd in hoofdstuk 5 van de Kaderregeling
+### subsidies OCW, SZW en VWS en eventuele aanvullende verplichting(en) in de verleningsbeschikking.
+### 
+### 4.1  Toelichting
+### 
+### |
+### 
+### 5
+### 
+### Geef een korte toelichting op de gerealiseerde activiteiten
+### 
+### 5.1  Toelichting
+### 
+### |
+### 
+### 6
+### 
+### Begrote en gerealiseerde kosten en opbrengsten
+### 
+### >
+### 
+### Zie de begroting op basis waarvan de subsidie is verleend.
+### 
+### Begrote kosten
+### 
+### Gerealiseerde kosten (1)
+### 
+### 6.1  Totale kosten
+### 
+### |
+### 
+### |
+### 
+### 6.2  Totale opbrengsten
+### 
+### |
+### 
+### |
+### 
+### Begrote eigen bijdrage
+### 
+### Gerealiseerde eigen bijdrage (2)
+### 
+### Begrote bijdrage derden
+### 
+### Gerealiseerde bijdrage derden (3)
+### 
+### |
+### 
+### |
+### 
+### 7
+### 
+### Resultaatbepaling
+### 
+### >
+### 
+### Is de gerealiseerde eigen bijdrage lager dan de begrote eigen bijdrage? Dan wordt de subsidie vastgesteld op basis van de begrote eigen
+### bijdrage.
+### 
+### 7.1  Verleende subsidie (4)
+### 
+### 7.2  Resultaatbepaling
+### 
+### >  Berekening: 1 - 2 - 3 - 4. Een negatief resultaat betekent een overschot. U moet het te veel ontvangen voorschot terugbetalen.
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 8
+### 
+### Ondertekening
+### 
+### 3 van 3
+### 
+### Bent u gemachtigd? Stuur dan een machtiging mee.
+### Ondergetekende verklaart:
+### - bevoegd of gemachtigd te zijn om deze verantwoording te ondertekenen;
+### -
+### 
+### kennis te hebben genomen van de geldende wet- en regelgeving op basis waarvan de subsidie wordt verantwoord en
+### deze regelgeving te hebben nageleefd;
+### 
+### - deze verantwoording (inclusief eventuele bijlagen) volledig, juist en naar waarheid te hebben ingevuld.
+### 
+### 8.1  Naam
+### 
+### 8.2  Functie
+### 
+### Ondertekenaar 1
+### 
+### |
+### 
+### |
+### 
+### 8.3  Handtekening en datum
+### 
+### Ondertekenaar 2 (bij gezamenlijke bevoegdheid)
+### 
+### 8.4  Naam
+### 
+### 8.5  Functie
+### 
+### |
+### 
+### |
+### 
+### 8.6  Handtekening en datum
+### 
+### Dag
+### 
+### maand
+### 
+### jaar
+### 
+### Dag
+### 
+### maand
+### 
+### jaar
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
