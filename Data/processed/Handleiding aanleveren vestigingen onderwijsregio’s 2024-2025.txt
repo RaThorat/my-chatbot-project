@@ -1,16 +1,16 @@
-### Handleiding aanleveren vestigingen onderwijsregio’s 2024-2025
-### Publicatie | 18-06-2024
-### 
-### In deze handleiding staat uitgelegd hoe u de regiotool gebruikt om het format voor de deelnemende vestigingen in te vullen.
-### 
-### Download het CSV-bestand uit de regiotool.
-### Open Microsoft Excel en klik op het menu Gegevens en daarna op Gegevens ophalen.
-### Klik op Uit bestand en vervolgens op Uit tekstbestand/CSV.
-### 
-### Selecteer het juiste bestand en klik op Importeren.
-### Selecteer als scheidingsteken Komma en klik op Laden.
-### Kopieer en plak vervolgens de gegevens naar het Format deelnemende vestigingen. Let op dat u de gegevens van de verschillende sectoren in de juiste tabbladen plakt.
-### 
-### Controleer in het tabblad Totalen PO-VO-MBO of al uw gegevens kloppen.
-### 
-### 
+Handleiding aanleveren vestigingen onderwijsregio’s 2024-2025
+Publicatie | 18-06-2024
+
+In deze handleiding staat uitgelegd hoe u de regiotool gebruikt om het format voor de deelnemende vestigingen in te vullen.
+
+Download het CSV-bestand uit de regiotool.
+Open Microsoft Excel en klik op het menu Gegevens en daarna op Gegevens ophalen.
+Klik op Uit bestand en vervolgens op Uit tekstbestand/CSV.
+
+Selecteer het juiste bestand en klik op Importeren.
+Selecteer als scheidingsteken Komma en klik op Laden.
+Kopieer en plak vervolgens de gegevens naar het Format deelnemende vestigingen. Let op dat u de gegevens van de verschillende sectoren in de juiste tabbladen plakt.
+
+Controleer in het tabblad Totalen PO-VO-MBO of al uw gegevens kloppen.
+
+

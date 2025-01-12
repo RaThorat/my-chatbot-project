@@ -1,58 +1,58 @@
-### Samenvattingen kleine projecten tweede aanvraagronde LLO-Katalysator bouwsteen 2
-### Publicatie | 25-07-2024
-### 
-### Op deze pagina vindt u meer informatie over de kleine projecten voor bouwsteen 2 van de regeling LLO-Katalysator die in de tweede aanvraagronde zijn toegekend.
-### 
-### Stichting Saxion ‘Overbrugging van de digitale kloof’
-### Achtergrond en aanleiding
-### Het doel van ‘Overbrugging van de digitale kloof voor een duurzame energie toekomst’ is het aanpakken van de competentiegap in de hernieuwbare energie infrastructuur.
-### 
-### Het onderzoeksvoorstel erkent de vitale rol van digitale vaardigheden in de energietransitie, een verschuiving van fossiele naar hernieuwbare energie. Het voorstel benadrukt de noodzaak voor deskundigheid in zowel de fysieke constructie als de digitale architectuur van energie-infrastructuren.
-### 
-### Doelstelling en partners
-### De Kien in Deventer is gepositioneerd als centraal knooppunt, gericht op ICT en civiele techniek, om een ecosysteem van kennis, competenties en ondernemerschap te bevorderen.
-### 
-### Door samenwerking met vooraanstaande onderwijs- en bedrijfspartners streeft het project naar het ontwikkelen van levenslange leeroplossingen, gericht op het dichten van de competentiekloof in de sector. Het onderzoek heeft als doel om een gedetailleerd inzicht te bieden in de huidige digitale vaardigheden op de arbeidsmarkt en om de specifieke behoeften voor de energietransitie in kaart te brengen, wat moet leiden tot de input voor een adequate LLO-oplossing.
-### 
-### Christelijke hogeschool Ede ‘HRM-praktijken in transities moet je leren’
-### Achtergrond en aanleiding
-### De energie- en grondstoffentransitie stelt Regio Foodvalley voor forse opgaven. Voor veel beroepen bestaan aanzienlijke tekorten en Leven Lang Ontwikkelingen, zoals op technisch gebied, is van groot belang. De ruim 2.000 kleinere mkb-ondernemingen in de EGT (zoals installatie- en bouwbedrijven en bedrijven in de sector transport- en logistiek) in de regio hebben vaak minder capaciteit voor goede HRM-praktijken en kunnen daardoor moeilijk:
-### 
-### voldoende en goed opgeleide medewerkers vinden,
-### medewerkers behouden,
-### medewerkers ontwikkelen,
-### medewerkers vitaal houden.
-### De bedrijven lopen daardoor het risico vooral met dagelijkse zaken bezig te zijn en minder met de vernieuwing en aanpassing die de transities vragen.
-### 
-### Doelstelling en partners
-### In de ‘Innovatiewerkplaats voor energie- en grondstoffentransitie’ ontwikkelen de Christelijke Hogeschool Ede, mbo-instelling COG, Barneveldse Techniek Opleiding (BOT) en Regio Foodvalley leer- en ontwikkelactiviteiten waarmee mkb-ondernemingen in de EGT transitiegerichte HRM-competenties kunnen ontwikkelen. Daarmee kunnen deze bedrijven innovatieve en aantrekkelijke werkgevers worden die een wezenlijke bijdrage aan de energie- en grondstoffentransitie kunnen leveren.
-### 
-### Activiteiten
-### Met een kleine LLO-katalysator-aanvraag wil het consortium dit werk versnellen door samen met de kleinere mkb-ondernemingen in de EGT een proces van vraagarticulatie te doorlopen waarin drie vragen centraal staan:
-### 
-### Welke knelpunten en opgaven ervaren mkb-bedrijven in de EGT met betrekking tot hun HRM-praktijken?
-### Welke wensen en eisen hebben deze bedrijven met betrekking tot de manieren waarop ze nieuwe HRM-praktijken willen leren?
-### Welke partners heeft het consortium nodig voor het ontwikkelen en testen van de leer- en ontwikkelactiviteiten? Hoe voeren we dit werk als een echte learning community uit?
-### CHE en COG zijn via praktijkgericht onderwijs en onderzoek betrokken bij het regionale MKB en bij de EGT, maar ook de partners in de triple helix-samenwerking in Regio Foodvalley, bijvoorbeeld in het werk aan de Human Capital Agenda van de regio. BTO is een coöperatie van ruim 100 techniekbedrijven in de regio en werkt samen met mbo-instellingen om jongeren en zij-instromers technisch te scholen. Via deze koepel heeft het project goede toegang tot een mkb-ondernemingen in de EGT om die te betrekken bij de vraagarticulatie.
-### 
-### Firda ‘Ontwikkeling microcredential datascience in waterbeheer’
-### Doelstelling
-### Dit project heeft als doel de duurzame inzetbaarheid van watersectorprofessionals te vergroten door middel van de ontwikkeling van een mbo niveau 4 microcredential Datascience in Waterbeheer. Dit onderwijsaanbod is gericht op het bij- of omscholen van zittende professionals om te voldoen aan de huidige en toekomstige behoeften van de arbeidsmarkt in Fryslân en daarbuiten.
-### 
-### Activiteiten en partners
-### De kernactiviteiten omvatten het opstellen van interne procedures en kwaliteitskaders binnen Firda, het ontwikkelen van een infrastructuur voor de creatie van microcredentials, en het ontwerpen van een conceptversie van de microcredential. Dit wordt aangevuld met continue afstemming met het werkveld en het onderzoeken van de brede toepasbaarheid van de microcredential in andere sectoren zoals de sector chemie en de gezondheid.
-### 
-### Waterexpertisecentrum zal cruciale feedback leveren voor verdere ontwikkeling. In de uitvoering van dit project wordt de mogelijkheden verkend voor een hbo microcredential Datascience in het verlengde van de mbo microcredential.
-### 
-### Stichting Drenthe College Terra ‘Duurzaam Leren en Innoveren in Zuidwest Drenthe’
-### Achtergrond en aanleiding
-### De regio Zuidwest Drenthe en de kop van Overijssel kenmerken zich door een hoge concentratie agrarische bedrijvigheid met uitdagingen zoals de druk op de ruimte waaronder de aanwezigheid van meerdere natura 2000 gebieden. De Gebiedscoöperatie Zuidwest Drenthe (GCZWD) constateert een groeiende behoefte naar flexibele vraaggestuurde en gebiedsgerichte bijscholing om de agrarische sector te verduurzamen waarbij natuur(gebieden) en agrarische bedrijvigheid elkaar versterken.
-### 
-### Doelstelling en partners
-### Het voornaamste doel van dit project is het ontwikkelen van een LLO ontwerp dat specifiek is afgestemd op de behoefte van de agrarische sector in de overgang naar duurzamere landbouwpraktijken met specifieke aandacht voor de grondstoffentransitie in en met de samenwerking met natuur(gebieden). Het LLO-ontwerp zal zich richten op het gezamenlijk leren in actuele vraagstukken en uitdagingen op het gebied van bodem, water en duurzame energie, specifiek voor het gebied Zuidwest Drenthe en de kop van Overijssel.
-### 
-### Samenwerkingspartners en hun rol in het project
-### Het consortium bestaat uit GCZWD, Terra en VHL. GCZWD vertegenwoordigt de stakeholders uit het specifieke gebied. Terra en VHL dragen bij aan onderzoek en onderwijs en zetten zich in voor (regionale) LLO-oplossingen.
-### 
-### Activiteiten
-### Het consortium, bestaande uit de GCZWD, Terra en Van Hall Larenstein (VHL) zal onderzoeken welke behoeften er zijn voor bijscholing tot duurzame landbouwpraktijken waarbij de natuur versterkt wordt. Dit omvat het identificeren van doelgroepen, vraagstukken rondom bodem, water en duurzame energie, en vormgeven van gewenste leertrajecten. Ook het vraagstuk wie de leertrajecten invullen en hoe de leervragen gericht op kansen en mogelijkheden blijven geactiveerd worden, behoort tot het resultaat van het ontwerp. De resultaten worden verkregen door narratieve interviews met geïdentificeerde doelgroepen en de analyse van de resultaten evenals het LLO-ontwerp worden voorgelegd aan betrokken stakeholders. De opgedane kennis zal worden gedeeld met diverse kennisnetwerken om schaalbaarheid en overdraagbaarheid naar andere regio’s en LLO- vraagstukken te bevorderen.
+Samenvattingen kleine projecten tweede aanvraagronde LLO-Katalysator bouwsteen 2
+Publicatie | 25-07-2024
+
+Op deze pagina vindt u meer informatie over de kleine projecten voor bouwsteen 2 van de regeling LLO-Katalysator die in de tweede aanvraagronde zijn toegekend.
+
+Stichting Saxion ‘Overbrugging van de digitale kloof’
+Achtergrond en aanleiding
+Het doel van ‘Overbrugging van de digitale kloof voor een duurzame energie toekomst’ is het aanpakken van de competentiegap in de hernieuwbare energie infrastructuur.
+
+Het onderzoeksvoorstel erkent de vitale rol van digitale vaardigheden in de energietransitie, een verschuiving van fossiele naar hernieuwbare energie. Het voorstel benadrukt de noodzaak voor deskundigheid in zowel de fysieke constructie als de digitale architectuur van energie-infrastructuren.
+
+Doelstelling en partners
+De Kien in Deventer is gepositioneerd als centraal knooppunt, gericht op ICT en civiele techniek, om een ecosysteem van kennis, competenties en ondernemerschap te bevorderen.
+
+Door samenwerking met vooraanstaande onderwijs- en bedrijfspartners streeft het project naar het ontwikkelen van levenslange leeroplossingen, gericht op het dichten van de competentiekloof in de sector. Het onderzoek heeft als doel om een gedetailleerd inzicht te bieden in de huidige digitale vaardigheden op de arbeidsmarkt en om de specifieke behoeften voor de energietransitie in kaart te brengen, wat moet leiden tot de input voor een adequate LLO-oplossing.
+
+Christelijke hogeschool Ede ‘HRM-praktijken in transities moet je leren’
+Achtergrond en aanleiding
+De energie- en grondstoffentransitie stelt Regio Foodvalley voor forse opgaven. Voor veel beroepen bestaan aanzienlijke tekorten en Leven Lang Ontwikkelingen, zoals op technisch gebied, is van groot belang. De ruim 2.000 kleinere mkb-ondernemingen in de EGT (zoals installatie- en bouwbedrijven en bedrijven in de sector transport- en logistiek) in de regio hebben vaak minder capaciteit voor goede HRM-praktijken en kunnen daardoor moeilijk:
+
+voldoende en goed opgeleide medewerkers vinden,
+medewerkers behouden,
+medewerkers ontwikkelen,
+medewerkers vitaal houden.
+De bedrijven lopen daardoor het risico vooral met dagelijkse zaken bezig te zijn en minder met de vernieuwing en aanpassing die de transities vragen.
+
+Doelstelling en partners
+In de ‘Innovatiewerkplaats voor energie- en grondstoffentransitie’ ontwikkelen de Christelijke Hogeschool Ede, mbo-instelling COG, Barneveldse Techniek Opleiding (BOT) en Regio Foodvalley leer- en ontwikkelactiviteiten waarmee mkb-ondernemingen in de EGT transitiegerichte HRM-competenties kunnen ontwikkelen. Daarmee kunnen deze bedrijven innovatieve en aantrekkelijke werkgevers worden die een wezenlijke bijdrage aan de energie- en grondstoffentransitie kunnen leveren.
+
+Activiteiten
+Met een kleine LLO-katalysator-aanvraag wil het consortium dit werk versnellen door samen met de kleinere mkb-ondernemingen in de EGT een proces van vraagarticulatie te doorlopen waarin drie vragen centraal staan:
+
+Welke knelpunten en opgaven ervaren mkb-bedrijven in de EGT met betrekking tot hun HRM-praktijken?
+Welke wensen en eisen hebben deze bedrijven met betrekking tot de manieren waarop ze nieuwe HRM-praktijken willen leren?
+Welke partners heeft het consortium nodig voor het ontwikkelen en testen van de leer- en ontwikkelactiviteiten? Hoe voeren we dit werk als een echte learning community uit?
+CHE en COG zijn via praktijkgericht onderwijs en onderzoek betrokken bij het regionale MKB en bij de EGT, maar ook de partners in de triple helix-samenwerking in Regio Foodvalley, bijvoorbeeld in het werk aan de Human Capital Agenda van de regio. BTO is een coöperatie van ruim 100 techniekbedrijven in de regio en werkt samen met mbo-instellingen om jongeren en zij-instromers technisch te scholen. Via deze koepel heeft het project goede toegang tot een mkb-ondernemingen in de EGT om die te betrekken bij de vraagarticulatie.
+
+Firda ‘Ontwikkeling microcredential datascience in waterbeheer’
+Doelstelling
+Dit project heeft als doel de duurzame inzetbaarheid van watersectorprofessionals te vergroten door middel van de ontwikkeling van een mbo niveau 4 microcredential Datascience in Waterbeheer. Dit onderwijsaanbod is gericht op het bij- of omscholen van zittende professionals om te voldoen aan de huidige en toekomstige behoeften van de arbeidsmarkt in Fryslân en daarbuiten.
+
+Activiteiten en partners
+De kernactiviteiten omvatten het opstellen van interne procedures en kwaliteitskaders binnen Firda, het ontwikkelen van een infrastructuur voor de creatie van microcredentials, en het ontwerpen van een conceptversie van de microcredential. Dit wordt aangevuld met continue afstemming met het werkveld en het onderzoeken van de brede toepasbaarheid van de microcredential in andere sectoren zoals de sector chemie en de gezondheid.
+
+Waterexpertisecentrum zal cruciale feedback leveren voor verdere ontwikkeling. In de uitvoering van dit project wordt de mogelijkheden verkend voor een hbo microcredential Datascience in het verlengde van de mbo microcredential.
+
+Stichting Drenthe College Terra ‘Duurzaam Leren en Innoveren in Zuidwest Drenthe’
+Achtergrond en aanleiding
+De regio Zuidwest Drenthe en de kop van Overijssel kenmerken zich door een hoge concentratie agrarische bedrijvigheid met uitdagingen zoals de druk op de ruimte waaronder de aanwezigheid van meerdere natura 2000 gebieden. De Gebiedscoöperatie Zuidwest Drenthe (GCZWD) constateert een groeiende behoefte naar flexibele vraaggestuurde en gebiedsgerichte bijscholing om de agrarische sector te verduurzamen waarbij natuur(gebieden) en agrarische bedrijvigheid elkaar versterken.
+
+Doelstelling en partners
+Het voornaamste doel van dit project is het ontwikkelen van een LLO ontwerp dat specifiek is afgestemd op de behoefte van de agrarische sector in de overgang naar duurzamere landbouwpraktijken met specifieke aandacht voor de grondstoffentransitie in en met de samenwerking met natuur(gebieden). Het LLO-ontwerp zal zich richten op het gezamenlijk leren in actuele vraagstukken en uitdagingen op het gebied van bodem, water en duurzame energie, specifiek voor het gebied Zuidwest Drenthe en de kop van Overijssel.
+
+Samenwerkingspartners en hun rol in het project
+Het consortium bestaat uit GCZWD, Terra en VHL. GCZWD vertegenwoordigt de stakeholders uit het specifieke gebied. Terra en VHL dragen bij aan onderzoek en onderwijs en zetten zich in voor (regionale) LLO-oplossingen.
+
+Activiteiten
+Het consortium, bestaande uit de GCZWD, Terra en Van Hall Larenstein (VHL) zal onderzoeken welke behoeften er zijn voor bijscholing tot duurzame landbouwpraktijken waarbij de natuur versterkt wordt. Dit omvat het identificeren van doelgroepen, vraagstukken rondom bodem, water en duurzame energie, en vormgeven van gewenste leertrajecten. Ook het vraagstuk wie de leertrajecten invullen en hoe de leervragen gericht op kansen en mogelijkheden blijven geactiveerd worden, behoort tot het resultaat van het ontwerp. De resultaten worden verkregen door narratieve interviews met geïdentificeerde doelgroepen en de analyse van de resultaten evenals het LLO-ontwerp worden voorgelegd aan betrokken stakeholders. De opgedane kennis zal worden gedeeld met diverse kennisnetwerken om schaalbaarheid en overdraagbaarheid naar andere regio’s en LLO- vraagstukken te bevorderen.

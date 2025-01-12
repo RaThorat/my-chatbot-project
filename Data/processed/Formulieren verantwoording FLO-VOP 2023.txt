@@ -1,21 +1,14 @@
 ### Formulieren verantwoording FLO-VOP 2023
 ### Deze documenten gebruikt u voor de verantwoording van de FLO-VOP 2023. Op deze pagina vindt u ook de invulinstructie voor het declaratieformulier FLO-VOP 2023.
-### 
-### 
 ### Invulinstructie declaratieformulier FLO-VOP 2023
 ### Net als voorgaande jaren moet de betreffende ambulancedienst het declaratieformulier FLO-VOP invullen. Zoals afgestemd met het ministerie van Volksgezondheid, Welzijn en Sport en de deelnemende ambulancediensten zal Stichting FLO Ambulance een voorcheck uitvoeren op de declaratieformulieren. Dit om de uniformiteit tussen de deelnemende ambulancediensten te waarborgen. De uiteindelijke controle van het declaratieformulier (voor declaratie bij het ministerie van Volksgezondheid, Welzijn en Sport) moet de betreffende ambulancedienst zelfstandig met de controlerend accountant regelen.
-### 
 ### Hieronder vindt u per categorie een korte instructie voor het invullen van het declaratieformulier.
-### 
 ### FLO categorie 1
 ### In deze categorie moeten de medewerkers worden opgenomen die in 2023 met NPR/CEP gaan of in 2023 al met NPR/CEP zijn. Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de werkelijk gemaakte kosten voor de werkgever worden opgenomen. Meestal betreft dit alleen pensioenpremie en sociale lasten.
-### 
 ### FLO categorie 2
 ### In deze categorie moeten de medewerkers worden opgenomen die in 2023 uit bezwarende functie zijn gegaan (bijvoorbeeld door ontslag). Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de werkelijk gemaakte kosten voor de werkgever worden opgenomen. Dit betreft zowel de in 2023 gestorte bijdrage NPR als het bedrag van het NPR dat in 2023 is afgekocht.
-### 
 ### FLO categorie 3A
 ### In deze categorie moeten de medewerkers worden opgenomen die in 2023 met volledig buitengewoon verlof zijn (gaan) tegen een bezoldiging van 80%, 78% of 75%. Als een medewerker met volledig buitengewoon verlof is, zijn alle gemaakte kosten door de werkgever declarabel. Deze kosten moeten dus worden opgenomen in het formulier. Let op: Op de kosten in deze categorie is de RVU van toepassing. Deze kosten inclusief RVI kunnen in het declaratieformulier worden gedeclareerd. Let op: Ontvangt de medewerker deze bezoldiging binnen 3 jaar voor de AOW-gerechtigde leeftijd? Dan is er een drempelvrijstelling.
-### 
 ### Aandachtspunten
 ### De datum van de werkelijke ingangsdatum buitengewoon verlof moet handmatig worden opgenomen. De datum van de oorspronkelijke ingangsdatum buitengewoon verlof wordt automatisch berekend op basis van geboortedatum en het aantal bezwarende jaren.
 ### Het bedrag van de gestorte lNPR/CEP-bijdrage in 2023 betreft zowel de ’reguliere’ kosten voor afdracht NPR als, indien van toepassing, de slotstorting op basis van de uitgevoerde berekeningen (eindchecks) van het uiteindelijke totale NPR bedrag (op 59-jarige leeftijd). Deze slotstorting betreft het verschil tussen het uiteindelijke recht op NPR (maximaal 210%) en het bedrag dat al in het verleden is gestort.
@@ -24,35 +17,28 @@
 ### Als een medewerker in 2023 is gewisseld van categorie 3C/3E naar categorie 3A moet deze medewerker alleen in categorie 3A worden opgenomen. De werkelijk gemaakte kosten voor deze medewerker voor het overgangsrecht gedurende de periode waarin deze medewerker nog in categorie 3C/3E zat, moeten worden opgenomen in categorie 3A in de kolom ‘Totale brutoloonkosten voorafgaand aan verlof’.
 ### FLO categorie 3B
 ### In deze categorie moeten de werknemers worden opgenomen die 100% blijven doorwerken tegen 120% vergoeding. Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de werkelijk gemaakte kosten voor de werkgever voor het overgangsrecht worden opgenomen. Dit betekent dat in het formulier de werkelijke kosten (basiskosten, exclusief toeslagen als overwerktoeslag bovenop de FLO bezoldiging) van de werknemer moeten worden opgenomen. Het formulier berekent automatisch het deel van de kosten (20%) die zijn toe te rekenen aan het FLO-overgangsrecht (declarabele kosten).
-### 
 ### Aandachtspunten
 ### Doordat de doorwerkbonus pas in het tweede jaar (met betrekking tot het eerste jaar) wordt uitbetaald, moet hiermee in het formulier rekening worden gehouden. In sommige gevallen zal dit dan nog niet tot een declaratie leiden in het eerste jaar.
 ### Het aantal maanden dat de medewerker gedurende 2022 en 2023 fase één heeft onderbroken moet hier ingevuld worden.
 ### FLO categorie 3C
 ### In deze categorie moeten de werknemers worden opgenomen die 60% blijven doorwerken tegen 95% vergoeding. Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de werkelijk gemaakte kosten voor de werkgever voor het overgangsrecht worden opgenomen. Dit betekent dat in het formulier het totaal van de werkelijke kosten (100% van de kosten, exclusief bijzondere toeslagen als overwerktoeslag en ORT die bovenop de FLO bezoldiging komen) van de werknemer moet worden opgenomen. Het formulier berekent automatisch het deel van de kosten (35/95 deel) die zijn toe te rekenen aan het FLO-overgangsrecht (declarabele kosten).
-### 
 ### Aandachtspunten
 ### De op te nemen totale brutoloonkosten in de periode dat de medewerker 60% werkzaam blijft tegen 95% vergoeding betreft de totale loonkosten exclusief in het boekjaar 2023 gestorte bijdragen NPR en exclusief variabele looncomponenten zoals overwerktoeslag en ORT die bovenop de FLO bezoldiging (zoals gebaseerd op de referteperiode) zijn uitbetaald.
 ### Als een medewerker in 2023 is gewisseld van categorie 4 naar categorie 3C moet deze medewerker alleen in categorie 3C worden opgenomen. De werkelijk gemaakte kosten voor deze medewerker voor het overgangsrecht gedurende de periode in categorie 4 moeten hierbij in categorie 3C worden opgenomen in de kolom ‘Totale brutoloonkosten (exclusief gestorte bijdragen NPR) voorafgaand aan FLO regeling’.
 ### FLO categorie 3D
 ### In deze categorie moeten de werknemers worden opgenomen die vrijwillig met ontslag gaan en daarvoor een bonus van 100% van het jaarsalaris krijgen. De totale brutoloonkosten worden berekend als 12 maal het schaalbedrag van de functieschaal die voor de medewerker geldt. Onder meer vakantietoelage, eindejaarsuitkeringen en toelagen worden daarin dus niet meegenomen.
-### 
 ### FLO categorie 3E
 ### In deze categorie moeten de werknemers worden opgenomen die 50% blijven doorwerken tegen 90% vergoeding. Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de werkelijk gemaakte kosten voor de werkgever voor het overgangsrecht worden opgenomen. Dit betekent dat in het formulier het totaal van de werkelijke kosten (100% van de kosten, exclusief bijzondere toeslagen als overwerktoeslag en ORT bovenop de FLO bezoldiging) van de werknemer moet worden opgenomen. Het formulier berekent automatisch het deel van de kosten (40/90 deel) die zijn toe te rekenen aan het FLO-overgangsrecht (declarabele kosten).
-### 
 ### Aandachtspunten
 ### De op te nemen totale brutoloonkosten in de periode dat de medewerker 50% werkzaam blijft tegen 90% vergoeding betreft de totale loonkosten exclusief in het boekjaar 2023 gestorte bijdragen NPR en exclusief variabele looncomponenten zoals overwerktoeslag en ORT bovenop de FLO bezoldiging.
 ### FLO categorie 4
 ### In deze categorie moeten de medewerkers in een bezwarende functie waarbij het gehele jaar uitsluitend NPR stortingen (of werkgeversbijdragen in geval van Loga-pad verlaters) worden gedaan worden opgenomen. Naast de vaste gegevens zoals naam, geboortedatum en functie, moeten de gestorte bijdragen levensloopregeling en het loon SVW worden opgenomen.
-### 
 ### Aandachtspunten
 ### Bij iedere medewerker moet het parttimepercentage per 31 december 2023 worden opgenomen.
 ### De gestorte bijdragen NPR stortingen (of werkgeversbijdragen in geval van Loga-pad verlaters) betreffen de werkelijke lasten voor de werkgever. Eventuele eigen bijdrage overlijdensrisicoverzekering moet daarom worden gecorrigeerd op het opgenomen bedrag van de bijdragen NPR.
 ### VOP categorie 1
 ### In deze categorie moeten de medewerker worden opgenomen waarbij een storting VOP, als gevolg van het worden van 53 jaar, gedaan moet worden in 2023. De op te nemen gegevens moeten overeenkomstig de eigen berekening bij het uitvoeren van de storting zijn. Hiervoor moet aansluiting worden gezocht met het pensioengevend inkomend en het parttimepercentage zoals opgenomen in de van het ABP ontvangen overzicht.
-### 
 ### VOP categorie 2
 ### In deze categorie moeten de medewerkers opgenomen worden waarbij een storting VOP, als gevolg van het uit de bezwarende functie gaan (bijvoorbeeld door ontslag), gedaan moet worden in 2023. De op te nemen gegevens moeten overeenkomstig de eigen berekening bij het uitvoeren van de storting zijn. Hiervoor moet aansluiting worden gezocht met het pensioengevend inkomend en het parttimepercentage zoals opgenomen in de van het ABP ontvangen overzicht.
-### 
 ### VOP categorie 3
 ### In deze categorie moeten de medewerkers opgenomen worden waarbij een vervolgstorting VOP gedaan moest worden in 2023 (als gevolg van het nog niet behalen van 20 bezwarende dienstjaren dan wel het bereiken van de 59-jarige leeftijd). De op te nemen gegevens moeten overeenkomstig de eigen berekening bij het uitvoeren van de storting zijn. Hiervoor moet aansluiting worden gezocht met het pensioengevend inkomend en het parttimepercentage zoals opgenomen in de salarisadministratie.
