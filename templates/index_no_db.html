@@ -95,7 +95,10 @@
                 const data = await response.json();
 
                 // Display intent and entities
-                appendMessage(`Bot: Recognized intent - ${data.intent}`, "bot-response");
+                if (data.intent && data.intent !== "default") {
+                    appendMessage(`Bot: Recognized intent - ${data.intent}`, "bot-response");
+                }
+
                 if (data.entities && data.entities.length > 0) {
                     appendMessage("Bot: Detected entities:", "bot-response");
                     data.entities.forEach(entity => {

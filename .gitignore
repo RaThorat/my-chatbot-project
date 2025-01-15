@@ -7,8 +7,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-faiss_data/
-documents.db
+
 node_modules/
 *.log
 *.tmp

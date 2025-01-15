@@ -33,12 +33,12 @@ textcat_model = AutoModelForSequenceClassification.from_pretrained(hf_model_path
 textcat_pipeline = pipeline("text-classification", model=textcat_model, tokenizer=textcat_tokenizer)
 
 # Load generative model
-tokenizer_generative = AutoTokenizer.from_pretrained("google/flan-t5-small")
-model_generative = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
+tokenizer_generative = AutoTokenizer.from_pretrained("google/flan-t5-large")
+model_generative = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-large")
 
-def generate_answer_with_context(prompt, max_length=100, temperature=0.7):
+def generate_answer_with_context(prompt, max_length=150, temperature=0.7):
     """
-    Generate a response using GPT-Neo model.
+    Generate a response.
     """
     inputs = tokenizer_generative(prompt, return_tensors="pt", padding=True, truncation=True)
     outputs = model_generative.generate(
@@ -107,7 +107,7 @@ def chat():
             f"Context: {relevant_faiss_result}\n\n"
             "Geef een bondig antwoord in 2-3 zinnen."
         )
-        concise_answer = generate_answer_with_context(combined_prompt, max_length=100)
+        concise_answer = generate_answer_with_context(combined_prompt, max_length=150)
 
         return jsonify({
             "query": query,
