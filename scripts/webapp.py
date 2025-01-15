@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, render_template, send_from_directory
 import spacy
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForCausalLM, pipeline
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForSequenceClassification, pipeline
 import logging
 import os
 import sqlite3
@@ -36,10 +36,10 @@ textcat_model = AutoModelForSequenceClassification.from_pretrained(hf_model_path
 textcat_pipeline = pipeline("text-classification", model=textcat_model, tokenizer=textcat_tokenizer)
 
 # Load generative model
-tokenizer_generative = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-125M")
-model_generative = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-125M")
-if tokenizer_generative.pad_token is None:
-    tokenizer_generative.pad_token = tokenizer_generative.eos_token
+
+
+tokenizer_generative = AutoTokenizer.from_pretrained("google/flan-t5-small")
+model_generative = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
 
 def process_user_input(user_input):
     """
@@ -57,22 +57,22 @@ def process_user_input(user_input):
         logging.error(f"Error in process_user_input: {e}")
         return {"intent": "default", "entities": []}
 
-def generate_answer_with_context(prompt, max_length=150, temperature=0.7):
-    """
-    Generate a response using GPT-Neo model.
-    """
+
+
+def generate_answer_with_context(prompt, max_length=100):
     inputs = tokenizer_generative(prompt, return_tensors="pt", padding=True, truncation=True)
     outputs = model_generative.generate(
         inputs.input_ids,
         attention_mask=inputs.attention_mask,
         max_new_tokens=max_length,
-        temperature=temperature,
-        do_sample=True,
-        no_repeat_ngram_size=2,
+        temperature=0.5,
+        top_k=50,
+        top_p=0.9,
         repetition_penalty=1.5,
-        pad_token_id=tokenizer_generative.pad_token_id
     )
     return tokenizer_generative.decode(outputs[0], skip_special_tokens=True)
+
+
 
 def truncate_prompt(prompt, max_tokens=2048):
     """
@@ -106,6 +106,15 @@ def chatbot_query(query):
     finally:
         conn.close()
 
+def clean_generative_response(response):
+    """
+    Extract the generated answer by removing prompt echoes or irrelevant text.
+    """
+    # Extract the part after "Antwoord bondig"
+    if "Antwoord bondig" in response:
+        response = response.split("Antwoord bondig", 1)[-1]
+    return response.strip()
+
 @app.route("/")
 def index():
     try:
@@ -114,6 +123,12 @@ def index():
         logging.error("index.html not found in the templates directory.")
         return "Error: index.html not found. Please check your templates folder.", 404
 
+# Helper function to summarize excerpts
+def summarize_excerpt(excerpt, max_length=150):
+    if len(excerpt) > max_length:
+        return excerpt[:max_length].strip() + "..."
+    return excerpt
+
 @app.route("/chat", methods=["GET"])
 def chat():
     try:
@@ -121,38 +136,40 @@ def chat():
         if not query:
             return jsonify({"error": "Query parameter is required"}), 400
 
+        # Process user input
         model_results = process_user_input(query)
-        db_results = chatbot_query(query)
-        faiss_results = search_with_document_level(query, top_k=5)
+        detected_entities = [entity["entity"] for entity in model_results["entities"]]
+        faiss_results = search_with_document_level(query, top_k=3)
 
-        for result in faiss_results:
-            result["doc_id"] = int(result["doc_id"])
-            result["distance"] = float(result["distance"])
-            result["excerpt"] = result.get("excerpt", "No content available")
+        # Extract relevant FAISS context
+        relevant_faiss_result = None
+        if detected_entities:
+            for result in faiss_results:
+                if any(entity in result["excerpt"] for entity in detected_entities):
+                    relevant_faiss_result = result["excerpt"]
+                    break
+        if not relevant_faiss_result and faiss_results:
+            relevant_faiss_result = faiss_results[0]["excerpt"]
+        summarized_context = summarize_excerpt(relevant_faiss_result, max_length=150) if relevant_faiss_result else "Geen relevante context beschikbaar."
 
-        combined_prompt = f"Vraag: {query}\n\n"
-        if faiss_results:
-            combined_prompt += "### Relevante FAISS-resultaten:\n"
-            for idx, result in enumerate(faiss_results[:5], start=1):
-                combined_prompt += f"{idx}. {result['excerpt']}\n"
-        elif db_results["responses"]:
-            combined_prompt += "### Relevante database-resultaten:\n"
-            for result in db_results["responses"][:5]:
-                combined_prompt += f"- {result['excerpt']}\n"
+        # Create concise prompt
+        combined_prompt = (
+            f"Vraag: {query}\n"
+            f"Context: {relevant_faiss_result}\n\n"
+            "Geef een bondig antwoord in 2-3 zinnen."
+        )
+        combined_prompt = truncate_prompt(combined_prompt)
 
-        combined_prompt += "\nAntwoord op basis van de bovenstaande informatie."
-        if len(combined_prompt.split()) > 2048:
-            combined_prompt = truncate_prompt(combined_prompt)
-
-        generative_response = generate_answer_with_context(combined_prompt)
+        # Generate and clean the response
+        generative_response = generate_answer_with_context(combined_prompt, max_length=100)
+        concise_answer = clean_generative_response(generative_response)
 
         return jsonify({
             "query": query,
             "intent": model_results["intent"],
             "entities": model_results["entities"],
-            "db_results": db_results["responses"],
-            "faiss_results": faiss_results,
-            "generative_response": generative_response.strip()
+            "context_document": summarized_context,
+            "concise_answer": concise_answer
         })
     except Exception as e:
         logging.error(f"Error in chat endpoint: {e}")

@@ -14,6 +14,7 @@
         .bot-response { color: #007BFF; font-weight: bold; }
         .user-query { color: #333; font-weight: bold; }
         .error-message { color: red; font-weight: bold; }
+        .faiss-result { margin-left: 15px; font-size: 0.9em; color: #555; }
     </style>
 </head>
 <body>
@@ -57,18 +58,8 @@
                 if (data.entities && data.entities.length > 0) {
                     appendMessage("Bot: Detected entities:", "bot-response");
                     data.entities.forEach(entity => {
-                        appendMessage(`- ${entity.entity} (${entity.label})`, "bot-response");
+                        appendMessage(`- ${entity.entity} (${entity.label})`, "faiss-result");
                     });
-                }
-
-                // Database results
-                if (data.db_results && data.db_results.length > 0) {
-                    appendMessage("Bot: Relevant results from the database:", "bot-response");
-                    data.db_results.forEach(result => {
-                        appendMessage(`- ID: ${result.rowid}, Preview: ${result.excerpt}`, "bot-response");
-                    });
-                } else {
-                    appendMessage("Bot: No relevant results found in the database.", "bot-response");
                 }
 
                 // FAISS results
@@ -76,9 +67,9 @@
                     appendMessage("Bot: Relevant FAISS results:", "bot-response");
                     data.faiss_results.forEach(result => {
                         appendMessage(
-                            `- Doc ID: ${result.doc_id}, Relevance: ${result.distance.toFixed(3)}, Excerpt: ${result.excerpt}`,
-                            "bot-response"
+                            `- Doc ID: ${result.doc_id}, Relevance: ${result.distance.toFixed(3)}`, "faiss-result"
                         );
+                        appendMessage(`  Content: ${result.content}`, "faiss-result");
                     });
                 } else {
                     appendMessage("Bot: No relevant results found in the FAISS index.", "bot-response");

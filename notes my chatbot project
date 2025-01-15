@@ -123,3 +123,5 @@ Schaalbaarheid onderzoeken:
 
 Na succesvolle testing, schaal je de oplossing op naar je volledige dataset.
 curl -X GET "http://127.0.0.1:5000/chat?query=Wat+is+DUS-i?"
+
+python3 ./scripts/doc_chunk_text_to_jsonl.py

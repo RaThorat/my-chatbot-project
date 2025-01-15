@@ -33,7 +33,7 @@ def load_document_map(document_map_path):
     return document_map
 
 
-def search_with_document_level(query, top_k=5):
+def search_with_document_level(query, top_k=3):
     try:
         # Load FAISS index
         if not os.path.exists(faiss_index_path):
@@ -74,7 +74,6 @@ def search_with_document_level(query, top_k=5):
 # Usage example
 if __name__ == "__main__":
     query = "Wat is de rol van DUS-I in subsidies?"
-    results = search_with_document_level(query, top_k=5)
+    results = search_with_document_level(query, top_k=3)
     for res in results:
         print(f"Document ID: {res['doc_id']}\nExcerpt: {res['excerpt']}\nDistance: {res['distance']}\n")
-

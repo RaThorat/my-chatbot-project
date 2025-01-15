@@ -86,7 +86,7 @@ faiss.write_index(index, faiss_index_path)
 mapping_path = os.path.join(output_dir, "document_map.txt")
 with open(mapping_path, "w", encoding="utf-8") as f:
     for doc_id, content in zip(doc_ids, doc_texts):
-        excerpt = content[:100].replace("\n", " ")  # Save the first 100 characters as a preview
+        excerpt = content[:1000].replace("\n", " ")  # Save the first 100 characters as a preview
         f.write(f"{doc_id} -> {excerpt}\n")
 
 logging.info(f"Document-level index and mappings saved at {output_dir}.")
