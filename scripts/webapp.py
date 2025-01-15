@@ -3,7 +3,7 @@ import spacy
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForSequenceClassification, pipeline
 import logging
 import os
-from faiss_search_no_db import search_faiss_with_content
+from faiss_search import search_faiss_with_content
 import webbrowser
 import warnings
 import traceback
@@ -76,7 +76,7 @@ def summarize_content(content, max_length=150):
 @app.route("/")
 def index():
     try:
-        return render_template("index_no_db.html")
+        return render_template("index.html")
     except Exception as e:
         logging.error(f"Error loading template: {e}")
         return "Error: index.html not found. Please check your templates folder.", 404

@@ -17,22 +17,21 @@ Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openba
 
 ## Architectuur en Aanpak
 
-### Stap 1: Use Case Bepaling
+### Use Case Bepaling
 - **Identificatie van vragen**: Veelvoorkomende onderwerpen zijn subsidie-informatie, beleidsontwikkelingen en handleidingen.
 - **Output**: Korte antwoorden met verwijzingen naar documenten of gegenereerde tekst.
 
-### Stap 2: Dataset Voorbereiding
-- **Bronnen**: 129 openbare documenten verzameld van de DUS-I-website.
-- **Opschoning**: Documenten gecombineerd en ruis verwijderd met scripts.
-- **Indexeren**: Gecombineerde documenten (`Data/combined_documents.txt`) zijn verwerkt en opgeslagen in een SQLite-database (`documents.db`).
-
-### Stap 3: Virtual Machine
+### Virtual Machine
 - **Specificaties**: Debian GNU/Linux 12, 2 vCPU's, 8.25 GB RAM, 70 GB opslag.
 - **Voordelen**: Prodigy en andere tools kunnen lokaal worden gehost en beheerd via SSH.
 Bronnen: Prodigy Deployment Guide en GCP Demo.
 
-### Stap 4: Modelontwikkeling
-Tekstclassificatie (Textcat) Model: Documenten omgezet naar JSONL-formaat (Data/raw_labeled.jsonl). Subdocumenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 128 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
+### Dataset Voorbereiding
+- **Bronnen**: Chunks (200 woorden per chunk) uit 15 documenten van de DUS-I-website handmatig verzameld in json formaat. Voor named entity recognition model, 30 tekst documenten van de DUS-i website schoongemaakt en gecombineerd. Voor text categorization model, dezelfde documenten omgezet naar JSONL-formaat.   
+- **Indexeren**: Chunks geindexeerd met 
+
+### Modelontwikkeling
+Tekstclassificatie (Textcat) Model:  Documenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 128 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
 
 python3 ./scripts/train_textcat_model.py
 
@@ -57,33 +56,20 @@ Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py,
   1. **Intentieherkenning**: Begrijpen van de vraag via Textcat.
   2. **Entiteitenherkenning**: Uitlezen van sleutelbegrippen via NER.
   3. **Documentophaling**: FAISS zoekt relevante documenten.
-  4. **Generatief antwoord**: GPT-Neo 125M genereert een antwoord met opgehaalde documenten als context.
+  4. **Generatief antwoord**: google/flan-t5-large genereert een antwoord met opgehaalde documenten als context.
 
 ### Stap 6: Frontend- en Backendintegratie
 - **Frontend**: Een interactieve webinterface gebouwd met HTML en JavaScript.
 - **Backend**: Flask-server die:
   - Intenties en entiteiten verwerkt.
-  - Documenten zoekt in SQLite en FAISS.
-  - Contextuele antwoorden genereert met GPT-Neo 125M.
+  - Documenten zoekt in FAISS.
+  - Contextuele antwoorden genereert met google/flan-t5-large.
 
 ---
 
 ## Hoe te Gebruiken
 
-1. **Installatie**:
-   - Clone de repository.
-   - Installeer vereisten: `pip install -r requirements.txt`.
-
-2. **Data Voorbereiden**:
-   - Plaats ruwe documenten in `./Data/raw`.
-   - Combineer en indexeer met de scripts in `./scripts`.
-
-3. **FAISS Index Bouwen**:
-   ```bash
-   python3 ./scripts/faiss_index.py
-   ```
-
-4. **Start de Webapp**:
+**Start de Webapp**:
    ```bash
    python3 ./scripts/webapp.py
    ```
@@ -94,16 +80,10 @@ Testen: scripts/test_pipeline.py, scripts/test_spacy_ner.py,
 ## Beperkingen
 
 - **Opslaglimiet**: Grote modellen zoals `textcat_model` kunnen niet direct worden gehost op GitHub.
-- **Generatiekwaliteit**: GPT-Neo 125M kan beperkte antwoorden geven bij complexe vragen.
+- **Generatiekwaliteit**: google/flan-t5-large kan beperkte antwoorden geven bij complexe vragen.
+- **Mislukte acties**: 129 documenten (.txt, .pdf, .odt, .xlsx) van DUS-i documenten gehaald in een database voor chunks te maken, maar het maken van chunks niet gelukt door de verschillende formaat van verzamelde data. Ik heb ook geprobeerd om excerpts van documenten te gebruiken maar de kwaliteit van de chat response was niet acceptabel. Ik heb ook geprobeerd met de hele document als input naar generative model, maar ik kreeg omdat de generatieve model tokens niet kan maken voor de hele document.
 
 ---
 
 ## Kosten
-- Kosten voor Google Cloud VM: €156 per maand.
-
----
-
-## Toekomstige Uitbreidingen
-- Integreren van geavanceerdere modellen zoals GPT-3 voor betere antwoordkwaliteit.
-- Ondersteuning voor meerdere talen.
-- Hosting op schaalbare cloudomgevingen.
+- Kosten voor Google Cloud VM: €200 per maand.
