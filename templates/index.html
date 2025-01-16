@@ -119,6 +119,11 @@
                     });
                 }
     
+                // Display document title
+                if (data.document_title) {
+                    appendMessage(`Bot: Titel van het relevante document: ${data.document_title}`, "bot-response");
+                }
+    
                 // Display summarized context
                 appendMessage("Bot: Context Document:", "bot-response");
                 appendMessage(data.context_document || "Geen context beschikbaar.", "bot-response");

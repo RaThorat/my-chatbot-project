@@ -93,12 +93,12 @@ def process_user_input(user_input):
         logging.error(f"Fout in process_user_input: {e}")
         return {"intent": "default", "entities": []}
 
-def summarize_content(content, max_length=150):
-    if not content:
+def summarize_content(Content, max_length=150):
+    if not Content:
         return "Geen relevante context beschikbaar."
-    if len(content) > max_length:
-        return content[:max_length].strip() + "..."
-    return content
+    if len(Content) > max_length:
+        return Content[:max_length].strip() + "..."
+    return Content
 
 @app.route("/")
 def index():
@@ -131,14 +131,15 @@ def chat():
         # Relevante context ophalen
         relevant_faiss_result = None
         for result in raw_faiss_results:
-            if any(entity in result["content"] for entity in detected_entities):
-                relevant_faiss_result = result["content"]
+            if any(entity in result["Content"] for entity in detected_entities):
+                relevant_faiss_result = result
                 break
         if not relevant_faiss_result and raw_faiss_results:
-            relevant_faiss_result = raw_faiss_results[0]["content"]
-            
+            relevant_faiss_result = raw_faiss_results[0]
 
-        summarized_context = summarize_content(relevant_faiss_result)
+        # Haal titel en samenvatting op
+        summarized_context = summarize_content(relevant_faiss_result["Content"])
+        title = relevant_faiss_result.get("Title", "Geen titel beschikbaar")
 
         # Stel de gespreksgeschiedenis samen (laatste 5 interacties)
         history = "\n".join(
@@ -148,7 +149,7 @@ def chat():
         combined_prompt = (
             f"Gespreksgeschiedenis:\n{history}\n"
             f"Nieuwe vraag: {query}\n"
-            f"Context: {relevant_faiss_result}\n\n"
+            f"Context: {relevant_faiss_result['Content']}\n\n"
             f"entities: {detected_entities}\n\n"
             "Geef een gedetailleerd antwoord op basis van de geschiedenis en context."
         )
@@ -162,6 +163,7 @@ def chat():
             "intent": model_results["intent"],
             "entities": model_results["entities"],
             "context_document": summarized_context,
+            "document_title": title,
             "concise_answer": concise_answer
         })
 
@@ -169,6 +171,7 @@ def chat():
         logging.error(f"Fout in chat endpoint: {e}")
         logging.error(traceback.format_exc())
         return jsonify({"error": "Interne serverfout"}), 500
+
 
 # Planner voor periodieke sessie-opschoning
 def trigger_session_cleanup():
