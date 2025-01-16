@@ -63,14 +63,26 @@
 <body>
     <div id="chatbox">
         <div id="messages"></div>
-        <input type="text" id="user-input" placeholder="Type your query here..." />
+        <input type="text" id="user-input" placeholder="Schrijf hier jouw zoekvraag..." />
         <button id="send-btn">Send</button>
     </div>
     <script>
         const messagesDiv = document.getElementById("messages");
         const userInput = document.getElementById("user-input");
         const sendBtn = document.getElementById("send-btn");
-
+    
+        // Generate or retrieve session ID
+        const getSessionId = () => {
+            let sessionId = sessionStorage.getItem("session_id");
+            if (!sessionId) {
+                sessionId = `session_${Math.random().toString(36).substring(2, 15)}`;
+                sessionStorage.setItem("session_id", sessionId);
+            }
+            return sessionId;
+        };
+    
+        const sessionId = getSessionId(); // Retrieve session ID
+    
         const appendMessage = (text, className = "") => {
             const message = document.createElement("div");
             message.textContent = text;
@@ -78,47 +90,49 @@
             messagesDiv.appendChild(message);
             messagesDiv.scrollTop = messagesDiv.scrollHeight;
         };
-
+    
         sendBtn.addEventListener("click", async () => {
             const query = userInput.value.trim();
             if (!query) {
-                appendMessage("Bot: Please enter a query.", "error-message");
+                appendMessage("Bot: Schrijf hier jouw zoekvraag.", "error-message");
                 return;
             }
-
-            appendMessage("You: " + query, "user-query");
-
+    
+            appendMessage("Jij: " + query, "user-query");
+    
             try {
-                const response = await fetch(`/chat?query=${encodeURIComponent(query)}`);
+                // Include session ID in the fetch request
+                const response = await fetch(`/chat?query=${encodeURIComponent(query)}&session_id=${sessionId}`);
                 if (!response.ok) throw new Error(`Server responded with status: ${response.status}`);
-
+    
                 const data = await response.json();
-
+    
                 // Display intent and entities
                 if (data.intent && data.intent !== "default") {
-                    appendMessage(`Bot: Recognized intent - ${data.intent}`, "bot-response");
+                    appendMessage(`Bot: Gevonden intent - ${data.intent}`, "bot-response");
                 }
-
+    
                 if (data.entities && data.entities.length > 0) {
-                    appendMessage("Bot: Detected entities:", "bot-response");
+                    appendMessage("Bot: Gedetecteerde entities:", "bot-response");
                     data.entities.forEach(entity => {
                         appendMessage(`- ${entity.entity} (${entity.label})`, "bot-response");
                     });
                 }
-
+    
                 // Display summarized context
                 appendMessage("Bot: Context Document:", "bot-response");
-                appendMessage(data.context_document || "No context available.", "bot-response");
-
+                appendMessage(data.context_document || "Geen context beschikbaar.", "bot-response");
+    
                 // Display concise answer
                 appendMessage("Bot: " + data.concise_answer, "bot-response");
             } catch (error) {
-                console.error("Error fetching chatbot response:", error);
-                appendMessage("Bot: Sorry, something went wrong while processing your request.", "error-message");
+                console.error("Fout halen chatbot antwoord:", error);
+                appendMessage("Bot: Sorry, iets mis gegaan.", "error-message");
             }
-
+    
             userInput.value = "";
         });
     </script>
+    
 </body>
 </html>
