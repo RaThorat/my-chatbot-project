@@ -6,11 +6,11 @@ import torchvision
 torchvision.disable_beta_transforms_warning()
 
 # 1. Laad de Data
-dataset = load_dataset("json", data_files={"train": "/home/RaThorat/my-chatbot-project/Data/raw_labeled.jsonl"})
+dataset = load_dataset("json", data_files={"train": "/home/RaThorat/my-chatbot-project/Data/filtered_data.jsonl"})
 label_list = list(set([item["label"] for item in dataset["train"]]))  # Automatisch labels ophalen
 
 # 2. Preprocessing
-model_name = "GroNLP/bert-base-dutch-cased"  # Gebruik GEITje-7B-ultra
+model_name = "GroNLP/bert-base-dutch-cased"  # 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 def preprocess_function(examples):

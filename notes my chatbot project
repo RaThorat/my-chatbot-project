@@ -35,7 +35,7 @@ used github login to vs code
 python3 textcat_model_training.py
 
 
-PROJECT_DETAILS, HANDLEIDINGEN, FORMULIEREN, STAGEAANBIEDERS, INTERN_DUSI, INZICHT, PLAN, UITSLAG
+PROJECT, HANDLEIDIG, OVEREENKOMST, PLAN, BELEID, SUBSIDIE
 
 RAM was 128 GB for making textcat model with model GroNLP/bert-base-dutch-cased (110 million parameters). May it was too high. 
 Ik heb GEITje probeerd maar met ook nog RAM van 256 GB de process is 'killed'. Ik wil niet de GPU gebruiken vanwege hoge kosten. 

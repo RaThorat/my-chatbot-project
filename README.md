@@ -31,7 +31,7 @@ Bronnen: Prodi.gy Deployment Guide (https://prodi.gy/docs/deployment#vm-deploy) 
 - **Indexeren**: Chunks geindexeerd met faiss_index.py
 
 ### Modelontwikkeling
-Tekstclassificatie (Textcat) Model:  Documenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:SUBSIDIE_INFORMATIE, PROJECT_DETAILS, INTERN_DUSI, BELEIDSONTWIKKELING, UITSLAG, HANDLEIDINGEN, INZICHT. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 128 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
+Tekstclassificatie (Textcat) Model:  Documenten gecategoriseerd (scripts/groeperen_segment_text_to_jsonl.py) in labels zoals:PROJECT, HANDLEIDIG, OVEREENKOMST, PLAN, BELEID, SUBSIDIE. Training uitgevoerd met GroNLP/bert-base-dutch-cased model (110 miljoen parameters); 128 GB RAM was vereist. Alternatieve pogingen met GEITje waren niet succesvol.
 
 python3 ./scripts/train_textcat_model.py
 
