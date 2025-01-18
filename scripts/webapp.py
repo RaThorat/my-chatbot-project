@@ -86,7 +86,7 @@ def process_user_input(user_input):
         entities = [{"entity": ent.text, "label": ent.label_} for ent in doc.ents]
 
         intent_result = textcat_pipeline(user_input)
-        intent = intent_result[0]["label"] if intent_result and intent_result[0]["score"] >= 0.7 else "default"
+        intent = intent_result[0]["label"] if intent_result and intent_result[0]["score"] >= 0.25 else "default"
 
         return {"intent": intent, "entities": entities}
     except Exception as e:
@@ -125,6 +125,8 @@ def chat():
 
         # Verwerk gebruikersinvoer
         model_results = process_user_input(query)
+        # Voeg dit toe in de chat-functie, vlak na het verkrijgen van `model_results`
+        intent = model_results["intent"]  # Definieer intent expliciet
         detected_entities = [entity["entity"] for entity in model_results["entities"]]
         raw_faiss_results = search_faiss_with_content(query, top_k=5)
 
@@ -150,6 +152,7 @@ def chat():
             f"Gespreksgeschiedenis:\n{history}\n"
             f"Nieuwe vraag: {query}\n"
             f"Context: {relevant_faiss_result['Content']}\n\n"
+            f"intent: {intent}\n\n"
             f"entities: {detected_entities}\n\n"
             "Geef een gedetailleerd antwoord op basis van de geschiedenis en context."
         )

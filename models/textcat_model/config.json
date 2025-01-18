@@ -10,28 +10,22 @@
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
   "id2label": {
-    "0": "SUBSIDIE_INFORMATIE",
-    "1": "INZICHT",
+    "0": "OVEREENKOMST",
+    "1": "BELEID",
     "2": "PLAN",
-    "3": "STAGEAANBIEDERS",
-    "4": "FORMULIEREN",
-    "5": "PROJECT_DETAILS",
-    "6": "UITSLAG",
-    "7": "HANDLEIDINGEN",
-    "8": "INTERN_DUSI"
+    "3": "SUBSIDIE",
+    "4": "HANDLEIDING",
+    "5": "PROJECT"
   },
   "initializer_range": 0.02,
   "intermediate_size": 3072,
   "label2id": {
-    "FORMULIEREN": 4,
-    "HANDLEIDINGEN": 7,
-    "INTERN_DUSI": 8,
-    "INZICHT": 1,
+    "BELEID": 1,
+    "HANDLEIDING": 4,
+    "OVEREENKOMST": 0,
     "PLAN": 2,
-    "PROJECT_DETAILS": 5,
-    "STAGEAANBIEDERS": 3,
-    "SUBSIDIE_INFORMATIE": 0,
-    "UITSLAG": 6
+    "PROJECT": 5,
+    "SUBSIDIE": 3
   },
   "layer_norm_eps": 1e-12,
   "max_position_embeddings": 512,

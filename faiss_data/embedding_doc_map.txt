@@ -1,66 +1,244 @@
-Embedding 0 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 1 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 2 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 3 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 4 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 5 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 6 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 7 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 8 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 9 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 10 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 11 -> Document ID: 1, Title: Introductie_DUS-I
-Embedding 12 -> Document ID: 2, Title: Regeling specifieke uitkering stimulering sport
-Embedding 13 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 14 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 15 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 16 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 17 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 18 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 19 -> Document ID: 3, Title: Stagefonds Zorg
-Embedding 20 -> Document ID: 4, Title: Subsidie Informatie
-Embedding 21 -> Document ID: 4, Title: Subsidie Informatie
-Embedding 22 -> Document ID: 4, Title: Subsidie Informatie
-Embedding 23 -> Document ID: 4, Title: Subsidie Informatie
-Embedding 24 -> Document ID: 4, Title: Subsidie Informatie
-Embedding 25 -> Document ID: 5, Title: De Brede SPUKregeling
-Embedding 26 -> Document ID: 5, Title: De Brede SPUKregeling
-Embedding 27 -> Document ID: 6, Title: Terugblik2023
-Embedding 28 -> Document ID: 6, Title: Terugblik2023
-Embedding 29 -> Document ID: 7, Title: Bouwsteen 3, Subsidieregeling LLO-professionalisering opleiders 2023–2026
-Embedding 30 -> Document ID: 7, Title: Bouwsteen 3, Subsidieregeling LLO-professionalisering opleiders 2023–2026
-Embedding 31 -> Document ID: 7, Title: Bouwsteen 3, Subsidieregeling LLO-professionalisering opleiders 2023–2026
-Embedding 32 -> Document ID: 7, Title: Bouwsteen 3, Subsidieregeling LLO-professionalisering opleiders 2023–2026
-Embedding 33 -> Document ID: 8, Title: Subsidieregeling Biotech Booster
-Embedding 34 -> Document ID: 9, Title: RIF-2
-Embedding 35 -> Document ID: 9, Title: RIF-2
-Embedding 36 -> Document ID: 9, Title: RIF-2
-Embedding 37 -> Document ID: 9, Title: RIF-2
-Embedding 38 -> Document ID: 9, Title: RIF-2
-Embedding 39 -> Document ID: 9, Title: RIF-2
-Embedding 40 -> Document ID: 9, Title: RIF-2
-Embedding 41 -> Document ID: 9, Title: RIF-2
-Embedding 42 -> Document ID: 9, Title: RIF-2
-Embedding 43 -> Document ID: 9, Title: RIF-2
-Embedding 44 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 45 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 46 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 47 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 48 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 49 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 50 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 51 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 52 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 53 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 54 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 55 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 56 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 57 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 58 -> Document ID: 10, Title: Stand van uitvoering 2023
-Embedding 59 -> Document ID: 11, Title: Aryan_van_Driel
-Embedding 60 -> Document ID: 11, Title: Aryan_van_Driel
-Embedding 61 -> Document ID: 12, Title: BOSA2025
-Embedding 62 -> Document ID: 12, Title: BOSA2025
-Embedding 63 -> Document ID: 12, Title: BOSA2025
-Embedding 64 -> Document ID: 12, Title: BOSA2025
-Embedding 65 -> Document ID: 12, Title: BOSA2025
+Embedding 0 -> Document ID: 1, Title: Infographic+LLO-Katalysator+ronde+2
+Embedding 1 -> Document ID: 1, Title: Infographic+LLO-Katalysator+ronde+2
+Embedding 2 -> Document ID: 2, Title: Dienstverleningsovereenkomst 2025 NTS - UMC
+Embedding 3 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 4 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 5 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 6 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 7 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 8 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 9 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 10 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 11 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 12 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 13 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 14 -> Document ID: 3, Title: Overeenkomst+transformatieplan+met+gemeenten
+Embedding 15 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 16 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 17 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 18 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 19 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 20 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 21 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 22 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 23 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 24 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 25 -> Document ID: 4, Title: Format+regiovisie+op+hoofdlijnen+STO+2025-2028
+Embedding 26 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 27 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 28 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 29 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 30 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 31 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 32 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 33 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 34 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 35 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 36 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 37 -> Document ID: 5, Title: Samenwerkingsovereenkomst+Programma+Impuls+Open+Leermateriaal+2025-2028
+Embedding 38 -> Document ID: 6, Title: MDT+2024+Samenwerkingsovereenkomst+(13+februari+2024)
+Embedding 39 -> Document ID: 6, Title: MDT+2024+Samenwerkingsovereenkomst+(13+februari+2024)
+Embedding 40 -> Document ID: 6, Title: MDT+2024+Samenwerkingsovereenkomst+(13+februari+2024)
+Embedding 41 -> Document ID: 6, Title: MDT+2024+Samenwerkingsovereenkomst+(13+februari+2024)
+Embedding 42 -> Document ID: 7, Title: Procedurebeschrijving+beoordelingsgerichte+peer+review+2025
+Embedding 43 -> Document ID: 7, Title: Procedurebeschrijving+beoordelingsgerichte+peer+review+2025
+Embedding 44 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 45 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 46 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 47 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 48 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 49 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 50 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 51 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 52 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 53 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 54 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 55 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 56 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 57 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 58 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 59 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 60 -> Document ID: 8, Title: Businesscase+SPUK+DOS+2024+(4-6-2024)
+Embedding 61 -> Document ID: 9, Title: Kaders voor de verantwoording 2025
+Embedding 62 -> Document ID: 10, Title: Formulier+BOSA+2024+vaststellen+artikel+3+(5-9-2024)
+Embedding 63 -> Document ID: 11, Title: Infographic+Virtuele+internationale+samenwerkingsprojecten+(VIS)+-+tweede+aanvraagronde+2023
+Embedding 64 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 65 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 66 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 67 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 68 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 69 -> Document ID: 12, Title: Format+samenwerkingsovereenkomst+Sterk+techniekonderwijs+2025-2028
+Embedding 70 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 71 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 72 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 73 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 74 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 75 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 76 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 77 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 78 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 79 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 80 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 81 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 82 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 83 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 84 -> Document ID: 13, Title: Verklaring+DAEB+de-minimis+steun+Intergenerationeel+Wonen+2024
+Embedding 85 -> Document ID: 14, Title: Controleprotocol+FLO+B3+2023
+Embedding 86 -> Document ID: 15, Title: Toelichting+formulier+subsidievaststelling+VWS (1)
+Embedding 87 -> Document ID: 15, Title: Toelichting+formulier+subsidievaststelling+VWS (1)
+Embedding 88 -> Document ID: 15, Title: Toelichting+formulier+subsidievaststelling+VWS (1)
+Embedding 89 -> Document ID: 16, Title: Activiteitenplan+Type+B+IOL+2025-2028
+Embedding 90 -> Document ID: 16, Title: Activiteitenplan+Type+B+IOL+2025-2028
+Embedding 91 -> Document ID: 16, Title: Activiteitenplan+Type+B+IOL+2025-2028
+Embedding 92 -> Document ID: 16, Title: Activiteitenplan+Type+B+IOL+2025-2028
+Embedding 93 -> Document ID: 17, Title: Format-activiteitenplanning-LLO-Katalysator-2024
+Embedding 94 -> Document ID: 17, Title: Format-activiteitenplanning-LLO-Katalysator-2024
+Embedding 95 -> Document ID: 18, Title: Accountantsprotocol+bevolkingsonderzoeken+Publieke+gezondheid
+Embedding 96 -> Document ID: 19, Title: Formulier+BOSA+2023+vaststellen+artikel+6
+Embedding 97 -> Document ID: 19, Title: Formulier+BOSA+2023+vaststellen+artikel+6
+Embedding 98 -> Document ID: 20, Title: Veelgestelde+vragen+webinar+Verbetering+Basisvaardigheden+2023+(18-3-2024)
+Embedding 99 -> Document ID: 21, Title: Controleprotocol+FLO+publieke+instellingen+ambulance+sector+geldend+voor+2023+en+2024
+Embedding 100 -> Document ID: 21, Title: Controleprotocol+FLO+publieke+instellingen+ambulance+sector+geldend+voor+2023+en+2024
+Embedding 101 -> Document ID: 22, Title: Activiteitenplan+Type+A+IOL+2025-2028
+Embedding 102 -> Document ID: 22, Title: Activiteitenplan+Type+A+IOL+2025-2028
+Embedding 103 -> Document ID: 22, Title: Activiteitenplan+Type+A+IOL+2025-2028
+Embedding 104 -> Document ID: 22, Title: Activiteitenplan+Type+A+IOL+2025-2028
+Embedding 105 -> Document ID: 22, Title: Activiteitenplan+Type+A+IOL+2025-2028
+Embedding 106 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 107 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 108 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 109 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 110 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 111 -> Document ID: 23, Title: RIF+Monitorrappotage+2023
+Embedding 112 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 113 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 114 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 115 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 116 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 117 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 118 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 119 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 120 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 121 -> Document ID: 24, Title: Format+activiteitenplan+op+hoofdlijnen+STO+2025-2028
+Embedding 122 -> Document ID: 25, Title: Format+eindrapportage+Sterk+techniekonderwijs
+Embedding 123 -> Document ID: 25, Title: Format+eindrapportage+Sterk+techniekonderwijs
+Embedding 124 -> Document ID: 26, Title: Format+Eindrapportage+Pilot+GLTL
+Embedding 125 -> Document ID: 26, Title: Format+Eindrapportage+Pilot+GLTL
+Embedding 126 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 127 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 128 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 129 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 130 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 131 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 132 -> Document ID: 27, Title: DAEB-overeenkomst Donatie 2025
+Embedding 133 -> Document ID: 28, Title: Format+plan+van+aanpak+Digitale+school+2024
+Embedding 134 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 135 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 136 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 137 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 138 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 139 -> Document ID: 29, Title: Uitvoeringsovereenkomst+DAEB+de-minimis+Intergenerationeel+Wonen+2024
+Embedding 140 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 141 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 142 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 143 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 144 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 145 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 146 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 147 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 148 -> Document ID: 30, Title: Format+plan+van+aanpak+Landelijk+dekkend+netwerk+onderwijsregio's
+Embedding 149 -> Document ID: 31, Title: Verklaring+zorgaanbieder+-+Zorgmedewerkers+met+langdurige+post-COVID+(versie+ronde+2)
+Embedding 150 -> Document ID: 32, Title: Jaarverslaglegging+jaar+1+Versterking+aansluiting+beroepsonderwijskolom
+Embedding 151 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 152 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 153 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 154 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 155 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 156 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 157 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 158 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 159 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 160 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 161 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 162 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 163 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 164 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 165 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 166 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 167 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 168 -> Document ID: 33, Title: CTL-plan+format+2de+ronde+(7+juni+2024)
+Embedding 169 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 170 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 171 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 172 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 173 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 174 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 175 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 176 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 177 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 178 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 179 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 180 -> Document ID: 34, Title: Introductie+DUS-I
+Embedding 181 -> Document ID: 35, Title: Regeling+specifieke+uitkering+stimulering+sport
+Embedding 182 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 183 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 184 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 185 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 186 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 187 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 188 -> Document ID: 36, Title: Stagefonds+Zorg
+Embedding 189 -> Document ID: 37, Title: Subsidie+Informatie
+Embedding 190 -> Document ID: 37, Title: Subsidie+Informatie
+Embedding 191 -> Document ID: 37, Title: Subsidie+Informatie
+Embedding 192 -> Document ID: 37, Title: Subsidie+Informatie
+Embedding 193 -> Document ID: 37, Title: Subsidie+Informatie
+Embedding 194 -> Document ID: 38, Title: De+Brede+SPUKregeling
+Embedding 195 -> Document ID: 38, Title: De+Brede+SPUKregeling
+Embedding 196 -> Document ID: 39, Title: Terugblik2023
+Embedding 197 -> Document ID: 39, Title: Terugblik2023
+Embedding 198 -> Document ID: 40, Title: Bouwsteen+3,+Subsidieregeling+LLO-professionalisering+opleiders+2023–2026
+Embedding 199 -> Document ID: 40, Title: Bouwsteen+3,+Subsidieregeling+LLO-professionalisering+opleiders+2023–2026
+Embedding 200 -> Document ID: 40, Title: Bouwsteen+3,+Subsidieregeling+LLO-professionalisering+opleiders+2023–2026
+Embedding 201 -> Document ID: 40, Title: Bouwsteen+3,+Subsidieregeling+LLO-professionalisering+opleiders+2023–2026
+Embedding 202 -> Document ID: 41, Title: Subsidieregeling+Biotech+Booster
+Embedding 203 -> Document ID: 42, Title: RIF-2
+Embedding 204 -> Document ID: 42, Title: RIF-2
+Embedding 205 -> Document ID: 42, Title: RIF-2
+Embedding 206 -> Document ID: 42, Title: RIF-2
+Embedding 207 -> Document ID: 42, Title: RIF-2
+Embedding 208 -> Document ID: 42, Title: RIF-2
+Embedding 209 -> Document ID: 42, Title: RIF-2
+Embedding 210 -> Document ID: 42, Title: RIF-2
+Embedding 211 -> Document ID: 42, Title: RIF-2
+Embedding 212 -> Document ID: 42, Title: RIF-2
+Embedding 213 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 214 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 215 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 216 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 217 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 218 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 219 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 220 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 221 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 222 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 223 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 224 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 225 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 226 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 227 -> Document ID: 43, Title: Stand+van+uitvoering+2023
+Embedding 228 -> Document ID: 44, Title: Directeur+DUS-i
+Embedding 229 -> Document ID: 44, Title: Directeur+DUS-i
+Embedding 230 -> Document ID: 45, Title: BOSA2025
+Embedding 231 -> Document ID: 45, Title: BOSA2025
+Embedding 232 -> Document ID: 45, Title: BOSA2025
+Embedding 233 -> Document ID: 45, Title: BOSA2025
+Embedding 234 -> Document ID: 45, Title: BOSA2025
+Embedding 235 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 236 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 237 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 238 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 239 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 240 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 241 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 242 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers
+Embedding 243 -> Document ID: 46, Title: Controleren+van+subsidieaanvragers

@@ -6,7 +6,7 @@ import torchvision
 torchvision.disable_beta_transforms_warning()
 
 # 1. Laad de Data
-dataset = load_dataset("json", data_files={"train": "/home/RaThorat/my-chatbot-project/Data/filtered_data.jsonl"})
+dataset = load_dataset("json", data_files={"train": "/home/RaThorat/my-chatbot-project/Data/doc_chunks.jsonl"})
 label_list = list(set([item["label"] for item in dataset["train"]]))  # Automatisch labels ophalen
 
 # 2. Preprocessing
