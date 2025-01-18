@@ -27,7 +27,7 @@ Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openba
 Bronnen: Prodi.gy Deployment Guide (https://prodi.gy/docs/deployment#vm-deploy) en GCP Demo (https://www.youtube.com/watch?v=ZLbUtsTgwRM).
 
 ### Dataset Voorbereiding
-- **Bronnen**: Chunks (200 woorden per chunk) uit 15 documenten van de DUS-I-website handmatig verzameld in json formaat. Voor named entity recognition model, 30 tekst documenten van de DUS-i website schoongemaakt en gecombineerd. Voor text categorization model, dezelfde documenten omgezet naar JSONL-formaat.   
+- **Bronnen**: Chunks (200 woorden per chunk) uit 46 documenten van de DUS-I-website handmatig verzameld in json formaat. Voor named entity recognition model, 30 tekst documenten van de DUS-i website schoongemaakt en gecombineerd. Voor text categorization model, dezelfde documenten omgezet naar JSONL-formaat.   
 - **Indexeren**: Chunks geindexeerd met faiss_index.py
 
 ### Modelontwikkeling

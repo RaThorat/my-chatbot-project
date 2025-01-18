@@ -36,8 +36,8 @@ textcat_model = AutoModelForSequenceClassification.from_pretrained(hf_model_path
 textcat_pipeline = pipeline("text-classification", model=textcat_model, tokenizer=textcat_tokenizer)
 
 # Generatief model laden
-tokenizer_generative = AutoTokenizer.from_pretrained("google/flan-t5-large")
-model_generative = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-large")
+tokenizer_generative = AutoTokenizer.from_pretrained("./models/fine_tuned_generative_model")
+model_generative = AutoModelForSeq2SeqLM.from_pretrained("./models/fine_tuned_generative_model")
 
 conversation_history = {}  # Sleutel: sessie-ID, Waarde: lijst van gespreksbeurten
 session_timestamps = {}  # Sleutel: sessie-ID, Waarde: laatste actieve timestamp
