@@ -1,25 +1,27 @@
 from flask import Flask, request, jsonify, render_template
 import spacy
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForSequenceClassification, pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM, AutoModelForSequenceClassification, pipeline
 import logging
 import os
 from faiss_search import search_faiss_with_content
 import webbrowser
 import warnings
 import traceback
+import re
+from apscheduler.schedulers.background import BackgroundScheduler
+from datetime import datetime, timedelta
+import atexit
 
-from torchvision import disable_beta_transforms_warning
-from apscheduler.schedulers.background import BackgroundScheduler  # Toegevoegd voor geplande opschoning
-from datetime import datetime, timedelta  # Gebruikt voor sessietimestampbeheer
-import atexit  # Voor nette afsluiting van de planner
+# Zet omgevingsvariabelen
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+# Onderdruk waarschuwingen
 warnings.filterwarnings("ignore")
-disable_beta_transforms_warning()
 
-# Flask-app initialisatie
+# Initialiseer Flask-app
 app = Flask(__name__, template_folder=os.path.join(os.getcwd(), "templates"))
 
-# Logging-instellingen
+# Stel logging in
 logging.basicConfig(
     filename="chatbot.log",
     level=logging.INFO,
@@ -35,50 +37,59 @@ textcat_tokenizer = AutoTokenizer.from_pretrained(hf_model_path)
 textcat_model = AutoModelForSequenceClassification.from_pretrained(hf_model_path)
 textcat_pipeline = pipeline("text-classification", model=textcat_model, tokenizer=textcat_tokenizer)
 
-# Generatief model laden
-tokenizer_generative = AutoTokenizer.from_pretrained("./models/fine_tuned_generative_model")
-model_generative = AutoModelForSeq2SeqLM.from_pretrained("./models/fine_tuned_generative_model")
+# Laad fine tuned GPT-NL 1.3B generatief model
+tokenizer_generative = AutoTokenizer.from_pretrained("./models/fine_tuned_gpt_nl")
+model_generative = AutoModelForCausalLM.from_pretrained("./models/fine_tuned_gpt_nl")
 
-conversation_history = {}  # Sleutel: sessie-ID, Waarde: lijst van gespreksbeurten
-session_timestamps = {}  # Sleutel: sessie-ID, Waarde: laatste actieve timestamp
+# Voeg padding-token toe
+if tokenizer_generative.pad_token is None:
+    tokenizer_generative.pad_token = tokenizer_generative.eos_token
+    model_generative.resize_token_embeddings(len(tokenizer_generative))
+
+conversation_history = {}
+session_timestamps = {}
 
 @app.route("/opschonen", methods=["POST"])
 def cleanup_sessions():
     """
-    Oude sessies opruimen die langer dan 30 minuten inactief zijn.
+    Verwijder inactieve sessies ouder dan 30 minuten.
     """
-    nu = datetime.now()
-    inactief_drempel = timedelta(minutes=30)
-    te_verwijderen_sessies = [
+    now = datetime.now()
+    inactive_threshold = timedelta(minutes=30)
+    sessions_to_remove = [
         session_id for session_id, timestamp in session_timestamps.items()
-        if nu - timestamp > inactief_drempel
+        if now - timestamp > inactive_threshold
     ]
 
-    for session_id in te_verwijderen_sessies:
+    for session_id in sessions_to_remove:
         conversation_history.pop(session_id, None)
         session_timestamps.pop(session_id, None)
 
-    logging.info(f"Opschonen voltooid. {len(te_verwijderen_sessies)} sessies verwijderd.")
-    return jsonify({"status": "Opschonen voltooid", "verwijderde_sessies": len(te_verwijderen_sessies)})
+    logging.info(f"Opschonen voltooid. {len(sessions_to_remove)} sessies verwijderd.")
+    return jsonify({"status": "Opschonen voltooid", "verwijderde_sessies": len(sessions_to_remove)})
 
-def generate_answer_with_context(prompt, max_length=150, temperature=0.7):
+def generate_answer_with_context(prompt, max_length=100, temperature=0.7):
     try:
-        inputs = tokenizer_generative(prompt, return_tensors="pt", padding=True, truncation=True)
+        inputs = tokenizer_generative(prompt, return_tensors="pt", padding=True, truncation=True, max_length=512)
         outputs = model_generative.generate(
             inputs.input_ids,
             attention_mask=inputs.attention_mask,
             max_new_tokens=max_length,
-            temperature=temperature,
+            temperature=0.5,  # Meer deterministische antwoorden
+            top_p=0.9,
+            top_k=50,
             do_sample=True,
             no_repeat_ngram_size=2,
-            repetition_penalty=1.5,
             pad_token_id=tokenizer_generative.pad_token_id
         )
-        return tokenizer_generative.decode(outputs[0], skip_special_tokens=True)
-    except Exception as e:
-        logging.error(f"Fout bij genereren van antwoord: {e}")
-        return "Er is een fout opgetreden bij het genereren van het antwoord. Probeer het later opnieuw."
 
+        response = tokenizer_generative.decode(outputs[0], skip_special_tokens=True).strip()
+        if not response:
+            return "Ik kan daar op dit moment geen antwoord op geven."
+        return response
+    except Exception as e:
+        logging.error(f"Fout bij het genereren van een antwoord: {e}")
+        return "Er is een fout opgetreden bij het genereren van het antwoord. Probeer het later opnieuw."
 
 def process_user_input(user_input):
     try:
@@ -93,12 +104,24 @@ def process_user_input(user_input):
         logging.error(f"Fout in process_user_input: {e}")
         return {"intent": "default", "entities": []}
 
-def summarize_content(Content, max_length=150):
-    if not Content:
+def summarize_content(content, max_length=150):
+    if not content:
         return "Geen relevante context beschikbaar."
-    if len(Content) > max_length:
-        return Content[:max_length].strip() + "..."
-    return Content
+    clean_content = " ".join(content.split()).strip()  # Verwijder overbodige witruimtes
+    if len(clean_content) > max_length:
+        return clean_content[:max_length].strip() + "..."
+    return clean_content
+
+
+def get_relevant_history(conversation_history, intent=None):
+    if intent:
+        return "\n".join(
+            [f"Gebruiker: {item['user']}\nBot: {item['bot']}" 
+             for item in conversation_history if "intent" in item and item["intent"] == intent]
+        )
+    return "\n".join(
+        [f"Gebruiker: {item['user']}\nBot: {item['bot']}" for item in conversation_history]
+    )
 
 @app.route("/")
 def index():
@@ -112,83 +135,95 @@ def index():
 def chat():
     try:
         query = request.args.get("query")
-        session_id = request.args.get("session_id")  # Veronderstel dat session_id door de frontend wordt meegegeven
+        session_id = request.args.get("session_id")
         if not query or not session_id:
-            return jsonify({"error": "Query en session_id parameters zijn verplicht"}), 400
+            return jsonify({"error": "Query- en session_id-parameters zijn verplicht"}), 400
 
-        # Initialiseer gespreksgeschiedenis als deze nog niet bestaat
         if session_id not in conversation_history:
             conversation_history[session_id] = []
 
-        # Update de laatste actieve timestamp voor de sessie
         session_timestamps[session_id] = datetime.now()
 
-        # Verwerk gebruikersinvoer
+        # Verwerk de query
         model_results = process_user_input(query)
-        # Voeg dit toe in de chat-functie, vlak na het verkrijgen van `model_results`
-        intent = model_results["intent"]  # Definieer intent expliciet
+        intent = model_results["intent"]
         detected_entities = [entity["entity"] for entity in model_results["entities"]]
+        if not detected_entities:
+            detected_entities = ["Geen entiteiten gevonden."]
+
+        # FAISS-zoekopdracht
         raw_faiss_results = search_faiss_with_content(query, top_k=5)
 
-        # Relevante context ophalen
         relevant_faiss_result = None
         for result in raw_faiss_results:
             if any(entity in result["Content"] for entity in detected_entities):
                 relevant_faiss_result = result
                 break
-        if not relevant_faiss_result and raw_faiss_results:
-            relevant_faiss_result = raw_faiss_results[0]
+        if not relevant_faiss_result:
+            relevant_faiss_result = raw_faiss_results[0] if raw_faiss_results else {"Content": "Geen relevante context gevonden.", "Title": "Geen titel beschikbaar"}
 
-        # Haal titel en samenvatting op
         summarized_context = summarize_content(relevant_faiss_result["Content"])
         title = relevant_faiss_result.get("Title", "Geen titel beschikbaar")
 
-        # Stel de gespreksgeschiedenis samen (laatste 5 interacties)
-        history = "\n".join(
-            [f"Gebruiker: {item['user']}\nBot: {item['bot']}" for item in conversation_history[session_id][-5:]]
-        )
-
+        # Combineer de prompt voor generatieve modellen
         combined_prompt = (
-            f"Gespreksgeschiedenis:\n{history}\n"
+            f"Je bent een chatbot die informatie geeft over subsidies en DUS-i. "
+            f"Gebruik alleen de gegeven context. "
+            f"Gespreksgeschiedenis:\n{get_relevant_history(conversation_history[session_id])}\n"
             f"Nieuwe vraag: {query}\n"
-            f"Context: {relevant_faiss_result['Content']}\n\n"
+            f"Context: {summarized_context}\n\n"
             f"intent: {intent}\n\n"
             f"entities: {detected_entities}\n\n"
-            "Geef een gedetailleerd antwoord op basis van de geschiedenis en context."
+            f"Geef een bondig en feitelijk antwoord."
         )
-        concise_answer = generate_answer_with_context(combined_prompt, max_length=150)
 
-        # Update gespreksgeschiedenis
+        # Genereer het antwoord
+        full_answer = generate_answer_with_context(combined_prompt, max_length=170)
+
+        # Isolate the part after the prompt
+        def extract_model_answer(prompt, response):
+            # Remove the prompt from the response
+            if response.startswith(prompt):
+                return response[len(prompt):].strip()
+            return response.strip()
+
+        # Get the actual answer by removing the prompt
+        actual_answer = extract_model_answer(combined_prompt, full_answer)
+
+        # Truncate to two sentences
+        def get_two_sentences(text):
+            sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+            return ' '.join(sentences[:2])
+
+        concise_answer = get_two_sentences(actual_answer)
+
+        # Sla de gespreksgeschiedenis op
         conversation_history[session_id].append({"user": query, "bot": concise_answer})
 
+        # Return alleen relevante data, zonder de prompt
         return jsonify({
             "query": query,
             "intent": model_results["intent"],
             "entities": model_results["entities"],
             "context_document": summarized_context,
             "document_title": title,
-            "concise_answer": concise_answer
+            "concise_answer": concise_answer  # Alleen het antwoord
         })
-
     except Exception as e:
         logging.error(f"Fout in chat endpoint: {e}")
         logging.error(traceback.format_exc())
         return jsonify({"error": "Interne serverfout"}), 500
 
 
-# Planner voor periodieke sessie-opschoning
+# Geplande sessie-opschoning
 def trigger_session_cleanup():
-    """
-    Roep periodiek het opschoningsendpoint aan.
-    """
     with app.app_context():
         cleanup_sessions()
 
 scheduler = BackgroundScheduler()
-scheduler.add_job(trigger_session_cleanup, 'interval', minutes=30)  # Elke 30 minuten uitvoeren
+scheduler.add_job(trigger_session_cleanup, 'interval', minutes=30)
 scheduler.start()
 
-# Zorg ervoor dat de planner stopt bij afsluiten
 atexit.register(lambda: scheduler.shutdown())
 
 if __name__ == "__main__":
@@ -199,3 +234,5 @@ if __name__ == "__main__":
     except Exception as e:
         logging.warning(f"Kon browser niet openen: {e}")
     app.run(host="0.0.0.0", port=port, debug=False)
+
+

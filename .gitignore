@@ -7,13 +7,11 @@ __pycache__/
 *.pyc
 *.pyo
 
-results/
-
 node_modules/
 *.log
 *.tmp
 
-models/textcat_model/model.safetensors
+models/
 results/
 
 *.log

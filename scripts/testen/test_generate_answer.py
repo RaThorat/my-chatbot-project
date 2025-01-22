@@ -1,8 +1,8 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Laad GPT-Neo 125M model en tokenizer
-tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-125M")
-model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-125M")
+tokenizer = AutoTokenizer.from_pretrained("./models/fine_tuned_gpt_nl")
+model = AutoModelForCausalLM.from_pretrained("./models/fine_tuned_gpt_nl")
 
 
 if tokenizer.pad_token is None:
