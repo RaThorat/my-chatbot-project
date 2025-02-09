@@ -130,3 +130,15 @@ Na succesvolle testing, schaal je de oplossing op naar je volledige dataset.
 curl -X GET "http://127.0.0.1:5000/chat?query=Wat+is+DUS-i?"
 
 python3 ./scripts/doc_chunk_text_to_jsonl.py
+
+source venv/bin/activate
+
+How to upload spacy model to Huggingface:
+python -m spacy huggingface-hub push your-hf-RaThorat/ner_model
+python -m spacy package /home/RaThorat/my-chatbot-project/models/ner_model /home/RaThorat/my-chatbot-project --build wheel
+
+cd /home/RaThorat/my-chatbot-project/nl_pipeline-0.0.0/dist
+
+python -m spacy huggingface-hub push nl_pipeline-0.0.0-py3-none-any.whl
+
+pip install https://huggingface.co/RaThorat/nl_pipeline/resolve/main/nl_pipeline-any-py3-none-any.whl
