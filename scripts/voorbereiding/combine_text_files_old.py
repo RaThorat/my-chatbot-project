@@ -27,7 +27,7 @@ def combine_text_files(input_folder, output_file):
         print(f"Alle bestanden zijn samengevoegd in '{output_file}'.")
 
 # Pad naar de map met .txt-bestanden
-input_folder = "/home/gebruiker/Documenten/git_workspace/my-chatbot-project/Data/raw"
+input_folder = "/home/gebruiker/Documenten/git_workspace/my-chatbot-project/Data/txt"
 
 # Pad naar het uitvoerbestand
 output_file = "combined_documents.txt"
