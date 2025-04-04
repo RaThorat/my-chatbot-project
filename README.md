@@ -63,7 +63,7 @@ Het doel is een schaalbare, privacyschone oplossing die gebruik maakt van openba
   prodigy train ./models --ner ner_dataset --lang nl --label-stats --verbose --eval-split 0.2
   ```
 
-- **Integratie:** Textcat- en NER-modellen gecombineerd in een pipeline (`ner_textcat_pipeline.py`).
+- **Integratie:** Textcat- en NER-modellen gecombineerd in een pipeline (`ner_textcat_pipeline.py`). De ner_dataset.jsonl in map Data is de geannoteerde data van de tekst combined_text.txt.
 
 ### Fine Tuning GPT-NL/1.3B model
 
